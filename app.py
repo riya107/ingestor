@@ -31,6 +31,7 @@ def upload_resumes():
             discarded_files.append(file_data.filename)
 
     if len(discarded_files) == total_flies:
+        os.rmdir(os.path.join(config.RESUMES_PATH, timestamp))
         return {'error': True, 'message': 'Only txt, docx, and pdf files are allowed.'}, 400
 
     uploaded_files = total_flies - len(discarded_files)
@@ -38,7 +39,7 @@ def upload_resumes():
     if len(discarded_files) == 0:
         message = 'Files uploaded successfully.'
     else:
-        message = f'{uploaded_files} are uploaded successfully. {len(discarded_files)} are discarded.'
+        message = f'Uploaded files: {uploaded_files}, Discarded Files {len(discarded_files)}.'
 
     return {'error': False, 'message': message, 'response': {'resume_path': timestamp, 'discared_files': discarded_files}}, 200
 
