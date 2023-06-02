@@ -1,0 +1,51 @@
+Last Upda ted on 1st No vember 2019
+AliÖZEN
+alio zende v @gmail.c om | +90 (506) 985 - 7299 |
+EDUCATION
+ESKISEHIR OSMANGAZI UNI-
+VERSITY
+MATHEMATICS AND
+COMPUTER SCIENCE
+Agu 2016
+LINKS
+LinkedIn:// aliozen
+Github:// aozen
+SKILLS
+TECHNICAL SKILLS
+pr oficien t with:
+PHP•Javascript •MySQL •HTML
+GIT•Jquery •OOP •Linux
+Impr o ving my sel f with:
+Vue.js •React •React Native
+Ha ve an idea with:
+Angular •Unity •
+SOFT SKILLS
+Problem Solver •
+Excited tolearn newthings •
+Team work •EXPERIENCE
+WEBFORMANS | BACKEND DEVELOPER
+J ul y 2019 - Presen t | A taşehir, İs tanbul
+•Worked forautomotive .
+•5+Personal -Company website setup |publish.
+PENTA SOFTWARE | BACKEND DEVELOPER
+Ma y 2018 – J ul y 2019 | Pendik , İs tanbul
+•20+Personal -Company website setup |publish.
+•5+Admin panel, crmbuild |server -database management
+•Worked likeafullstack most ofthetime
+DILTA SOFT | DATABASE MANAGEMENT
+J une 201 7 – Apr 2018 | O smangazi, B ur sa
+•Worked onacompanies database builds.
+•Created 3+website forpublicity
+TECHNICAL PROJECTS
+PERSONAL ADMIN PANEL | DEVELOPMENT
+J an 2018 – Presen t
+Working withmyownadmin panel. Developing allthetime. When acustomer needs
+awebsite iampresenting withatemplate.
+USEFUL WEB COMPONENTS | WITH CO-WORKERS
+From 2018 when iwasin Penta Software wearedeveloped some useful web
+components which are:
+Turkey svgmapwithdynamic datas andjquery effects
+Filterable Tables
+Input Masks
+Turkish translated composer packages
+Language packages andmiddlewares

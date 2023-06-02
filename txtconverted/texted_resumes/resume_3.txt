@@ -1,0 +1,50 @@
+Ahmed Mohamed Labib Mustafa
+Computer Engineer
+PERSONAL DETAILS
+Birth November 9, 1992
+Address 6 Mushier Ahmed Badawi St, Alexandria
+Phone 01063044629
+Mail ahmed.m.labib2010@gmail.com
+EDUCATION
+Bachelor of Science 2009-2014
+Alexandria Higher Institute of Engineering and Technology (AIET).
+0.1 Project:E-Learning Application For Persons With Deaf and mute
+I was part of a team developing a Software and hardware tools to help the persons with
+Deaf and mute to learn remotely Using J2EE "JSF primefaces,Hibernate,android and
+arduino.
+Project Supervised by Dr.Saleh Abd El-Shakour El-Shehaby. ,Discussed by Dr.Amien
+shokry
+WORK EXPERIENCE
+Instructor9/2014-
+1/2015
+Alexandria Higher Institute of Engineering and Technology
+I have worked only for 4 month due to military service
+SKILLS
+Development Java SE ,Java EE ,JSP,JSF ,C++
+Database MySQL
+Tools Net Beans,Eclipse
+Languages Arabic (mother tongue)
+English (Very Good)
+TRAINING COURSES
+Fundamentals of the Java programming Language. 2012
+ITS Training Center.
+Java programming Language. 2012
+ITS Training Center.Java programming Language. 2012
+ITS Training Center.
+Introduction to MySQL Database (Java). 2012
+ITS Training Center.
+Java| Enterprise Connectivity. 2013
+ITS Training Center.
+Web Component Development with Servlet and JSP 2013
+ITS Training Center.
+Java Server Faces (JSF). 2013
+ITS Training Center.
+Object-Oriented Analysis and Design Using UML. 2013
+ITS Training Center.
+PERSONAL SKILLS
+Hard worker.
+Pleasing personality.
+Good listener
+Flexible
+Self motivated
+Highly organized and ecient

@@ -1,0 +1,58 @@
+Sandeep O H
+Education
+2012-2016 Bachelor of Engineering (B.E) ,P.E.S Institute of Technology, Bangalore South Campus , India.
+Visvesvaraya Technological University, Belgaum, Karnataka, India.
+{Computer Science and Engineering
+{Aggregate Score : 64.2 %
+2011-2012 All India Senior School Certiﬁcate Exam ,Kendriya Vidyalaya Kalpetta,kerala , India.
+Central Board of Secondary Education
+{Marks Obtained - 85.5 %
+2000-2010 All India Secondary School Examination ,Kendriya Vidyalaya Kalpetta,kerala , India.
+Central Board of Secondary Education
+{Marks Obtained - 9.4 CGPA
+Computer skills
+Programming
+languages
+and APIsC, C++, Android API, MYSQL
+Development
+ToolsEclipse, Android Studio, Code Blocks
+Operating
+SystemsWindows, Linux
+Projects
+2015Heart Rate Monitor .
+An external low power system was used to monitor the heart rate.This was used in combination with
+Arduino uno board to read the heart rate of any subject.The idea of the project was to provide raw data to a
+doctor so that he can monitor the state of the patient over a period of time and come up with an optimal prescription.
+2015Motor Sport .
+A simple window based game developed using openGL library and C. It is a game which is used to simulate car
+racing, helps improving hand eye coordination. This game is a single player game.It has three levels in which a
+player has to move the car in the left and right directions to avoid the obstacles in the way.When the car hits the
+obstacles it crashes.
+Additional Technical Exposure
+2015 Attended HackIndia held at PES Institute Of Technology
+2015 Attended Hack Housing held at Vivanta by Taj
+2015 Attended the Tech World Android Workshop
+2015 Attended kludge 2015 held at pesit-bsc
+H+91 7760750844 •Bsandeepoh@gmail.comAchievements and extra curricular activities
+- Obtained 2nd position in a coding competition held at BNMIT
+- Member of college Football team
+- Have represented the college in numerous Football, Volleyball and Badminton tournaments
+- Participated in marathon running
+- An active member of the NGO "Sankalp"
+- Active member of the Organizing committee of the college fest MAAYA
+- Member of the Core team member in Annual activity day
+- Member of the creative department
+- Organised number of events during the college fest and inter department competitions
+Personal Details
+Full Name Sandeep O H
+Father’s
+nameHaridasan P K
+Date of Birth 12thSeptember, 1993
+Nationality Indian
+Gender Male
+Current
+Residential
+AddressT-10, Swaparnika Apartments, Basapura main road
+Hosa road junction,
+Bangalore - 560100
+H+91 7760750844 •Bsandeepoh@gmail.com

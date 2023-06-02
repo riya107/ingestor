@@ -1,0 +1,79 @@
+Surabhi Bhargava
+surabhi9b@gmail.com
+https://surabhibhargava.github.io/
+EDUCATION
+Indian Institute of Technology, Guwahati
+B.Tech, Electronics and Electrical Engineering | 8.43/10
+M.G.D. Girls School, Jaipur
+Graduated in 2012 | 92.6%
+SKILLS
+Programming C, C++, Python, Matlab, Perl
+Operating Systems Linux, Windows
+COURSEWORK
+Data structures and Algorithms
+Computer Vision
+Digital Image Processing
+Pattern Recognition and Machine Learning
+Parallel Processing
+Speech Technology
+Bio-medical Signal Processing
+Game Theory
+WORK EXPERIENCE
+Flipkart, India | Graduate Trainee Intern
+Ravi Iyer | May 2015 - July 2015
+•Worked on analyses of customer payment
+behaviour with the Payment Gateways team
+at Flipkart.
+•Analyses were based on geographic and
+demographic variables.
+•Developed a tool which predicted the
+feasibility of a certain percentage of discount
+at category and vertical level.
+IIT Roorkee | Research Intern
+Prof. Anand Bulusu | May 2014-July 2014
+•Derived a delay model for CMOS two stage
+inverter buffer.
+•Developed a tool (Perl and HSPICE) to
+generate Look up tables for calculation of
+delay for a single stage inverter, two stage
+inverter buffer and static D latch.PROJECTS
+Detection of nuclei in H&E stained images
+using Convolutional Neural Networks
+Prof. Amit Sethi | Ongoing
+•Trained a CNN for a three class classification
+problem - Nucleus, Non-Nucleus and
+Boundary.
+•Aim to reconstruct the original shape of the
+nucleus using the boundary and nucleus
+classes and various image processing
+techniques.
+Machine Learning mini-projects
+Prof. Suresh Sundaram | Jan 2015 - April 2015
+•Created a character recognition system for a
+few alphabets and numbers using Bayesian
+classifier.
+•Image Segmentation using K means
+clustering and Gaussian mixture models.
+•Face recognition using Principal component
+analysis and Fischer discriminant.
+Wall Climbing Robot
+Prof. Prithwijit Guha | Jan 2015 - April 2015
+•Built a wall climbing robot which could
+travel on flat as well as slightly uneven
+surfaces.
+PUBLICATIONS
+Chaurasiya, Y., Bhargava, S., Sharma, A., Kaur,
+B., & Anand, B. (2015, June). Timing model for
+two stage buffer and its application in ECSM
+characterization. In VLSI Design and Test
+(VDAT), 2015 19th International Symposium
+on(pp. 1-6). IEEE.
+ACHIEVEMENTS
+•KVPY fellow
+•Khemka Fellow – Recipient of scholarship
+from The Global Education and Leadership
+Foundation.
+•National level swimmer, Bagged a total of 9
+medals (8 silver and one bronze) at the Inter
+IIT Aquatics meet 2012, 2013 and 2014.
+1

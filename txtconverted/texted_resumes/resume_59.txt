@@ -1,0 +1,39 @@
+LOIS KELLER SMITH
+716-536-8998 lois.smith317@gmail.com
+556 North Shore Drive 1 South Haven, MI 49090
+github: loisks317 blog: loisks.blogspot.com
+EDUCATION
+University of Michigan September 2013 - Present
+Space Science Masters in 2015, Ph.D. in September, 2016
+Michigan Institute of Computational Discovery Certicate, 2016
+University of Colorado at Boulder 2011-2012
+BA in Physics, Minor in Classics
+DATA ANALYTICS SKILLS
+Programming Languages Python, SQL, Bash, IDL, Fortran, C/C++, MATLAB
+Python Packages Pandas, Matplotlib, Numpy, Scipy, F2py, Psycopg2,
+BeautifulSoup, Selenium, Spacepy, Davitpy, Jupyter
+Software & Tools HTML, LaTeX, Excel, Mathematica
+EXPERIENCE
+Insight Data Science June 2016 - August 2016
+Fellow
+Developed a program to analyze Fitness Tracker data and compare results with weather information
+from Weather Underground, providing user with an analysis how to optimize their activity based on
+past habits.
+Wrote an API to web scrape Polar Loop Fitness Tracker data
+Data was obtained with Selenium, Data was managed through SQL, Pandas and Scipy were used for
+analysis, and Matplotlib was used for visualizations
+NSF Graduate Research Fellow September 2013 - September 2016
+Graduate Reseach Assistant
+Analyzed multiple time series satellite data sets ( >1 Tb of data) to explore low energy ion loss in the
+inner Plasmasphere
+Developed an analytic model to demonstrate loss of ions from increased wave activity
+Developed algorithm to properly account for variability in the low energy ion pitch angle measurements
+when calculating partial ion densities.
+ACHIEVEMENTS
+Michigan Institute for Computational Discovery Fellow Spring 2015
+NSF GROW Fellowship Awardee Spring 2015
+Community Coordinated Modeling Center Research Winner Spring 2015
+NSF Graduate Research Fellowship Program Fellow Spring 2014
+Rackham Merit Fellow Fall 2013
+Template Developer for LaTeX September 2013 - Present
+Backpacker and Hiking Enthusiast - have climbed 7 >14,000 ft peaks

@@ -1,0 +1,47 @@
+Vidyarath KateBachelors Of Science - Chemistry
+University of Mumbai, Mumbai | Bhavans College
+Graduation Date: June 2015
+H+91-9702654005
+Bvidharth.kate@gmail.comÍwww.linkedin.com/in/vidharth-kate/
+vidharth_kate on HackerRank, GitHub, Kaggle
+Work Experience
+•Senior Product Operation Analyst - Media.net (Oct ’17 – Present)
+Mumbai - India
+◦Partner with Product operations and Management teams and help shape business objectives by deﬁning business insights and
+creating a data visualization dashboards on Tableau for the same.
+◦Led project teams, internal and external, to achieve project deﬁned milestones and deliverables.
+◦Be the ﬁrst line of contact for the business and sales team for any data request/technical issues/questions.
+◦Analyzed data from the day to day business plans and actual statistics to identify proﬁtable revenue growth opportunities/insights
+forContent Monetization business unit by creating custom reports.
+◦Provided monthly, quarterly and other ad hoc performance reports with strategic recommendations using ROI analysis .
+◦Integrated multiple data sources to create dashboards, visual event ﬂows to generate valuable data-driven insights from analysis,
+created eﬀective reporting results using tools like Tableau, Druid Analytics, and BigQuery .
+◦Developed and optimized various business reports to help Business Development teams to make an eﬀective decision on buying and
+selling of performing keywords.
+◦Acted as a liaison between several levels of the organization with business process evaluations and improvements.
+◦Technologies used, MySQL MS SQL ,Druid Analytics , Apache Hive.
+•Research Analyst - DirectI (Media.net) (Oct ’15 – Oct ’17)
+Mumbai, India
+◦Conducted A/B, multivariate tests & studied user behavior using druid analytics to increase conversions on served keywords on
+various publisher domain.
+◦Created performance reports of multiple behavioural channels for diﬀerent Business Unit such as Search Engine Monetization (SEM)
+◦Understood digital media industry trends, and developed in-depth, vertical-based insights that contributed to higher proﬁt margins
+by over 20 per cent .
+◦Work on customers portfolio to optimise ad performance by plotting acquisition, behaviour and conversion tunnel.
+◦Optimise served keyword terms to higher the conversion rate by 30-40 per cent.
+Projects
+•Header Bidder - Media.net
+Druid Analytics, SQL, Tableau
+◦Analyze the data by using druid analytics for better Bidding performance and Created a tableau report on a base of bidding data.
+◦Understand the bid-test ﬁeld to determine the best bid for the provided ad slot.
+◦Worked on bidder’s data tooptimise the revenue and lower the bid cost .
+•Google Analytics Data Cleaning & Visualization Github Link
+BigQuery Library, Pandas, Matplotlib, Seaborn
+◦Reading the data from the Google BigQuery public dataset by using BigQuery library .
+◦Deﬁning python function to un-nest nested array lists within pandas Data-Frame.
+◦Identiﬁed correlation between columns by plotting data using Seaborn and Matplotlib and answered some of the key business
+queries.
+Skills and Interests
+Tools Tableau, Google Analytics, Power BI, Druid Analytics, Kibana, BigQuery
+Database Hive, Druid, MS SQL, MySQL
+Languages Python , Pandas, Matplotlib, Seaborn, NumPy, HTML, CSS

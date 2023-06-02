@@ -1,0 +1,68 @@
+NAVNEET PANDEY
+M.Tech. in Electrical Engineering
+PERSONAL DETAILS
+Birth January 05, 1994
+Address kadipur, Sultanpur Uttar Pradesh 228145
+Phone +91-9654961533
+E-mail navneetpandey94@gmail.com
+navneetpandey.eee17@itbhu.ac.in
+EDUCATION
+M.Tech. Indian Institute of Technology,Varanasi 2017-2019
+Secured 8.34 CGPA.
+B.Tech. Greater Noida Institute of Technology greater Noida 2011-2015
+Secured 73.34 percentage.
+12th SVM Inter College 2008-2010
+Uttar Pradesh Board of Higher Education
+Secured 78.20% marks in 12th standard.
+10th SVM Inter College 2008
+Uttar Pradesh Board of Secondary Education
+Secured 64.50% marks in 10th standard.
+INTERNSHIPS
+Industrial Training may 14- july 14
+IPGCL, New Delhi
+Title : Relational inductive biases, deep learning, and graph networks
+Supervision : Under Dr. Malay Bhattacharyya, ISI, Kolkata
+About : Analyzing the neural networks to operate on graphs.
+Summer Internship May'13-June'13
+Logicon Automation Lucknow
+Title : Overview of PLC SCADA and thier programming
+Supervision : Under Dr. Malay Bhattacharyya, ISI, Kolkata
+About : In this research work, we statistically analyzed how the miRNAs are related to
+Cancer causing mutations.
+PROJECTS
+M.Tech Project July'18-June'19
+Direct Torque Control of Induction MotorSupervision : Under Dr. N K Swami Naidu, IIT BHU, Varanasi
+We have developed a Network-On-Chip simulator, Noxim. Our main objective was
+to develop a simulator that can perform all types of functionalities in a single platform.
+Personal Project June'18-July'18
+Supervision : Under Dr. Santi P. Maity, IIEST, Shibpur
+Gold Code generation using 255 bit PN Generator and Multi-User Detection
+In this project we had designed a Gold Code Generator using two 255 bit PN Generator
+and analyzed its properties.
+Personal Project Dec'17-present
+Supervision : Under Dr. Prasun Ghosal, IIEST, Shibpur
+Online Compiler and data storage
+I am working on a website from where anyone can take help for their coding, they can upload
+their codes there, they can compile codes. If anyone wants to ask for help for particular
+purpose they can post their problem statement there.
+CERTIFICATIONS
+PHP with MySQL
+Aspirevision Tech, Microsoft
+Cloud Computing
+Electrocloud Labs of NIT Durgapur
+SKILLS
+Languages Bengali (mother tongue)
+English
+Programming
+LanguagesC/C++ ,Python ,PHP ,Java ,VHDL
+Software Matlab ,Xilinx ISE ,Bioinformatics ,SystemC
+Subjects Compiler Designing ,Computer Nteworks ,Algorithms
+Operaing System ,DBMS ,Microprocessor
+Computer Architecture and Organisation ,Graphics
+Automata Theory and Natural Languages
+Signals Systems and Circuits ,Data Structures
+Discrete Mathematics ,Communication Systems
+Digital Logic and Circuit Design
+EXTRA CURRICULAR ACTIVITIES
+1. Member of Society of Information Technology, IIEST, Shibpur
+2. Swimming

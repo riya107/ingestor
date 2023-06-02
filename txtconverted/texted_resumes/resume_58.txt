@@ -1,0 +1,40 @@
+Pratik Ravindra Aruja
+PERSONAL DETAILS
+Birth Octomber 4, 1994
+Address P,6 Zulelal Colony Shirpur
+Phone (+91) 9665835558
+Mail pratikaruja1111@gmail.com
+OBJECTIVE
+To acquire advanced knowledge in my concern. Seeking a challenging career where my
+academic excellence will add value towards organization and personal growth.
+EDUCATION
+M.C.A (Appear) 2016-2017
+North Maharashtra University
+Overall CGPA:5.79
+B.C.A 2014-2015
+North Maharashtra University
+Overall CGPA:7.79
+H.S.C 2011-2012
+Nashik Board
+Overall Result:49.33
+S.S.C 2009-2010
+Nashik Board
+Overall Result:66.91
+SKILLS
+Natural
+LanguagesSindhi (mother tongue)
+English
+Hindi
+Computer
+Languagesc,c++,java,php,asp.net,javascript
+Packages MS-Oce,Tally
+Database MS-Access,MySql
+AREA OF INTEREST
+Software DevlopementPROJECT SUMMERY
+Title: Medical Shop Management System in vb.net and java
+Description: This system is used to do all transaction like sales purchase main-
+tained stock detail etc.
+Title: Online Examination in asp.net
+Description: This is a web base system is used to give or take the exams online.
+I hereby declare that all the details in the application are true, complete and correct to
+the best of my knowledge and belief.

@@ -1,0 +1,32 @@
+SIDDHESH DOSI
+Ahimsa Marg, Near milk Dairy, Ghatol(Teh.), Banswara
+(+91)9587476395 siddheshdosi106@gmail.com
+EDUCATION
+Swami Keshwanand Institute of Technology August 2019 - Present
+Bachler's of Technology
+Department of Information Technology
+CARRIER OBJECTIVE
+To work for an organization which provides me the opportunity to improve my skills and knowledge to
+grow along with the organization objective.
+PROJECTS
+Hand Gesture Recognition
+The project aims at recognition of your hand's gesture. When you show hand it recognizes the pattern
+and perform the predened actions such as controlling the media player, web browser, and can also
+convert sign to text (human readable).
+TECHNICAL STRENGTHS
+Linux & Data science, M.L.,A.I.,N.N.
+Computer Vision, Data Structure & Algorithms
+Theory of computation, Digital logics Python,Java,C,C++ & Tools & MS Oce, Latex
+HTML, CSS, JS, & AWS, Docker,
+JavaScript
+WORK/TRANING EXPERIENCE
+Adhoc Networks, Jaipur June 2019
+Summer Intern
+On-site internship under this leading Institute. Learned and implemented various technologies in in-
+dustry 4.0 such as github, ansible, docker, aws, etc.
+ACADEMIC ACHIEVEMENTS
+Runners up in PANACHE's robotics event in VIT(Vivekanand Institute of Technology)
+EXTRA-CIRRUCULAR
+Member of Robotics Club, SKIT
+Instructor at Science and Technology Club, SKIT
+Member of Decoration team in E-WEEK 2018

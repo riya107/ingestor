@@ -1,0 +1,86 @@
+Dnyaneshwari Sonone
+Pre-Final Year B. Tech | Electrical E ngineering | IIT J odhpur
+sonone.1@iitj.ac.in | (+91)958887629 7
+EDUCATION
+UNDERGRADUATE (EE)
+IIT JODHPUR | EXPECTED 2021
+CGP A: 9.11/ 10.0 (Dept. rank 2)
+INTERMEDIATE (HSC)
+JIJAMATA MAHAVIDYALAYA | 201 7
+Percen tage: 84.8/ 100
+MATRICULATION (SSC)
+ANURADHA ENGLISH MEDIUM
+SCHOOL | 2015
+Percen tage: 9 7 .2/ 100
+COURSEWORK
+UNDERGRADUATE
+ongoing*
+Computer Programming
+Digital Logic andDesign
+Communication Systems *
+Signal andSystems
+Linear Algebra andCalculus
+Complex Analysis andDifferential
+Equations
+Probability, Statistics andRandom
+Processes
+Microprocessor andMicro Controllers*
+MOOC
+Machine Learning
+Digital Image Processing
+MATLAB Programming forNumerical
+Computation
+Data Structures
+SKILLS
+PROGRAMMING LANGUAGES
+•C/C++
+•Python
+•MATLAB
+OTHERS
+•Vivado (Familiar)
+•Scikit-Learn (MLtools)
+•HTML(Familiar)
+•Platforms: Windows, Linux
+LINKS
+Github:// Dnyaneshwari Sonone
+LinkedIn:// Dnyaneshwari SononePROJECTS
+E-VOTING | AUG 2019 – PRESENT
+Micr o so ft c odefundo++ | ONLINE V O TING APP | Github
+•Online voting webappused tocastavoteandtowatch thevotes recorded in
+realtime
+•Used Microsoft Azure Blockchain technology tomake voting procedure more
+secure andtransparent
+CLASSIFICATION OF MENTAL STATE | MAY 2019 – JULY 2019
+Dr . R ajlaxmi Chouhan | IIT J odhpur
+•Designed amachine learning model inpython toclassify themental state ofa
+student asconfused ornotconfused
+•Trained theclassiﬁer withfeature vectors obtained from EEGsignals ofthe
+brain using Gaussian Naive Bayes algorithm (88.0 percent accurate)
+FACE RECOGNITION SYSTEM | FEB 2019 – APRIL 2019
+Dr . R ajlaxmi Chouhan | IIT J odhpur
+•Designed anddeveloped afacerecognition system todetect andidentify the
+most resembling faces from thegiven testimage
+•Used themethod ofeigenfaces andeigenvalues totrain themanually prepared
+dataset inMATLAB software (91.6 percent accurate)
+IMAGE PROCESSING | AUG 2018 - NOV 2018
+Dr . R ajlaxmi Chouhan | IIT J odhpur
+•Learned andimplemented thebasics ofimage processing including
+enhancement ofimage, noise removal, etc.inMATLAB software
+ACHIEVEMENTS
+•Scored SGPA of10.0/10.0 inthe4thsemester ofUGandcurrently rank2ndin
+thedepartment |2019
+•Selected forbranch change (MEtoEE)after 1styearatIITJodhpur |2018
+•Among top0.6percent students inJoint Entrance Exam |2017
+POSITION OF RESPONSIBILITY
+CAPTAIN, BASKETBALL TEAM | A Y 2019- 2020 – PRESENT
+•Represented IITJodhpur inthe52nd and53rd Inter-IIT Sports Meet
+heldatIITMadras andIITGuwahati respectively
+HOSTEL SPORTS SECRETARY | AUG 2018- APRIL 2019
+•Planned andorganized Intra Institute sports event –Kridansh and
+Girls’ Hostel Day–Fiesta
+EXTRA CURRICULARS
+•Competitive Coding: Hackerrank (dany_theQueen), Codechef (anigya)
+andInterviewBit (Dany)
+•Participated intheVirtual BAJA SAEINDIA 2018
+•Participated inAntarang (Fashion Show), inIGNUS’19 atIITJodhpur
+1

@@ -1,0 +1,49 @@
+Partha Pratim Chatterjee
+5829 Hobart Street, Pittsburgh, PA 15213
+/globemysite.me /envelopepchatter@andrew.cmu.edu /githubyourgithub /mobile_phone928-409-2740
+EDUCATION
+Carnegie Mellon University Pittsburgh, PA
+Master of Information Systems Management May 2019
+West Bengal University of Technology Kolkata, West India
+Bachelor of Technology in Applied Electronics and Instrumentation Engineering August 2011
+KEY SKILLS
+ACADEMIC PROJECTS
+Amazing Project 1 Aug 2017 - Present
+/circle_blankRan custom Minecraft mods on CentOS and Debian servers
+/circle_blankReverse engineered obfuscated Java using a decompiler and reﬂection
+Amazing Project 2 Feb 2016 – May 2017
+/circle_blankBegan a group to create the ﬁrst 36 hour student-run hackathon ever held at Illinois
+/circle_blankLed 50 staﬀ to raise $175,000 for HackIllinois, managing relationships with 60+ sponsors
+/circle_blankPlan events to increase social interaction among ACM members, as well as events to foster the spirit of
+computer science at Illinois
+Amazing Project 3 Jan 2015 – May 2015
+/circle_blankAssist in recruiting potential and admitted students to the UIUC computer science program
+/circle_blankAttendinformationsessions,admittedstudentQ&A’s,andstudentlunchestogenerateinterestintheIllinois
+Computer Science department
+EXPERIENCE
+Tata Consultancy Servies Limited Kolkata, India
+Technology Analyst June 2016 - May 2017
+/circle_blankDesignedandbuilttheﬁrstversionofinfrastructurecodebasewhichbuilttheentireenvironmentofSDLCat
+runtime. This reduced the development teams’ monthly expenses on AWS servers by 100 thousand dollars.
+/circle_blankDesigned and a centralized build strategy for all the software components of our client. The monolithic
+design of our build module brought new business to TCS
+Technology Analyst Edinburgh, Scotland
+/circle_blankBuilt a continuous delivery model for my client’s Development Team. July 2015 – June 2016
+The incremental development method reduced three-man days of development time on a 14-day
+sprint.
+/circle_blankCreated Production like testing environments in AWS Cloud for sprint teams to enhance
+test-driven development. The new process promoted quality development culture. The number of
+defectswere reducedby one-ﬁfth. Thetimesaved inﬁxing bugsincreased thedevelopmenttime
+by 15
+Systems Engineer Bangalore, India
+/circle_blankDeveloped a comprehensive shell script that remotely monitored March 2012 – July 2015
+the health of all the production services. The script visualized the current state of the diﬀerent
+production services in a dashboard. The transparent report dashboard decreased productionoutage to one two incidents in a ﬁnancial quarter.
+/circle_blankEncapsulated the build scripts in a Jenkins automation server. The user-friendly Jenkins GUI
+empowered the developers to trigger new builds themselves. The DevOps eﬀort saved was 2
+man-days every week.
+AWARDS AND ACHIEVEMENTS
+/circle_blankWinner, Tata Innovista, November 2016
+/circle_blankPresident of XYZ Club, Public Relations Manager of Swarthmore QWE Club
+/circle_blankProgramming Languages: Python, C, C++, PHP, Java, HTML/CSS, Javascript, jQuery, NodeJS
+/circle_blankFluent in Gibberish, conversational in Nonsense

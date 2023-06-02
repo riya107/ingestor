@@ -1,0 +1,66 @@
+R A T U L S A H A
+13 COMPUTING DRIVE, SINGAPORE 117417
+www.ratulsaha.com ratul@comp.nus.edu.sg
+E D U C AT I O N
+National University of Singapore, Singapore 2013–present
+• PhD student in Department of Computer Science, School of Computing
+• Thesis: Towards Quantitative Model Checking of Distributed Probabilistic Systems
+• Advisor: David S. Rosenblum, and previously, P. S. Thiagarajan (retired)
+Chennai Mathematical Institute, India 2009–2012
+• B.Sc in Mathematics and Computer Science
+• GPA: 7.45/10 and CGPA for CS: 9.25/10
+P U B L I C AT I O N S
+• Ratul Saha, Madhavan Mukund, and R. P. Jagadeesh Chandra Bose. Time-bounded Statistical Analysis of
+Resource-constrained Business Processes with Real-time Distributed Probabilistic Systems . In Proc. of SETTA 2016.
+• Javier Esparza, Philipp Hoffmann, Ratul Saha. Polynomial Analysis Algorithms for Free Choice Probabilistic
+Workflow Nets . In Proc. of QEST 2016.
+• Loi Luu, Ratul Saha, I. Parameshwaran, Prateek Saxena, and A. Hobor. On Power Splitting Games in
+Distributed Computation: The Case of Bitcoin Pooled Mining . In Proc. of CSF 2015.
+• Ratul Saha, Javier Esparza, Sumit K. Jha, Madhavan Mukund, and P. S. Thiagarajan. Distributed Markov
+Chains . In Proc. of VMCAI 2015.
+R E S E A R C H C O L L A B O R AT I O N S
+• Collaborated with 10 professors, 3 PhD students, and 2 industry researchers across 8 cities
+• Was invited as a guest researcher and speaker at
+– CFDVS lab, Indian Institute of Technology (IIT) Bombay, India for Mar–April 2016. Host: S Akshay.
+– ACMU, Indian Statistical Institute (ISI) Kolkata, India for Jan–Feb 2016. Host: Ansuman Banerjee.
+– CS Dept., Chennai Mathematical Institute (CMI), India for Aug–Nov 2015. Host: Madhavan Mukund.
+– FSR&TCS, Technische Universität München (TUM), Germany for May–July 2015. Host: Javier Esparza.
+• Was invited to Trends and Challenges in Quantitative Verification , A Mysore Park Workshop (2016)
+AWA R D S
+• Among top 35 in the country to clear Indian National Mathematical Olympiad 2007
+• Was selected twice (2007 and 2008) to attend the training for selection of the Indian team for the
+International Mathematical Olympiad (IMO)
+• Recipient of Undergraduate Scholarship as part of the Nurture Program by National Board for Higher
+Mathematics, India
+1W O R K E X P E R I E N C E
+National University of Singapore, Singapore Jan–July 2013
+• Research assistant in School of Computing
+• Worked on a model checking tool (using Python) for models with uncertainty
+LimberLink Technologies Pvt. Ltd., India Jun–July 2012
+• Software development internship under supervision of V. Vinay
+• Designed a product to help educators provide affordable online education
+Chennai Mathematical Institute, India 2010, 2012
+• Placement co-ordinator for Fall ’12
+• Teaching Assistant for Advanced Programming (Fall ’10) and Data Mining (Fall ’12)
+L E A D E R S H I P E X P E R I E N C E
+Branding Consultancy 2016–present
+• Developing online brands for a total of 5 small businesses, entrepreneurs, and celebrities
+• Delegating designers and content managers to provide hassle-free support to clients
+Overleaf, Writelatex limited 2014–present
+• Acting as an external advisor, “Advisor of the month” for Oct 2015
+• Organized seminars on introduction to document preparation for beginners
+Movie Database and Promotion Agency 2010–2013
+• Created a partnership firm and profiled more than 2000 movies and 4000 artists
+• Led 8 part-time members including content managers, journalists, and national award-winning authors
+• Was offered one acqui-hire and one acquisition
+T E C H N I C A L E X P E R I E N C E
+• Programming languages: Python, Haskell, C and Java
+• Tools and Scripts: L ATEX, HTML5/CSS3/JS, MS Excel
+• Designed a popular open-source presentation template called Presento that is clean, minimal and extensible
+O T H E R I N F O R M AT I O N
+• Nationality: Indian, Age: 24 years
+• Languages: English (full professional proficiency), Bengali and Hindi (native or bilingual proficiency)
+• TOEFL iBT (2012): 103/120
+• GRE (2012): Verbal – 147, Quantitative – 164, Analytical writing – 3.5
+• Hobbies: swimming, chess, User Experience (UX) design
+2

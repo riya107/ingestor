@@ -1,0 +1,30 @@
+Raviteja Ayyagari | MS
+12 Dales Ave, Jersey City NJ 07306
+/phone732.810.6995 /enveloperayyagari@mail.saintpeters.edu
+/globein.linkedin.com/in/RavitejaAyyagari
+Strong Statistics, Visualization and excellent Communication skills
+Education
+MS in Data Science with a Concentration in Business Analytics Jersey City, NJ
+Saint Peter’s University January 2016 - May 2017 (Tentaive)
+Bachelor of Technology Dehradun, India
+University of Petroleum & Energy Studies, GPA 2.66 June 2009- April 2013
+Projects
+City Gas Distribution and Network Analysis under SITI Energy Limited
+/circle_blankStudy of City gas distribution network and regulation of parameters across the network
+Analysis of Steady State Flow Equations for Gas Pipelines
+/circle_blankAnalysis was made to take a decision on optimum parameters of a pipeline network
+Professional Experience
+Software Engineer Hyderabad, India
+Tech Mahindra 2013–2015
+/circle_blankP2PIDQ Project - Data Quality report of spend data using IBM tool set and TIBCO SpotFire
+/circle_blankPipeline Integrity Management Systems Project - Analysis of threats across the pipeline network and
+provide URDs for technical team
+Computer Skills
+/circle_blankProgramming and Database: SAS, R, SQL, C-Language, Python
+/circle_blankSpreadsheet, Visualization, Publishing: Microsoft Excel, Tableau, SAS Visual Analytics, LaTeX, Spot-
+Fire
+/circle_blankCloud Services and Operating Systems: Amazon Web Services, Windows/MacOSX
+Certiﬁcations
+/circle_blankSAS Certiﬁed Base Programmer for SAS 9
+References
+/circle_blankProfessor Sylvain Jaume, Data Science Graduate Director, Saint Peter’s University, sjaume@saintpeters.edu

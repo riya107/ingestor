@@ -1,0 +1,103 @@
+Curriculum Vitae – Tibault Reveyrand
+Personal
+Information
+Tibault Reveyrand
+Limoges, France
+/_582www.microwave.fr
+/twitter@reveyrand
+/linkedinwww.linkedin.com/in/reveyrand
+/youtube_playwww.youtube.com/c/tibaultreveyrand
+Professional
+ObjectiveImprove the eﬃciency of the microwave and RF designers and structures. I focus on nonlinear devices
+at circuits level (such as HEMTs transistors) and at system level (HPA, Switches). That purpose
+requires an original use of an advanced RF instrumentation associated to a strong knowledge in
+terms of measured devices modeling.
+Skills Operating systems : DOS, Windows, Unix and Linux.
+Programming languages : Pascal, 80x86 Assembler, C, C++, TCL/TK, JAVA, PHP, mySQL.
+Oﬃce softwares : Microsoft Oﬃce, Open Oﬃce, LaTeX, DocBook.
+Scientiﬁc softwares Comsys, Maple, Matlab, Mathematica, Scilab, Keysight’s VEE and ADS,
+NI LabVIEW.
+Characterization tools : Spectrum analyzers, scopes, AWG, VNA, LSNA, probe stations, high
+impedance probes. I have developed calibration procedures and automated calibration and
+measurements processes.
+System Level Modeling : Ampliﬁers, modulators and mixers with splines, neural networks or
+Volterra expansions. Bilateral Modeling by PhD model.
+Circuit Level Modeling : Linear, nonlinear and electrothermal models of HEMTs.
+Languages : French, English.
+Certifications National Instruments Certiﬁed LabVIEW Associate Developer (CLAD) July 2014-July 2016
+Awards Best Paper Award , European Microwave Week - Galium Arsenide Application Symposium
+(GAAS), 2002
+T. Reveyrand, C. Maziere, J.M. Nébus, R. Quéré, A. Mallet, L. Lapierre, J. Sombrin, “A calibrated time domain
+envelope measurement system for the behavioral modeling of power ampliﬁers”, European Microwave Week, GAAS
+2002, pp. 237-240, Milano, September 2002
+Best Student Paper Award , Journées Nationales Micro-ondes (JNM), 2007
+O. Jardel, F. De Groote, T. Reveyrand, C. Charbonniaud, J.P. Teyssier, R. Quéré, D. Floriot, “Modélisation
+du drain-lag dans les modèles électriques grand-signaux de transistors HEMTs AlGaN/GaN”, 15eme Journées
+Nationales Micro-ondes (JNM),3C1, Toulouse, Mai 2007.
+Up to 130 other refrences are available here :
+http://www.microwave.fr/publications.html
+Professional
+OrganizationsThe Institute of Electrical and Electronics Engineers (IEEE)
+Member of :
+“Microwave Theory and Techniques” society 2007-present
+“Instrumentation and Measurement” society 2007-present
+MTT-11 “Microwave Measurements” technical committee 2009-present
+IEEE MTT-S Technical Program Review Committee (TPRC) for IMS 2013-present
+Judge for IEEE MTT-S Graduate Fellowships 2014-present
+Chair for IEEE Denver Section Jt. Chapter, AP03/MTT17 2015-2016
+The European Microwave Association (EuMA) 2009-2015Employment
+HistoryMeasurement Engineer (CNRS) XLIM June 2016-Present
+Lecturer University of Colorado, Boulder January 2016-May 2016
+ECEN 5014-003, “Microwave Measurements and Calibration Fundamentals”
+Research Associate University of Colorado at Boulder June 2013-May 2016
+Achievements :
+LabVIEW software for a “Do-it-yourself” Large-Signal Network Analyzer (LSNA)
+Time domain measurement setup in Scilab (VTD-SWAP)
+Outphasing PA characterizations
+Load-pull in time-domain
+Measurement Engineer (CNRS) XLIM December 2007-May 2013
+Achievements :
+Korrigan European Project activities (RTP N102.052 funded within the EUROPA framework in
+the CEPA2 priority area - ends early 2009) : GaN HEMTs circuits level modeling from european
+foundries (Thales / QinetiQ) for HPA, LNA and Switches
+Time domain measurement setup (LSNA) development on Scilab-TCL/TK (GUI, calibration and
+measurement automation)
+Development of HEMTs modeling tools (Scilab)
+Contractual measurements such as load-pull, linearity, high impedance probe in both frequency
+(VNA) and time domain (LSNA)
+Research Associate - Visiting Scholar University of Colorado at Boulder February 2012-July 2012
+GaN HEMTs based rectiﬁers characterizations and analysis
+Research Engineer (CNRS) XLIM May 2005-November 2007
+Achievements :
+Frequency domain load-pull measurement setup (VNA in receiver mode with pulse capabilities)
+developpemnt with Scilab (calibration procedures, measurement automation, data processing)
+Large signal caracterization of transistor (mainly european GaN in the framework of Korrigan
+Korrigan WP3.3 workpackage leader in Korrigan. Developpement of a internet database (Php /
+mySQL) to let partners share data and informations
+GaN HEMTs “spice-like” nonlinear models
+Research Engineer NMDG Engineering bvba November 2004-February 2005
+Implementation of the High Impedance Probe module (calibration and measurements) in the com-
+mercial LSNA Software (based on Mathematica)
+Postdoctoral scientist CNES (French Space Agency) October 2003-September 2004
+Development of characterization tools interfaces within the free open-source scientiﬁc package Scilab
+Postdoctoral scientist CNES (French Space Agency) October 2002-September 2003
+Achievements :
+Large Signal Network Analysis (LSNA) characterizations in time-domain
+Development of a new LSNA module in order to investigate time domain waveforms at internal
+nodes of MMICs with high impedance probes (HIP) to validate circuits designs and to analyze
+nonlinear parametric stability
+Large Signal Network Analysis (LSNA) characterizations in time-domain
+Researcher IRCOM / University of Limoges October 1998-September 2002
+Achievements :
+Development of the RF time-domain envelope measurement setup (hardware and software)
+Development of the calibration procedure of the time-domain envelope measurement setup
+Power ampliﬁers characterizations : Load-pull, IM3, NPR
+Behavioral modeling of nonlinear devices with memory eﬀects for system level
+Development of a dynamic complex gain model with neural networks
+Lecturer University of Limoges October 1998-September 2002
+RF devices, analog/digital communication systems, signal processing, propagation waves...
+Postgraduate student IRCOM / University of Limoges February 1998-July 1998
+Circuits level simulations of IM3 and NPR in order to optimize the trade-oﬀ between linearity and
+eﬃciency
+Education Ph.D in High Frequency Devices and Circuits - Electronic and Optoelectronic, April 2002
+University of Limoges (France)

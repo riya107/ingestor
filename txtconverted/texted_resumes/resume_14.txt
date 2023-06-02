@@ -1,0 +1,69 @@
+Last Upda ted on 28th December 2015
+Brian Odumo
+http://brianodumo.com
+bodumo@u w a terl oo.ca
+EDUCATION
+UNIVERSITY OF WATERLOO
+HONOURS B ACHEL OR OF
+C OMPUTER SCIENCE
+September 2015 t o Ma y 2019
+(Expected)
+LINKS
+Portfolio: brianodumo.com
+Github: brianod
+Blog: medium.com/@brianodumo
+LinkedIn: brianodumo
+Twitter: @brianodumo
+CS COURSES
+•Designing Functional Programs
+•Elementary Algorithm Design andData
+Abstraction
+SKILLS
+TECHNOLOGY
+F amiliar with:
+Java•JavaScript •ReactJS
+React Native (iOSandAndroid) •HTML •
+CSS
+AngularJS •PhoneGap/Cordova
+C our se w ork Languages:
+C•Racket/Scheme
+ABOUT ME
+Iaminterested inexploring both Software
+Engineering andProduct Management. I
+lovethinking about thefuture of
+technology, seemyMedium blogfor
+interesting technology blogposts.EXPERIENCE
+SPK 411 | ANDR OID APP F OR THE LARGE S T HIGH SCHOOL IN
+O TT A W A
+J anuary 2015 – Ma y 2015
+•Winner atthe2015 TechU.me AppJam. Anappforthelargest highschool in
+Ottawa toaccess school news, sports andmore.
+•Theappwasdeployed totheGoogle PlayStore andbuiltusing
+PhoneGap/Cordova andwritten using webtechnologies toallow fora
+write-once deploy-everywhere strategy. Technologies involved include: HTML,
+JavaScript, CSS,Sass, AngularJS.
+BLACKBOARD CLEANUP | EDUC A TIONAL APP BUIL T WITH KID S
+September 2013 – J anuary 2014
+•AnappfortheBlackberry Playbook tablet builtforGrade 4/5student clients.
+Elementary students from alocalschool metwithusonaweekly basis to
+provide speciﬁcations ontheeducational game intheform ofhand drawn
+mock-ups andwritten speciﬁcations, aswellasreceive updates onprogress and
+provide feedback.
+•Theproject culminated withapresentation/demo oftheappinfront ofthe
+students andtheir parents.
+•Technologies involved include: ActionScript3, Adobe Flash Professional CS5,
+andAdobe Illustrator CS5.
+WORK EXPERIENCE
+BEST BUY | C ONNEC TED SOL UTIONS SPECIALIS T
+J une 2014 – Oct ober 2014 | Ot ta w a, ON
+Provided proactive sales assistance andsupport tocustomers. Identiﬁed customer
+needs andprovided appropriate solutions.
+HONOURS/AWARDS
+APP J AM WINNER
+Tech U .Me App J am | Ma y 2015
+Awarded topprize formyAndroid appSPK411.
+PRE SIDENT'S SCHOLARSHIP
+U niver sit y o f W a terl oo | Ma y 2015
+ONT ARIO SCHOLAR
+Go vernmen t o f O n tario | J une 2015
+1

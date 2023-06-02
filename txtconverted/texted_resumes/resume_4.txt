@@ -1,0 +1,91 @@
+Ajith Raj Menon
+MEAN Stack Developer/ Network Engineer
+"To work in a dynamic professional environment with a
+growing organization and utilize my creativity and innovative
+thinking for beneﬁt of the organization and myself."
+Work Experience
+Aug 2016 -
+PresentKottackal Business Solutions Pvt. Ltd. ,Technopark , Trivandrum.
+Consultant Trainee
+{Worked with MEAN Stack [ MongoDB, ExpressJs, AngularJS, NodeJs ]
+{Started working with Blockchain andEthereum
+Project
+DocuCheck , A test application to automate the document veriﬁcation process.
+Any kind of document can be uploaded to the repository and can be requested for
+veriﬁcation by the corresponding veriﬁer. Employers can view user proﬁles.
+Technologies Used : NodeJs, ExpressJs, AngularJs, MongoDB, Angular Material
+Oct 2012 -
+Feb 2013ATEES Infomedia Pvt. Ltd. ,Infopark, Koratty.
+Trainee Web Developer
+{Worked with HTML5, CSS3, Javascript and PHP
+{Used Codeigniter framework for development
+Education
+2013 - 2015 M.Tech,Government Engineering College , Idukki,CGPA - 7.79 .
+Network Engineering
+2013 Graduate Aptitude Test in Engineering ,2013.
+Score - 384
+2009 - 2013 B.Tech,Thejus Engineering College , Thrissur, CGPA - 7.66 .
+Computer Science & Engineering
+2007 - 2009 AISSCE - Std. 12th ,Central Board of Secondary Education ,Percentage - 72.8 .
+Maths, Physics and Chemistry, Computer Science
+2007 AISSE - Std. 10th ,Central Board of Secondary Education ,Percentage - 91 .
+Ambalapatt House, Pazhiyottumury, Thrissur – Kerala, 680584
+H(+91) 9947 188 553 •Bajithrajmenon@live.com
+Íin.linkedin.com/in/ajithrajmenon 1/3Publications
+Jan 2016 An Enhanced Protocol For Secure Communications In Spontaneous Wireless
+Ad Hoc Networks ,Ajith Raj Menon A, Ratheesh T K .
+Symposia On Intelligent Information Systems & Networks, iiSN - 012/2016
+Nov 2015 A Novel Approach For Reliable Communications In Spontaneous Wireless
+Ad Hoc Networks ,Ajith Raj Menon A, Ratheesh T K .
+IEEE sponsored Online International Conference on Green Engineering & Technology
+Mar 2014 Study on Spontaneous Wireless Ad Hoc Networking ,Ajith Raj Menon A, K R
+Remesh Babu .
+National Conference on Information Security & Network Engineerng, Pages 63-66
+Academic Projects
+M.Tech
+ThesisA Novel Approach For Reliable Communications In Spontaneous Wireless Ad
+Hoc Networks ,A fast ﬁle sharing system between mobile devices in a spontaneous
+ad hoc network scenario with enhanced reliability .
+Platform : Android
+M.Tech
+MinorA Secure Protocol For Spontaneous Wireless Ad Hoc Networks Creation ,A
+secure protocol for spontaneous ad hoc networks using a combination of symmetric
+- asymmetric schemes for initial network setup and to share the session keys used
+in data communication .
+Platform : Android
+B.Tech Major Boomerang Protocol ,This protocol eﬃciently retains information at a particu-
+lar geographic location in a sparse network of highly mobile nodes without using
+infrastructures .
+Platform : Android, Backend : MySQL, IDE :Eclipse
+B.Tech Minor Wireless Intrusion Detection System ,The project enhances Wireless Network
+Security. This was developed to detect and prevent the intruders from a wireless
+network.
+Platform : Java, Backend : MySQL, IDE :Netbeans
+Skills
+Programming Languages/ Frameworks
+Ambalapatt House, Pazhiyottumury, Thrissur – Kerala, 680584
+H(+91) 9947 188 553 •Bajithrajmenon@live.com
+Íin.linkedin.com/in/ajithrajmenon 2/3Additional Softwares
+Eclipse Microsoft Oﬃce Adobe Photoshop L ATEX
+Personal Skills
+- Eﬃcient time management - Quick learner
+- Good problem solving skills - Team player
+Area of Interest
+- Blockchain Development - Web Designing
+- Network related works - Full Stack Development
+Languages
+English Read, Write, Speak
+Malayalam (Mother Tongue) Read, Write Speak
+Hindi Read, Write, Speak
+Interests
+- Reading books - Writing
+- Philately - Numismatics
+- Listening to music - Internet Surﬁng
+Personal Details
+DOB 8th of March, 1992
+Father A Devarajan Menon
+Address Ambalapatt House, Pazhiyottumury, Kadangode [P.O], Thrissur, Kerala - 680584
+Nationality Indian
+Ambalapatt House, Pazhiyottumury, Thrissur – Kerala, 680584
+H(+91) 9947 188 553 •Bajithrajmenon@live.com
+Íin.linkedin.com/in/ajithrajmenon 3/3

@@ -1,0 +1,92 @@
+Siddharth Jain
+sjain65@uic.edu | 312. 7 7 4.0496
+SUMMARY
+•Have 5+years ofexperience with.NET
+andMicrosoft BI-T-SQL, SSIS&SSRS.
+•Gained good understanding ofPython,
+Rapidminer &Raspartofcoursework.
+•Worked inprocess consulting space
+forabout ayear.
+•Hadabrief stintasprofessional
+derivatives trader
+•Familiar withTableau &Jasper
+Reports Server.
+EDUCATION
+UNIVERSITY OF ILLINOIS AT
+CHICAGO
+MS IN BUSINESS ANALYTICS
+Expected Ma y 2016
+C um. GP A: 4.00
+GREAT LAKES INSTITUTE OF
+MANAGEMENT
+PGPB ABI
+Ma y 2014 t o J ul y 2015
+C um. GP A: N/ A
+DEVI AHILYA VISHWAVIDY-
+ALAYA
+B E ng. in C ompu ter Science
+A ug 2006 t o Ma y 2010
+C um. GP A: 3.6
+COURSEWORK
+Data Mining
+TextMining
+IBMWatson Analytics
+Game Theory
+SKILLS
+PROGRAMMING / WEB
+C#•ASP.NET
+DATA ANALYTICS
+Rapid Miner •Python •R
+REPORTING
+Tableau •Jasper Reports Server •SSRS
+DATABASE
+SQLServer •SSISEXPERIENCE
+SUMTOTAL SYSTEMS | SOFTWARE DESIGN ENGINEER 2
+Ma y 2014 – J ul 2015| Hy der abad, India
+•Worked inR&D engineering team tocreate nextgeneration reporting platform
+forLearning andTalent management products.
+•Wasinvolved incomplete product lifecycle -Design, Development, Release and
+BugFixing.
+•Created alocalization monitoring toolwhich cansniffthrough industry
+standard XML based TMX andJaspersoft Schema ﬁlesandﬁxpotential issues.
+Thisoptimized localization process reducing theturnaround timeby60%and
+bugcount byover80%.
+•Created alivelinkfunctionality –Audience willbenotiﬁed forscheduled
+reports though ahyperlink viaemail, clicking onwhich datawillbepopulated as
+pertheroles andpermissions assigned totheuserinrealtime. Tomaterialize
+thisIapplied concepts ofSSIS, SqlCLRstored procs, RESTful API.
+FUTURES FIRST | MARKET ANALYST TRAINEE
+Ma y 2013 – J an 2014 | Hy der abad India
+•Traded out-rights andcalendar spreads offutures contracts ofArabica and
+Robusta Coffee atICE&LIFFE Exchanges.
+•Managed aportfolio inaccess of$150,000.
+INFOSYS LIMITED | SYSTEMS ENGINEER
+J une 2010 – April 2013 | Hy der abad India
+•Developed UIusing ASP.NET forthepayroll application fortheclient
+(Microsoft).
+•Automated thedatacreation procedures using concepts ofdynamic SQL. This
+helped inreduction indevelopment timeby70%.
+•Wasinvolved inprocess consulting fortheinternal procurement application -
+MSExpense. Duties involved managing Support teams across Poland andIndia,
+coordinating UATandmanaging ad-hoc reporting requests.
+•Created SSISpackages andSSRS reports forthepurpose ofscheduled and
+ad-hoc reporting forexpense tracking application -MSExpense (Microsoft).
+ACADEMIC PROJECTS
+PICTURE PERFECT
+Implemented IBMWatson cognitive platform overanandroid app
+providing justintimeanswers toDSLR camera users. TheDSLR has
+multitude ofsettings which aredifﬁcult toharness owing tohighly
+technical documentations. Theapptriestoovercome thebarrier by
+providing crisp answers incolloquial style. Iwasinvolved intraining the
+engine andoptimizing theQ&A performance.
+RECRUIT PONPARE
+ThisJapanese coupon siteheldacoupon purchase prediction
+competition atKaggle.com. Weadopted aunique approach toboost
+performance ofourstatistical model –Once wetranslated the
+Japanese text,wepulled thecensus datatoﬁgure outprefectures with
+higher levels ofmedian income. Thisvalidated therelatively high
+concentration ofcoupons being senttothese localities inboth training
+andtestdatasets. Iwasinvolved inbuilding thetranslator appusing
+BingTranslator webservice andinbuilding themodel. Skills Used –
+Python, C#&Tableau.
+1

@@ -1,0 +1,88 @@
+Last Upda ted on 29th Ma y 2016Peter Rasmussen
+https://www.pgr-me.github.io
+pe ter .gr a y .r asmussen@gmail.c om | 202.644.157 5 | pe tergr a y333 (skype )
+SKILLS
+PROGRAMMING
+Python andiPython Notebook
+SQL
+JavaScript (D3.js), HTML, andCSS
+MACHINE LEARNING
+Regression
+Support Vector Machines
+Naive Bayes
+K-Nearest Neighbors
+Decision Trees
+Cluster Analyses
+Natural Language Processing
+SOFTWARE
+PostgreSQL andPostGIS
+Amazon Web Services
+Spark andHadoop
+GitandGithub
+MongoDB
+QGIS
+CartoDB
+MapBox
+EDUCATION
+DATA SCIENCE BOOTCAMP
+METIS
+Expected J une 2016 | Ne w Y ork , NY
+MS, INDUSTRIAL ENGINEERING
+UNIVERSITY OF MASSACHUSETTS
+February 2012 | Amher s t, MA
+Thesis: TheEconomic Impacts of
+Technical Change inCarbon Capture
+BS, CHEMICAL ENGINEERING
+UNIVERSITY OF IOWA
+Ma y 2006 | I o w a Cit y, IA
+Gr adua ted with Honor s
+LINKS
+Github:// pgr_me
+LinkedIn:// petergrayrasmussen
+Twitter:// @pgr_meEXPERIENCE
+METIS | DATA SCIENTIST
+Apr 2016 – J un 2016 | Ne w Y ork , NY
+•Built explanatory linear regression model foranNYC startup toidentify the
+types ofpeople whoarethemost active microlenders
+•Scraped, cleaned, andassimilated movie boxofﬁce dataasinputs toboxofﬁce
+revenue prediction model
+•Visualized univariate andmultivariate clusters ofwater usage, price, income,
+andother factors intheUSusing Jenks andK-Means algorithms
+HIP CONSULT | ANALYST
+Feb 2013 – Mar 2016 | W ashingt on, DC
+•Fiber Optic Infrastructure Web Mapping Application
+–Ledproduct development ofSAAS infrastructure mapping prototype,
+InfraNav anddeveloped custom maps tomarket product’s capabilities
+–Managed GISteam tasked withassimilating andmapping approximately
+350,000 kmofﬁber optic infrastructure for42countries across Africa
+•Mobile Financial Commerce (MFC) Market Analyses
+–Ledquantitative analysis todevelop value propositions foramultinational
+company seeking toenter MFC markets inseveral African markets
+–Built ﬁnancial model toassess market potential andexpected cashﬂows of
+aTanzanian mobile payments startup
+–Authored market-sizing andforecasting section ofacommercial report on
+characteristics, forecasts, andtrends inMFC forseveral African markets
+CHASE CONSTRUCTION LIMITED | PROJECT MANAGER
+Oct 2011 – J ul 2012 | Nair obi, Ken y a
+•Ledresearch team inanalyzing investments inrenewable energy andag
+technologies, from conducting ﬁeldwork inNairobi andMogadishu tomarket
+research, engineering design, &ﬁnancial evaluation ofpotential projects
+•Drove business development bywriting grant proposals tointernational
+organizations anddelivering presentations topitch topotential funders
+•Co-organized ﬁrstTEDxMogadishu ,aseries oftalks given bySomalis onthe
+“rebirth” ofMogadishu, including theresurgence oftheprivate sector
+ENGINEERS WITHOUT BORDERS | PROGRAM MANAGER
+J un 2010 – Ma y 2011 | Amher s t, MA
+•Managed EWB-UMass Kenya program toimprove water quality inwestern
+Kenya forarural community ofapproximately 10,000
+UNIVERSITY OF MASSACHUSETTS | RESEARCH ASSISTANT
+A ug 2009 – Ma y 2011 | Amher s t, MA
+•Modeled long-term economic impacts oftechnical change incarbon capture
+(CC) given agreenhouse gasemissions policy
+•Conducted sensitivity analyses ofkeyperformance drivers ofCCcosts to
+simulate theimpact oftechnical change onCCcost
+ENVIRONMENTAL RESOURCES MANAGEMENT | STAFF ENGINEER
+J ul 2006 – A ug 2009 | Ne w Orleans, LA
+•Managed environmental consulting projects across multiple sectors, including
+energy andmanufacturing
+1

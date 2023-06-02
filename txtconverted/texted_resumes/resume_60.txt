@@ -1,0 +1,59 @@
+YASHRAJ
+PreFinalYear,ElectronicsandCommunicationEngineering
+/_475yashr2192@gmail.com /phone(+91)7488420275 /envelope_altIIT(ISM),SardarPatelNagar,Dhanbad,826004
+/map_markerJharkhand,India /linkedinlinkedin.com/in/yash-raj-579b96156/ /githubgithub.com/devrra
+SKILLS
+ArduinoC++Python
+Ampli ﬁerDesign
+3DMechanicalDesign
+CERTIFICATIONS
+IntroductiontoPowerElectronics
+Coursera
+Ὄ5IssuedMay2019
+CredentialID:N28CEVAHX63S
+IntroductiontoElectronics
+Coursera
+Ὄ5IssuedMarch2019
+CredentialID:JSYR65L53ETU
+EDUCATION
+B.TechinECE
+IITDhanbad
+Ὄ5July2017–Present
+CGPA(till4thSem):8.9
+XIIBoard
+CentralBoardofSecondaryEducation
+Ὄ5April2015–March2017
+Science(PCM),94.6%
+RESEARCHINTERESTS
+PowerElectronics
+VLSI
+ControlSystems
+RoboticsEXPERIENCE
+Participant
+Invent@IITGN
+Ὄ5May2019–June2019 /map_markerGandhinagar,Gujarat
+ControlledInsulinInjectionDevice,Design,Implementation
+Designingcomponentsofthedevice,3Dprinting,developing
+automatedfunctionalityonArduinoMega,designingcustom
+arduino-shieldforthedevice.
+PROJECTS
+WayMart
+HackFest’19@IITDhanbad
+Ὄ5March2019
+Aself-checkoutcartthatgeneratesbill/invoiceofitemsputinthecart
+automatically,eliminatinglong,time-consumingqueuesinmarts.
+UsedlowfrequencyRFIDtechnologywithcustom-builtreceiver
+antennatodetectitems.
+AutonomousDrone
+eYantraLab
+Ὄ5November2018-February2019
+Developedanautonomous ﬂightcontrolsystemusingPIDcontrol
+techniqueonPlutodroneusingROS-kineticandVrep.
+RealTrack
+Ὄ5May2018-June2018
+Asystemtocollectreal-timemotionspeci ﬁcdatafromamobile
+robot(usingMPU6050)viatheinternet(MQTTprotocol)using
+extended-Candpython.
+ACHIEVEMENTS
+Secured1stPositioninWalmartSelf-CheckoutCartChallengeat
+Hackfest2019,IITDhanbad.

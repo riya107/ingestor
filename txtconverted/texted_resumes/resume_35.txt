@@ -1,0 +1,50 @@
+Juan D.Cardozo
+/mobile_phone(408) 856 5696 /envelopejcardozo@ucsc.edu /globewww.linkedin.com/in/juandcardozo
+github.com/JuanDCardozo
+Education
+/circle_blankUniversity of California, Santa Cruz Santa Cruz, CA
+Bachelor of Science in Computer Science, Expected Graduation: June 2017
+Honors: Dean’s List (Winter 2016) , AngelHack 2016 1st Place and HackUCSC (2016) 3rd Place.
+Related Coursework: Software Engineering, Database Systems I, Artiﬁcial Intelligence, Introduction to Operating Systems,
+Mobile Applications and Web Applications.
+Programming Languages: JavaScript, Java, C,Python, SQL, HTML, CSS, Prolog, and OCaml.
+Frameworks: Node.js, Express.js, Angular.js, Android Studio, Google Analytics and Google AdWords
+Work Experience
+/circle_blankUniversity of California, Santa Cruz - Educational Partnership Center Santa Cruz, CA
+Evaluation Analyst Intern October 2016 - Present
+Assist with data collection and analysis from school districts; such as demographic, academic performance and survey data.
+Created simple SQL code with Microsoft Access to accelerate the manipulation of data.
+Analyzed and generated reports about student and parent data.
+Santa Cruz, CA
+Lead Data Entry Assistant August 2016 - October 2016
+Assist in data collections projects by being a conduit of communication from the Manager to Data Entry Assistants.
+Managed multiple projects with tight deadlines and supervised three other employees.
+Improved the management of projects by implementing task tracking methods.
+Santa Cruz, CA
+Data Manager Assistant/Data Entry July 2016 - August 2016
+Provide assistance with research projects by updating, maintaining, and processing ﬁles and databases.
+Processed more than 3000 sensitive student ﬁles and information in database systems such as SCRIBE and CoBro.
+Assisted and oversaw 2 new interns with database, ﬁle management and data training.
+/circle_blankOﬁmática S.A. Medellin, Colombia/Online
+Web Development and Marketing Manager June 2014 - September 2015
+Plan, create and deploy marketing campaigns to increase sales and improve the branding of the company.
+Implemented online marketing strategies through Google AdWords that increased sales by 12%.
+Tailored the marketing strategy and web services to the commercial goals of the company.
+Medellin, Colombia/Online
+Digital Marketing Specialist July 2013 - June 2014
+Employ Google Analytics to improve the performance of the online marketing strategy.
+Increased the online presence of the company by designing an eﬀective website with HTML, CSS and JavaScript.
+Conducted research to position the brand in the marketplace for software with Google Analytics.
+Software Projects
+/circle_blankiTradeU
+https://github.com/JuanDCardozo/thingder
+E-commerce bartering system prototype created using MongoDB, Angular.js, Express.js and Node.js that allows users to automatically
+match and trade items they own for items they desire.
+/circle_blankCharisma (AngelHack Silicon Valley 2016 1st Place)
+github.com/JuanDCardozo/charisma
+A public speaking analytic application that provides metrics of a speech such as clarity, words per minute, speech word composition and
+speech to text. The application was developed in node.js and used HPE Haven On Demands API’s.
+/circle_blankOnWatch 2.0 (HackUCSC 3rd Place Tech-Cares 2016)
+github.com/JuanDCardozo/OnWatch-2.0
+Android and Pebble watch silent alert app that tracks the user’s safety levels. It then adjusts the response to dangerous events like
+tracking the user’s location, recording events, alerting friends and informing the authorities of the situation.

@@ -1,0 +1,79 @@
+Wilmer A. Gonzalez S. /githubwilmeragsgh
+wilmeragsgm@gmail.com /codePython, R
+Get Latest version See light theme
+Experience
+UNDP (ONU) Caracas, VE
+Data Science Consultant August 2019 - Present
+Designed and develop workows for topic modeling and community detection to analyze hundred-thousand-scale text and
+network data.
+Sped up the analytical workow by 75% by redesigning the sampling strategy for jobs.
+Generated CLI tool for automation of predened analysis workows.
+Technologies: Python, R, Bash, Gephi and Power BI.
+Theory: Topic modeling, Community detection, Network Analysis and NLP.
+Quash.ai (remote) Caracas, VE
+Machine learning engineer February 2019 - March 2020
+Developed a customer facing API for using our internal credit scoring model.
+Improved credit scoring model performance of 5 business clients by 15% by incorporating state-of-the-art ML models
+adapted for our feature sets and hyper-parameter optimization models.
+Technologies: Python, R, S3 and Docker.
+Theory: Credit scoring and Hyper-parameter optimization.
+Advoqt (remote) Caracas, VE
+Machine learning engineer February 2019 - August 2019
+Implemented Deep learning model for classifying malicious urls using only urls' text features, achieving 90% of baseline
+accuracy by adapting state-of-the-art models on urls classications.
+Technologies: Python, Elasticsearch and Spark.
+Theory: Deep learning and Text classication.
+Universidad Central de Venezuela Caracas, VE
+Advanced topics in AI(Adjunct Professor) October 2018 - Present
+Designed and organized course material and resources for topics described in here.
+Lectured material for students and grade their assignments.
+Introduction to Data Science (Teaching assistant) April 2015 - February 2018
+Data Mining (Teaching assistant) August 2015 - February 2018
+Designed and organized practical course material and resources for topics described in here.
+Lectured practical material for students and grade their assignments.
+Technologies: Python, Latex, R, Weka, Colab, Jupyter and swirl.
+Theory: Articial intelligence, Data science and Data mining.
+Fetcher Caracas, VE
+Data Scientist June 2018 - February 2019
+Estimated demand of required candidates for sourcing using daily output data.
+Generated automated allocation algorithm for reducing overload of sourcing teams by 10% by using linear programming
+and constraint satisfaction techniques.
+Technologies: R, Shiny, Latex, SQL and Metabase.
+Theory: Linear programming and Constraint Satisfaction problems.Predictvia Caracas, VE
+Articial Intelligence July 2016 - January 2017
+Articial Intelligence intern February 2016 - July 2016
+Performed social network analysis, exploratory data analysis, supervised and unsupervised learning
+Built and implemented classication models, perform feature engineering and calibrated existing models.
+Technologies: Python. Theory: Social network analysis, Attribution models and Recommendation systems.
+Education
+Universidad Central de Venezuela Caracas, Venezuela
+B.Sc in Computer Science Sept. 2012 { Jun. 2018
+Took elective courses on: Introduction to data science, Advanced topics in data science, Articial Intelligence, Data
+mining, Text mining, NoSQL databases, Digital image processing.
+(Thesis title) AdaBnn: Binarized Neural Networks trained with adaptive structural learning.
+Following sections items are clickable
+Certifications
+Coursera MOOC
+R Programming - ID: MZ7TC7ADV7YY Issued September 2016
+Text Mining and Analytics - ID: 36JC577GBFYD Issued August 2016
+Text retrieval and search engines - ID: MDWATFKLPH9Z Issued June 2016
+The Data Scientist's Toolbox - ID: TM7T8CJXNV6R Issued June 2016
+Data Visualization - ID: WYGG7TDFPB3F Issued March 2016
+Projects
+AdaBnn: Binarized Neural Networks trained with adaptive structural learning.
+WarmChat: This app is a small chat room that classify every message and say weather is an insult or not using four classiers:
+svm, random forest, decision trees and max entropy.
+Small tool for generating frequent words analysis on the position names of LinkedIn Connections.
+Template for Dockerized Shiny (R) application deployment.
+Personal publications
+Sajidxa Mari~ no, Jesus Lares, Wilmer Gonzalez. Diode's Laser in Oce Endoscopic Surgery Center for Nasal Obstruction and
+Snoring. J Med - Clin Res & Rev. 2018; 2(6): 1-3.
+Twitter, A data source for the academy (spanish).
+GitHub & Social Coding. Social network for programmers (spanish).
+Reproducible Research. Case of study: allocation of university places in UCV by OPSU (spanish).
+Other programming tools
+Cloud services: AWS(Lambda, S3, Sagemaker), Azure(Blob storage).
+Deep learning frameworks: Keras, Tensorow.
+R:dplyr, ggplot, tidyr, shiny, plumber.
+Python: xgboost, sci-kit, pandas, falcon, ask.
+Webserver: Gunicorn.

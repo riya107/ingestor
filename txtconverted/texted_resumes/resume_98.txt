@@ -1,0 +1,75 @@
+YASHNAGRE
+ElectricalandElectronicsEngineer
+/_475yashnagre1999@gmail.com /map_markerAurangabad,India /linkedinlinkedin.com/in/Yash-Nagre
+PROJECTS
+BoostConverterDesigning
+Developedboostconverterwhichstepsup
+24Vto50Vwithef ﬁciencyof80%.
+AddedvariablefrequencyfeaturetoPWM
+pulsesfrom20kHzto2000kHz.
+SimulatedonPSIMandMULTISIM.
+GasInsulatedSwitchgearStudyProject
+UnderSIEMENSltd.didstudyprojecton
+245kVgasinsulatedswitchgear.
+Studiedmanufacturingandworkingof8DN9
+typeswitchgearmodelofSIEMENSltd.
+QuadrupedRobotDesigning
+Arobotwhichcanimplementdoglikemove-
+mentandabletowalkandrunondifferent
+terrains.
+Madeusing8servomotors,simulatedonMAT-
+LABsimulink,designedonSOLIDWORKSand
+printed3Ddesignedparts.
+LineFollowingRobot
+Arobotwhichfollowsacertainmarkedpath
+andtaketurnsaccordingtothepathisbuilt
+usingtwoIRsensorstosensedirection,coded
+onArduinoUno
+INPLANTTRAINING
+IndustryVisitor
+KhaparkhedaThermalPowerPlant
+Ὄ5Dec2018–Dec2018
+InplantTrainee
+SIEMENSltd.Waluj
+Ὄ5June2019–July2019
+EXTRACURRICULAR
+ClubManageratEntrepreneurshipCell,VNIT.
+CampusAmbassadoratIITBombayTechFest
+2018.
+AlumnisecretaryatElectricalandElectronics
+department,VNIT.
+BatchrepresentativeatElectricalandElec-
+tronicsdepartment,VNIT.
+MemberatInnovationslab,VNIT.
+StudentVolunteeratStartupyatra2019.EDUCATION
+B.TechinElecticalandElectronicsEngineering
+VISVESVARAYANATIONALINSTITUTEOF
+TECHNOLOGY
+Ὄ5June2017–Present /map_markerNagpur,India
+12thstandard,85%
+Deogiricollegeofscience
+Ὄ5Feb2016–June2017 /map_markerAurangabad,India
+SSCL,93.5%
+AnantBhaleraoVidyaMandire
+Ὄ5Feb2014–June2015 /map_markerAurangabad,India
+ACHIEVEMENTS
+Placedintop24inAurangabaddistrictchesscompetition
+CitylevelrunnerupinTATAmaharashtralevelessaywriting
+competition
+WinneratAurangabaddrawingcompetition2008
+SKILLS
+MATLAB,MULTISIM,CCS,EAGLE,DPS ○○○○○
+SOLIDWORKS,Adobephotoshop,Arduino ○○○○○
+COURSES
+ElectricPowersystemSpecialization
+Coursera
+Ὄ5June2019–Aug2019
+PowerElectronicsSpecialization
+Coursera
+Ὄ5Aug2019–Sep2019
+ControlofMobileRobotics
+Coursera
+Ὄ5May2019–June2019
+UnderstandingFinancialMarkets
+Coursera
+Ὄ5Jan2019–Mar2019

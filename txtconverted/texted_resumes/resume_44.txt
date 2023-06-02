@@ -1,0 +1,136 @@
+Last Upda ted on 1 7th J anuary 2016
+Manish Saroya
+Senior U ndergr adua te, Departmen t o f Electrical and Electr onic s E ngineering
+Vis ves v ar a y a Na tional Ins titu te o f Technol ogy( VNIT ), Nagpur, India
+http://www.ivlabs.in/
+manishsar o y a@gmail.c om | +91 -959.40 7 7 .921
+EDUCATION
+VISVESV ARA Y A NA TIONAL IN-
+STITUTE OF TECHNOLOGY
+B. TECH IN ELECTRICAL AND
+ELECTRONICS ENGINEERING
+Expected Ma y 2016 | Nagpur, India
+C um. GP A: 7 .16/ 10.0
+P ACE JUNIOR SCIENCE COL -
+LEGE
+Gr ad. Ma y 2012 | mumbai, India
+Higher Secondary XII,Maharashtra State
+Board:mumbai, India
+Aggregate: 80.0%
+Secondary XII,Maharashtra State Board:
+mumbai, India
+Aggregate: 87.67%
+LINKS
+Research Lab:// ivlabs
+Github:// manishsaroya
+LinkedIn:// manishlinked
+RESEARCH INTERESTS
+Controls
+Artiﬁcial Intelligence
+Multi-Agent Systems
+Motion/Path Planning
+Mobile Robots
+Field Robotics
+TECHNICAL SKILLS
+•Motion/Path planning
+•Advance levelUbuntu user
+•C/C++, Python, Cython, LATEX
+•MATLAB programming andSIMULINK
+•Deep knowledge ofROS
+•Gazebo
+•Actuator Control viz.Dynamixels, servo,
+stepper motors
+•Hands onDevelopment Boards
+•Image processing withOpenCVRESEARCH EXPERIENCE
+RE-CONFIGURABLE MODULAR SPHERICAL SNAKE ROBOT | AT
+IVLABS | TO BE SUBMITTED IN IR O S 2016
+Sept 2015 – Presen t | Men t or: Dr . S hital S. Chiddarw ar | VNIT Nagpur, INDIA
+•Working ondevelopment ofsnake robot consisting mechanically connected
+multiple spherical bots.
+•Design eliminates theproblems withexisting snake robots tohandle lateral
+motions andcomplex gaitanalysis byleveraging Omni directional motion
+capabilities ofspherical bots.
+•Each spherical module works onthebarycenter offset principle withTwo
+driving units incorporating Omnidirectional motion: a)Forpropelling therobot
+forward. b)Forsteering thepropeller unit.
+MUL TI AGENT P A TH PLANNING | CARNEGIE MELLON UNIVERSITY |
+BIOROBOTICS LAB| RESEARCH INTERN
+Ma y 2015 – A ug 2015 | Men t or: Pr o f . Ho wie Cho se t
+•Design acontroller which provides smooth velocity vectors which reduces the
+costoftravel andalsosmoothen thepathonwhich therobot hastotravel.
+•Thevector ﬁeldismore center pointing which helps therobot tobeindomain
+ofthecontroller. Theoptimization criteria isﬁrstgotowards thecenter ofthe
+controller thenmove towards theexitfacet.
+DESIGN, F ABRICA TION AND CONTROL OF ‘SW A Y A T’ A 20 DOF
+HUMANOID (KID SIZE): | AT IVLABS | VNIT NAGPUR, INDIA
+A ugus t 2014 – J anuary 2015 | Men t or: Dr . S hital S. Chiddarw ar
+•Fabrication andMechanical Design: ItwasDesigned andSimulated in
+SolidWorks.Parts arefabricated inCNC Milling. Some small partare3D
+printed formore precision.
+•Software Architecture: Complete Software Architecture wasdeveloped on
+Ubuntu 12.04 using ROSGroovy platform. Multiple nodal communication was
+done using ROSplatform fordatatransfer. Rosserial wasused tocommunicate
+withhardware.
+•Control system: Thekinematics forthestatic walking forthehumanoid robot
+wassuccessfully implemented. Torque andspeed feedbacks were taken from
+theDynamixel motors.
+SNAKE ROBOT | AT UMIC IITBOMBAY | RESEARCH INTERN DEMO VIDEO
+Ma y 2014 – J ul y 2014 | Men t or: Pr o f . S.N. Merchan t
+•Acompletely ROS(Robot Operating System) controlled robot, made byusing
+AX-12(advanced servo motors) actuators.
+•Treeclimbing wastried ontherobot byreducing theindividual weights ofthe
+links. Allthebasic snake motion gaits were applied successfully.
+•GUIforsnake control: Tomake ourrobot userfriendly webuiltaGUI(Graphic
+userinterface).Using thisGUIusercandirectly rungaitofhischoice.
+1•Development Boards(BeagleBone Black,
+Raspberry Pie,Arduino, Atmega)
+•Kinect ROSinterface
+•3Dprinting
+COURSEWORK
+UNDERGRADUA TE
+Advance Engineering Mathematics
+Integral Transforms &Partial Differential
+Equations
+Control Systems
+Advance Control Systems
+Signals AndSystems
+Advance Programming
+Microprocessor and linear Electronic
+Circuits
+OTHER ONLINE COURSES
+•Linear Algebra byProf. Gilbert
+Strang (MIT-OCW)
+•Artiﬁcial Intelligence for
+Robotics byProf. Sebastian
+Thrun (Udacity)
+•Control ofMobile Robot byDr.
+Magnus Egerstedt (Coursera)
+Present
+•Aerial Robotics byProf. Vijay
+Kumar(Coursera)BUTLER ROBOT | TEXAS INSTRUMENTS INNOVATION CHALLENGE 2014
+Ma y 2013 – J ul y 2013 | Men t or: Dr .K.M.Bhurchandi
+•Aself-contained system consisting ofBeagle Bone Black ,PicoProjector ,Tiva
+C-series launch pad,LiPobattery. Navigation ismade withthehelpofandroid
+application device using thevalues accelerometer aspertheorientation andtilt
+withrespect toground.
+•Developed asoftware architecture onUbuntu 12.04 using ROSGroovy. Image
+transportation from BeagleBoard-xM toother systems andviceversa for
+Telepresence.
+•Omni wheels areused rather thannormal wheels toachieve Omni bidirectional
+navigation. Power screw mechanism isused tochange theheight ofthetopfor
+theconvenience oftheuser.
+AWARDS AND ACCOMPLISHMENTS
+•Selected for2ndround ofTexas Instruments Analog Design Contest 2014,
+amongst 400+ teams.
+•Establishment ofIVLABS atVNIT along withmycolleagues tospread the
+awareness ofrobotics andautomation andincrease theinterest ofthepeople in
+thesame ﬁeld.
+•Currently Core coordinator ofIVLABS andmentoring sophomore year
+students inprojects likeHome Navigation type Bulter Robot &kidsize
+Humanoid robot .
+•Have worked withRohan Thakker (Graduate student atCarnegie Mellon
+University )onHome Navigation Butler Robot.
+•Conducted number oftechnical workshops onbasic concepts ofrobotics, ROS,
+Basic Development Boards forfreshman yearstudents atVNIT Nagpur.
+•Active committee member ofIEEE Student Chapter atVNIT Nagpur.
+2

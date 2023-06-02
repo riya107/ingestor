@@ -1,0 +1,46 @@
+MASMOUDI Mohamed
+Habib
+Software Engineering Student
+Education
+2012–2014 Engineering student ,The National School of Computer Sciences(ENSI) ,Tunisia.
+2010–2012 Preparatory cycle ,The Preparatory Institute for Engineering Studies of Sfax ,
+(IPEIS).
+2009–2010 High school diploma (mathematics section) ,The 25 July high school ,Sfax.
+Work Experience
+{Internship : TELNET HOLDING : Development of a Decision Support System (DSS):
+A Biometric Google App Engine web application handling client request by
+applying a set of biometric tests (such as Face Recognition and Alphanumeric
+Matching) to detect frauds token during the enrollment process.
+-Technologies : Google Cloud (Google App Engine) , Java J2EE, OpenCv, Objectify, JAX-WS.
+{Internship : TELNET HOLDING : Development of a Hybrid cryptosystem ensuring
+Data Privacy in Cloud : it is a Webservice offering cryptographic funtions
+such as crypting/decryting data, and crypting/decryting files.
+-Technologies : Java Security , JAX-WS.
+{Realization of a DSL: Domain speciﬁc Language (langage spéciﬁque de déﬁnition et de manipu-
+lation de bases de donnée hétérogènes (SQL et NoSQL) géolocalisées et réparties sur Cloud en se
+basant sur une approche orientée modèle)
+-Deployement of Private Cloud
+-Technologies : java J2EE, jcloud, Openstack,Xtext, MangoDB, MySQL
+{Internship : Mtd Group : Development of a commercial management application
+-Technologies : C Sharp (.NET), MySQL.
+{Realization of a game : Hanoi
+-Technologies : C++ (console game).
+{Realization of a game : Pac Man
+-Technologies : C, SDL.
+H(+216) 53 638 331 •Bing.masmoudi.mohamed@gmail.com 1/2Professional Skills
+{Operating systems : Linux,Windows
+{Languages and Environments : java (java SE,J2EE) ,C/C++ ,Openstack ,Google
+Cloud,Google App Engine ,OpenCv ,Assembleur (Mips) ,C/C++ ,UML,Shell,
+php,Pascal,Maple,MATLAB ,Lisp,Langage B
+{Database: SQL(MySQL,Oracle),PLSQL,NOSQL(MangoDB, Datastore)
+{Programming approaches: procedural programming, object oriented programming,
+agent oriented programming, model based programming
+Languages
+{ArabeMother tongue
+{French Professional level
+{English Professional level
+{Deutsch Average level
+Interests
+- Piano - Chess
+- Member of the ENSI Security Club
+H(+216) 53 638 331 •Bing.masmoudi.mohamed@gmail.com 2/2

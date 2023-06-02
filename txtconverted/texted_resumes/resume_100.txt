@@ -1,0 +1,43 @@
+Allen (Zepeng) Zhao
+Phone: +13857227349
+Email: u0836547@utah.edu
+Github: https://github.com/allenfromuMail Address: 8086 South Heywood Drive,
+West Jordan,Utah, 84081
+EDUCATION Shenzhen University , Shenzhen, China
+Bachelor of Science , Mathematics, Sep, 2010 - May, 2012
+University of Utah , Salt Lake City, UT
+Bachelor of Science , Computer Science, May, 2012 - Present GPA: 3.76
+COMPUTER
+SKILLSAdvanced Programming Languages : C++, Java
+Other Programming Languages : C, Python, SQL, C#, Go, Scala, L ATEX.
+Web Development : HTML, CSS, JavaScript, Jquery, Bootstrap, Hakyll.
+Applications : Eclipse, Visual Studio, Android Studio, Github, VirtualBox, MySQL,
+Elasticsearch.
+Operating Systems : Unix, Linux, Mac OSX, Windows, Android.
+EXPERIENCE Web Development Intern NosqlRevolution
+Summer, 2014 West Jordan, UT
+Use Elasticsearch database management system to store real time twitter data at the
+local server. Use Java Jersey framework to connect to the elastisearch server and
+query the data in the database management system. In the front end, use AngularJS
+to communicate with the Web server and display the information in a webpage.
+Teaching Assistant for CS1410 University of Utah
+Fall, 2014 Salt Lake City, UT
+Hold lab sections, oce hours to teach students how to reach a problem and resolve it.
+Write auto-grader to grade assignment in Python and grade weekly assignments
+Undergraduate Research Assistant University of Utah
+Spring, 2015 till present Salt Lake City, UT
+Build educational software for Finiate State Automata teaching using iPython,
+Python and Javascript.
+Implement Open-Chord(Distributed Hash Table) in Scala.
+Implement Paxos in Scala.
+Create educational software for clustering algorithm teaching using d3.js
+Rebuild CPU Website using Hakyll, Jquery, Bootstrap, bibtex.js
+GRADUATE
+LEVEL
+PROJECTSMinibase System : Implement a database system in C++. The semester long project
+implementations include the heaple page, buer manager, B+ tree, external sorting
+algorithm and sort-merge join.
+Distributed Systems : Implement 4 distributed systems in Go langauage, including
+Mapreduce, Primary/back service with view service, paxos libarary and multi-paxos
+key/value store, shard key/value store with paxos peers.
+INTERESTS Programming, Software Development

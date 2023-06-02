@@ -1,0 +1,42 @@
+Jon Doe
+/mobile_phone(999) 999 9999 /envelopejondoe@gmail.com /globelinkedin.com/in/jondoe
+/githubjondoe
+Education
+University of Toronto September 2019 – April 2023
+Honours Bachelor of Science
+Major in Computer Science, minor in Software Engineering
+Related Coursework:
+/circle_blankComp Sci Fundamentals I
+/circle_blankComp Sci Fundamentals II/circle_blankCalculus I
+/circle_blankCalculus II/circle_blankLinear Algebra I
+Ridge Secondary School September 2015 – June 2019
+Ontario Secondary School Diploma
+Courses:
+/circle_blankICS3U (Introduction to Computer Science -Grade 11) - 96%
+/circle_blankICS4U (Computer Science -Grade 12) - 93%
+/circle_blankMCV4U (Calculus and Vectors -Grade 12) - 95%
+/circle_blankMHF4U (Advanced Functions -Grade 12) - 98%
+Projects
+Trivia Game June 2019
+/circle_blankAndroid app implemented in Java.
+/circle_blankUsed trivia questions api to retrieve daily questions for diﬀerent topics.
+/circle_blankAdded leaderboards to the game which increased app usage by 10%.
+Virtual Piano March 2019
+/circle_blankDeveloped using Unity 3D ,C#and the Google VR SDK.
+/circle_blankIntroduces children to the piano through an interactive and educational 3D environment.
+/circle_blankLearned to design, model and write scripts in Unity.
+/circle_blankGrade received: 93%
+Achievements
+Mathematics Award June 2017
+/circle_blankReceived for achieving the highest mathematics grade throughout the school year (grade received: 99%)
+Academic Excellence Award June 2016 – June 2019
+/circle_blankReceived for excelling academically throughout the school year.
+University of Toronto Admission Scholarship June 2019
+/circle_blankAwarded for enrolling with an average of 95% and above.
+Extracurriculars
+Robotics Club Member Sept 2018 – June 2019
+/circle_blankWrote programs that control the movement of the robots using Python.
+/circle_blankCompeted in national competition and ﬁnished in third place.
+Peer Tutor Sept 2016 – Present
+/circle_blankTutoring high school students in mathematics and science.
+/circle_blankMeet with students multiple times weekly to explain concepts and answer questions.

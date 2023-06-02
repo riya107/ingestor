@@ -1,0 +1,48 @@
+Christopher J Bednar Jr
+(571) 245-7874
+bednar.christopher@gmail.com
+github.com/supercowz
+www.bednarchris.com
+EDUCATION George Mason University, Fairfax, VA
+Completed 63 credits toward a BS in Computer Science
+COMPUTER
+SKILLSLanguages & Software: HTML, CSS, JavaScript, PHP, Python, AngularJS, Django,
+Stylus, Bootstrap, WordPress, Git
+Operating Systems: Microsoft Windows, Mac OSX, Ubuntu Linux
+EXPERIENCE Web Development Intern February 2015 - Present
+Edge Energy, McLean, VA
+Constructed a modern WordPress theme using Twitter Bootstrap
+Set up an up-to-date phone system using RingCentral
+Management of several WordPress sites
+Product Development UI Intern June 2014 - August 2014
+iCrossing, Reston, VA
+Created a Python script running as a cron job on a Linux server to process user
+uploaded video les
+Styled a landing page for PNC Bank using JavaScript, HTML, CSS and Adobe
+Photoshop
+Styled an existing WordPress theme using CSS and PHP
+Web Development Intern September 2014 - December 2014
+Hurdlr Inc, Washington, DC
+Created a Grunt script that automatically ran nightly Protractor tests with a
+detailed log of the results
+Contributed to a nancial management web application with a small group of
+developers using AngularJS, Stylus, CSS, and HTML
+Technology Chair for Theta Tau January 2014 - December 2014
+George Mason University, Fairfax, VA
+Maintained and helped contribute to the creation of our fraternity website
+Conducted committee meetings with other members of the fraternity
+Undergraduate Teaching Assistant August 2012 - December 2012
+George Mason University, Fairfax, VA
+Assisted students in Python and general programming practices by nding ways
+to help them approach solving problems
+Personal Tutor February 2013 - May 2013
+George Mason University, Fairfax, VA
+Assisted students in Python and Java programming languages. Helped them
+study for tests, complete projects, and nish their homework
+PROFESSIONAL
+DEVELOPMENTBuilt two blogs using WordPress and Twitter Bootstrap
+Attended several university hackathons including a time winning Microsoft's
+second place prize at UMD's Bitcamp
+Completed "The Complete Web Developer Course" on Udemy
+Member of Theta Tau Professional Engineering Fraternity
+Visit bednarchris.com/portfolio for more professional development examples

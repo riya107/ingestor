@@ -1,0 +1,49 @@
+Rujhan Arora Email : rujhanarora.96@gmail.com
+https://www.linkedin.com/in/rujhanarora/ Mobile : 8571086069
+Education
+National Institute of Technology(NIT), Kurukshetra Kurukshetra, Haryana
+B.Tech in Computer Science; CGPA: 8.4 July. 2013 { May. 2017
+Experience
+Fastfox.com Gurgaon, Haryana
+Software Development Engineer Oct 2018 - Present
+Fastfox Agents : Implemented a new exible Incentive System in backend for Fastfox Agents' incentives (Monthly,
+Quarterly etc), alongwith various other Rubackend API's for the app. Fastfox Agents is an android and ios app for
+fastfox brokers.
+BroEx : Revamped BroEx feed for the users. Also, implemented various backend API's for the app. BroEx is the
+largest network of Real Estate Brokers in India having features like News Feed, Auto Match Notication, Property
+view and search etc.
+Internal Admin Panel : Implemented various API's for internal panel for Fastfox employees of various roles.
+Admin panel is a web panel for internal employees for all their designated tasks.
+Fastfox : Fastfox is an online platform to get properties on rental basis.
+Tech Stack: : Node.js, PostgreSQL, Redis, RabbitMQ
+Fidelity Investments Chennai, Tamil Nadu
+Software Engineer Aug 2017 - Sep 2018
+Reference Point- FI and WI Discretionary : Worked as a part of Reference Point- FI and WI Discretionary,
+which is a cloud hosted application(MS sharepoint) storing dierent plan details in the form of topics, maps and
+content requests at dierent levels.
+Scrum Bot (BU Project) : Developed Scrum Bot for Agile Teams, which takes input from user through Skype
+and performs various functions in JIRA board. Rather than going to JIRA website, users can directly type in
+queries in Skype input itself to get desired results.
+Buy Local Bond CMS System (Training Project) : Developed end-to-end client management system, a Web
+application to manage and record all activities and preference details of clients under authorized brokers, using
+JAVA, Angular 4 and MySQL.
+Projects
+Classication of Trash Based On Recyclability Status (Jan, 2017 { Apr, 2017) : Developed a project
+(achieving 88% accuracy), whose objective was to take images of a single piece of garbage and classify it into ve classes-
+glass, leather, paper, plastic and metal using Computer Vision(CV) approach and Machine Learning, using Python. Used
+SIFT for feature extraction, K-means clustering for grouping and SVM for classication)
+Student and Teacher Attendance Manager : Developed an android app for taking attendance of both students (by
+teachers) and teachers (By Admins). Used JAVA and XML with SQLite as database.
+Achievements and Responsibilities
+Global Leaderboard rank { 87 @ InterviewBit : Prole -https://www.interviewbit.com/prole/slrparser
+InterviewBit is a reputed website to test your Data Structures, Algorithms and Coding Skills. I am currently ranked 87
+globally, among a pool of more than 2.5 lakh users
+1st position : In Blindcoding , TechSpardha(College Technical Fest) (10/2014 { 10/2014). Blindcoding is an annual
+event where programming questions have to be solved, with computer screen getting turned o every 5 minutes.
+1st position : In Humbug , TechSpardha(College Technical Fest) (10/2014 { 10/2014). Humbug is an annual event where
+programming questions have to be solved in a section and bugs have to found out from a given code, in other section
+AIR 5934 : In JEE{Mains (05/2013 { 06/2013)
+AIR 9400 : In JEE{Advanced (05/2013 { 06/2013)
+Skills
+Procient : Node.js, Javascript, Data Structures and Algorithms, PostgreSQL
+Comfortable : Redis, C++, JAVA, HTML, jQuery

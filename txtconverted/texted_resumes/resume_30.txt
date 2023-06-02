@@ -1,0 +1,80 @@
+JATINVARLYANI
+FullStackWebDeveloper
+/_475varlyanijatin88@gmail.com /phone(+91)8806502484 /map_markerMumbai,India ὑ7jatin-varlyani.ml /linkedinjatin-varlyani /githubJatin-8898
+EDUCATION
+B.TechinInformationTechnology
+VeermataJijabaiTechnologicalInstitute
+Ὄ5July2017–May2020 CGPA:8.20
+DiplomainComputerEngineering
+VivekanandEducationSocietyPolytechnic
+Ὄ5June2014–May2017 Per:94.13%
+ClassXinSSC
+FatimaHighSchool
+Ὄ5June2014 Per:89.20%
+SKILLS
+C/C++JavaPHPHTMLCSS
+SQLJavaScriptjQueryGit
+FlaskReactBootstrapBlockchain
+ACHIEVEMENTS
+Amongtop10inGlobalBlockchain
+HackathonheldinCSI-SPIT 2019
+DevelopedaChromeExtensionnamed
+Hackpad 2018
+Secured1stpositioninAcademicsin
+VivekanandEducationSociety 2017
+PARTICIPATION
+BlockchainforGlobalGood-VJTI 2019
+EventHeadinTreasureHunt-VES 2017
+NationalLevelPaperPresentationat
+UniversalCollegeofEngineering 2015
+StateLevelPaperPresentationatD.YPatil
+InstituteofTechnology 2015
+CERTIFICATION
+Front-EndWebUIFrameworksandTools:
+Bootstrap4-Coursera
+BlockchainFundamentals-Pluralsight
+DesignPatternsinJava-Pluralsight
+ReactBigPicture-Pluralsight
+BusinessAnalyst–AspiringMinds
+DataProcessingSpecialist-AspiringMinds
+ProﬁciencyinEnglish-AspiringMinds
+SoftwareDevelopmentTrainee-(AM)EXPERIENCE
+PHPDeveloperIntern
+MehaarTechnologies
+Ὄ5May2018–Jun2018
+DesignedahostelmanagementsystembasedontheOTPmessagefor
+ahostelwithstudentregistrationandhistotaltimeaway.
+Developedanfull ﬂedgedworkingimplementationbene ﬁcialforthe
+hostelstudents.
+FrontEndDeveloperIntern
+MeghnaPlastics
+Ὄ5Jun2018
+DesignedanddevelopedaplumpingwebsiteusingBootstrap4witha
+veryresponsiveandcleanUIanddescentUserExperience.
+Afterpublishingthewebsitetotheusers,thecustomerbasegrewby
+60%inthesubsequentmonth.
+PROJECTS
+BlogWebsite(ContentManagementSystem)
+php,html,css,bootstrap,jquery
+Ὄ5December2018–January2018
+BasicLogin,Registerfunctionality&Userscanpostblogs.
+Whileadmincanmanageposts,users,categories,comments.
+BloodBank(AcademicProject)
+php,html,css,bootstrap,jquery
+Ὄ5March2018–May2018
+DonorscanviewtheupcomingBloodCamps&donateblood.
+SeekerscansearchfordonorsonbasisofCity&BloodType.
+AdminmanagesallusersandmanagestheBloodStock.
+ChatBots
+dialog ﬂow,facebookpage,python, ﬂask,heroku
+Ὄ5March2019–March2019
+DevelopedaChatBotusingtheDialogFlowbasedontheSentimental
+analysisoftheSentence.
+DeployeditliveonFacebookPageandthehostedthebackendservice
+onHeroku.
+RealTimeChatApplication
+mongo,express,node,socket.io,pug
+Ὄ5September2018–September2018
+Developedarealtimechatapplicationwheretheuserscancreate
+theirUsername&startchattingwiththeotherpeopleinthechat
+room.

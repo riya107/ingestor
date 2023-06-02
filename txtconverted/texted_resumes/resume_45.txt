@@ -1,0 +1,36 @@
+MATTA ADITYA REDDY
+15-551/A, Panchayati raj colony, Machilipatnam 521001
+(+91)8309594579 adityareddy561@gmail.com
+EDUCATION
+Amrita Vishwa Vidyapeetham , Amritapuri July 2017 - Present
+Bachelor of Technology CGPA: 7.01
+Department of Computer Science
+Bhashyam IIT Foundation , Guntur June 2015 - April 2017
+Secondary School of Education Overall Percentage: 87.8%
+Bhashyam Public School , Guntur June 2014 - April 2015
+Class X Overall Percentage: 88.0%
+PROJECTS
+ParkingLot | JAVA
+A vehicle parking management system build in Java using Java Swing. The program uses les as
+data-base and Swing for GUI. The code is properly commented and understandable.
+ALMS-NODEJS | NODEJS , MONGODB
+A Laundry management system using NodeJS and MongoDB. A Laundry management system for
+Amrita students. This Application has Online Services with mobile and computerfriendly themes de-
+veloped. Features : Admin Panel and Customer Panel.
+TECHNICAL STRENGTHS
+PROGRAMMING C, C++, Java, Python3, Object-oriented programming
+WEB HTML, CSS, Bootstrap, Java Script, Node JS
+DATABASE Mongo DB, PostgreSQL
+OS Ubuntu, Windows
+Others Git, Adobe Photoshop
+LANGUAGES
+Mother Tongue Telugu
+Others English, Hindi
+INTERESTS AND ACTIVITIES
+Technology, Open-Source, Programming
+Web-development, Machine-Learning, Articial Intelligence, Big data Analysis
+Cricket, Travelling
+PERSONAL TRAITS
+Highly motivated and eager to learn new things.
+Strong motivational and leadership skills.
+Ability to work as an individual as well as in group.

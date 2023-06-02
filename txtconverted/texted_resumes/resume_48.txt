@@ -1,0 +1,90 @@
+Last Upda ted on 20th Jul y 2016Mohamed Javid
+http://mohamedjavid.webs.com
+smj.ja vid@ho tmail.c om | +91 -9 787815969
+OBJECTIVE
+learn thecurrent state oftheartinacre-
+ative andopen environment, then identify
+thenecessary process toexpand oncur-
+rentknowledge, andprove theexistence of
+theﬁrstcause.
+EDUCATION
+SRM UNIVERSITY
+M. TECH IN ROBOTICS
+Gr ad. Ma y 2015 | Chennai, India
+C um. GP A: 7 .29 / 10.0
+ANNA UNIVERSITY
+B.E IN MECHANICAL ENGINEERING
+Gr ad. Ma y 2013 | T amil Nadu, India
+C um. GP A: 6.83 / 10.0
+LINKS
+LinkedIn:// smj-javid
+Twitter:// @smj_javid
+Facebook:// smj.javid
+COURSEWORK
+POSTGRADUATE
+Kinematics andDynamics ofRobots
+Robot Programming
+Artiﬁcial Intelligence forRobotics
+Robot Vision
+Robotic Sensors
+UNDERGRADUATE
+Engineering Graphics
+Engineering Mechanics
+Kinematics andDynamics ofMachinery
+Manufacturing Technology
+Engineering Thermodynamics
+Finite Element Analysis
+Automobile andPower plant Engineering
+SKILLS
+PROGRAMMING
+PLC•Ladder Diagram •Matlab
+FBD•C•C++•Python •Embedded C
+SOFTWARE
+KUKA SimLAYOUT •Solidworks •DCS
+AutoCAD •SCADA •PAC•HMI•VFD
+LANGUAGE
+Tamil •Urdu •English •German
+JapaneseEXPERIENCE
+REDD ROBOTICS | ASSOCIATE ENGINEER, RESEARCH AND
+DEVELOPMENT
+No v 2015 – Presen t | Chennai, India
+•Design, Fabrication, Assembly, andTesting of3DPrinters.
+REDD ROBOTICS | ENGINEERING INTERN
+A ug 2015 – Oct 2015 | Chennai, India
+•3DPrinter Designer.
+PROJECTS
+CHOCOLATE 3D PRINTER
+J un 2016 – J ul 2016 | REDD R obo tic s, Chennai, India
+Based onthesame principals ofadditive layer manufacturing andplastic printing the
+chocolate printer isdesigned toprovide thebestpossible results when printing in
+chocolate.
+BIO 3D PRINTER
+Mar 2016 – Ma y 2016 | REDD R obo tic s, Chennai, India
+Utilizes thelayer-by-layer method tocreate tissue-like structures using bioinks.
+DESIGN AND FABRICATION OF AN OUTDOOR QUADCOPTER
+J un 2014 – Ma y 2015 | SRM U niver sit y, Chennai, India
+Anautonomous quadcopter isdesigned, fabricated andprogrammed torecognize,
+track andfollow objects/human using vision based techniques.
+DESIGN AND IMPLEMENTATION OF DEBURRING TOOL AND
+HOLDER
+J an 2013 – Ma y 2013 | Anna U niver sit y, T amil Nadu, India
+Atoolisdesigned inhalftrapezoidal shape of35degree inangle anditisattached to
+thedrilling machine holder toremove theburr’s thatareformed during drilling
+process.
+TRAINING
+POST GRADUATE DIPLOMA IN INDUSTRIAL AUTOMATION
+Technocr a t A u t oma tion, Chennai, India
+Hands onpractical experience inIndustrial Automation Tools specializing inPLC,
+DCS, SCADA andVFD.
+ADVANCED ROBOT PROGRAMMING IN KUKA ROBOTS
+AKGEC-KUKA R obo tic s, Ghaziabad, U .P, India
+Structured programming, Variables anddeclarations, Subprograms andfunctions,
+Data manipulation, Program execution control, Automatic external functions
+BASIC ROBOT PROGRAMMING IN KUKA ROBOTS
+AKGEC-KUKA R obo tic s, Ghaziabad, U .P, India
+Ofﬂine Programming, Online Programming, Robot mastering andToolcalibration
+PUBLICATION
+DESIGN AND FABRICATION OF AN OUTDOOR QUADCOPTER
+International Journal ofApplied Engineering Research, ISSN 0973-4562 Volume 10,
+Number 8(2015) pp.20703-20713
+1

@@ -1,0 +1,76 @@
+Parth Kapadia
+ResumeD/83, Konark Karishma Building
+Judges Bungalow Rd, Vastrapur, Ahmedabad-380015
+H(+91) 9725771334
+Bpkapadia95@gmail.com
+Objective
+A budding electrical engineer, waiting to work in a challenging environment which
+will help me develop my skills of practical application of concepts and thereby
+growing as a professional in the ﬁeld of engineering.
+Education
+2013-Present B.Tech in Electrical Engineering ,Pandit Deendayal Petroleum University , Gand-
+hinagar, CGPA - 6.35/10 (till 7 semesters).
+2013 Higher Secondary Examination, CBSE ,St.Kabir School , Ahmedabad, 92.2%.
+2011 Secondary Examination, ICSE ,Vissanji Academy , Mumbai, 93.6%.
+Internship and projects
+Jan’17-
+OngoingSolid State Transformer ,Major Project, Sem 8 .
+{Undergoing literature survey of DC-DC dual active bridge converters.
+{Will be simulating as well as prototyping the same.
+Aug-Dec’16 3 Phase Bridge Converter fed DC motor drive ,Minor Project, Sem 7 .
+{Simulation of open & closed loop as well as hardware of open loop was implemented.
+{Firing angle of 3 Phase Bridge converter was controlled to obtain voltage speed control.
+June-July’16 Internship at Innovation Center ,Godrej & Boyce Mfg. Co. Ltd .
+{Objective: Develop Smart products/technologies to support cleanliness and hygiene in the
+home environment.Studying the current technologies used to provide eﬃcient cleaning.
+{Identiﬁed how can we make maintaining household cleanliness and hygiene a fun and
+engaging activity for a variety of users which enables them to save time while cleaning,
+cuts down on repetitive and mundane tasks and is ergonomic and reduces human eﬀort
+through an ecosystem of cleaning products.
+{Prototyped a hand held cleaning device.
+June’15-
+March’16Prototyped Electric Car ,Shell Eco Marathon - Asia .
+{Prototyped a single seater electric car as a member of Team Kaizen.
+{Was involved in designing and testing of motor controller for a brush type PMDC motor.
+Jan’15 Smart wake up pillow ,MIT Media Labs workshop .
+{Prototyped a pillow with an alarm embedded inside it with touch interface.
+{Attempt was made to create new sensors out of soft materials to embed them into fabrics.
+July’15 Industrial Training at Thermal Power Plant ,GSECL, Wanakbori .
+{Underwent a 10 Day in plant training program.
+1/2June-July’14 Civic & Social Internship ,Saath, NGO .
+{Undertook many case studies by traveling and talking to people in slums.
+{Imparted education by teaching in schools run by the NGO.
+2014-17 Projects using micro-controller ,Arduino Leonardo .
+{Robotic arm to play chess - Fabricated an arm and a chess board which tracked moves
+played by human using reed sensors and micro-controller.
+{Coin Hopper - Made a miniature robot for popping coins. It is a prototype of the coin
+dispensing machines used at banks.
+{Line Following Robot & Gaming controller.
+Achievements.
+{Secured All India Rank - 18,734with a score of 185/360 in the Joint Entrance Exami-
+nation (JEE) Mains, 2013
+{Represented India at Shell Eco-marathon, Asia an international level competition.
+{Participated at KPIT, Sparkle where our electric vehicle prototype was shortlisted
+amongst top few from a pool of 17,000 ideas.
+Scholarships.
+{Recipient of the President’s Fellowship . A program funded and managed by P.D.P.U.
+I am awarded scholarship for ﬁrst semester on basis of my JEE-Merit.
+Positions of responsibility
+President Robotics and Automation Club of P.D.P.U
+Conducted various workshops on micro-controller.
+Design Head National Engineering Conclave, P.D.P.U
+Design Head and core committee member of the organizing body.
+Event Tech-Fest, P.D.P.U
+Organizer Managed & organized Robotics events at the fest for two consecutive years.
+Extra-curricular Activities.
+{I was a part of Silverwinning team representing Mumbai at state level throwball
+competition.
+{I was a part of Silverwinning team in Intra-college football competition.
+{I served as a Design Head for Team Kaizen (Shell Eco-Marathon) and National Engi-
+neering Conclave.
+{I am also a member of intra-college Basketball and Volleyball team.
+Hobbies & Interests.
+{Digital and tangible designing.
+{Playing cards.
+{Trekking.
+2/2

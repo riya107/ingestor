@@ -1,0 +1,73 @@
+KAUSHALAGARWAL
+ComputerScienceEngineer
+/_475kaushalagarwal1997@gmail.com /map_markerUttarPradesh,India /linkedinlinkedin.com/in/rsagarwal
+PROJECTS
+LUDOGAMEINC
+LudoGameinCisarealworldimplementation
+ofprogramminglanguage.%.
+Itperformalltheoperationsandfunctionality
+likephysicalboardgame.
+Buildonfunctionalprogrammingandgridap-
+proach.
+SnakeLadderGameinJava
+AnInteractivegameofsnakeladderwasbuilt
+usingswingpackage.
+ObjectOrientedProgrammingconceptswere
+used.
+OnlineRestaurantSystem
+Userfriendlyinterfaceforfoodbookingand
+displayingmenu.Onlinetransactionsystem
+wasintegratedusingPAYPALAPI.
+PHPwasusedforbackenddevelopment.
+SimonandTic-Tac-ToeGame
+SimonandTic-Tac-Toegameisaminiproject
+whichwasbuildforyoutubechannelforeduca-
+tionaltrainingpurpose.
+MediaCompanyCaseAnalysis
+Discoveringthemainfactorsbehinddecreas-
+inginnumberofviewers.
+Buildingmodalsusingmultivarietanalysisand
+supportvectormachine.
+TRAINING/CERTIFICATIONS
+SpectrumTechnologies
+CoreJava
+Ὄ5June2018–Aug2018
+Udmey
+CompleteMachineLearningCourse
+Ὄ52019
+Sololearn
+HTMLCourse,PythonCourse
+Ὄ52019
+EXTRACURRICULAR
+FoundingMemberofProgrammersChoice
+TechnicalSociteyUCER.
+Participatedinquizcompetitionorganizedby
+BackstageQuizzingatUCERPrayagrajin2017
+&2018.EDUCATION
+B.TechinComputerScienceEngineering
+UNITEDCOLLEGEOFENGINEERINGANDRESEARCH
+Ὄ5June2016–Present /map_markerPrayagraj,India
+12thstandard
+C.A.VInterCollege
+Ὄ5April2014–March2015 /map_markerPrayagraj,India
+HighSchool
+M.V.ConventInterCollege
+Ὄ5April2012–March2013 /map_markerPrayagraj,India
+ACHIEVEMENTS
+Placedintop24inAurangabaddistrictchesscompetition
+CitylevelrunnerupinTATAmaharashtralevelessaywriting
+competition
+WinneratAurangabaddrawingcompetition2008
+SKILLS
+PYTHON,MACHINELEARNING,OCTAVE ○○○○○
+JAVA,C,PHP,BOOTSTRAP,CSS,HTML ○○○○○
+WORKSHOPS
+GameDevelopmentusingUnity
+IIIT-Allahabad
+Ὄ52017
+WebDevelopment
+OrganizedbyZylowebIndiaatUCER
+Ὄ52018
+AndroidAppDevelopment
+IIT-Delhi
+Ὄ5Tryst2017

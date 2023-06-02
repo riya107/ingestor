@@ -1,0 +1,103 @@
+Naga Jyothi Kunaparaju
+2700 JF Kennedy Blvd Apt :414
+Jersey City, NJ, 07306
+(347)341-3307
+jkunaparaju@gmail.com
+OBJECTIVE Looking for a challenging position as a Big Data Programmer and help in organiza-
+tional growth utilizing my knowledge in Java, Jsp, Scala, Play, Spark.
+SUMMERY Sun Certied JAVA Programmer. Have more than 8 years of experience in business
+Systems analysis and design. Skilled in requirements gathering, Architect, leading
+web development projects. Apart from capability to learn fast, other strong points
+are good communication and ability to work under pressure.
+EDUCATION MS in Data Science with a Concentration in Business Analytics, May 2017
+Saint Peters University, Jersey City, NJ
+Bachelors in Electronics and Communication, Jan 1995
+JNT University, Hyderabad , India
+TECHNOLOGY
+SKILLSProgramming Languages: Java, Scala, C-SHARP, COBOL, SAS, R
+Web Backend Technologies: Oracle, MySQL, Db2, SQL, HiveSQL, SQL Server, AWS.
+Web Frontend Technologies: Play, JSP, Jhtml, XML, Struts, HTML,Hi-Charts, CSS,
+Java Script , ATG Dynamo, Weblogic, Tomcat.
+Software Engineering: WinCvs, Requirements analysis, UML, Rational Rose, Project
+Documentation.
+Software: SPARK, Git Hub, JIRA, ant, Intellij, Ecllipse, Visual Studio .
+CURRENT
+PROJECTSResearch current world bank indicators. Comparing one indicator of choice to
+an appropriate summary of the same indicator for the aggregate group.Using
+SAS programs analyze data set creating series plots and create a macro that
+will allow parameters to pass for dierent countries and dierent indicators that
+being analyzed.
+Research sociology, geological and Economic factors contributing trac colli-
+sions. Analyze data set using various plots and set of statistical regression tools
+methodologies.Finalize conclusions to build a predictive model helping future
+impacts for trac collisions. Technologies used R studio and Excel and mysql
+workbench and SAS Studio.
+EXPERIENCE Software Engineer Jan 2015 - Dec 2015
+Vectorum, Hyderabad, India
+Vectorum is project developed for Machine data analytics built with technologies like
+Spark, Scala, play, Hi- charts, which will provide a set of tools for building models, to
+predict fault occurrences in Machine sensor data. Modules developed including Data-
+cleansing, graphical interfaces with HI-Charts, Streaming and Statistics using spark
+Machine learning libraries. Performance of the all modules tested with streaming
+through Tera bytes of Machine data. As part of core team in-addition to taking part in
+development, oversee the team activities by arranging conferences and communicating
+between team membersDesigned and developed data Extraction module. Created GUI for extracting
+data and saving it according to the user choice.
+Data cleaning and custom formatting to implement business rules.
+Removing NAN's and NA's from RDD before building models and graphs.
+Technologies : Scala, Java Script, Css, Html, Play, Mysql, spark, Json, Hi-charts,
+Hdfs, HiveSql
+Developer June 2014 - Dec 2014
+Till9.com, Visakhapatnam, India
+Designed a website that caters specically to attendees of conferences, and facilitates
+networking among attendees for various conferences arranged by organizations. The
+website accommodates the functionality to be customized to each conference where
+the members can create and join groups based on their preferences and the proles
+of others.
+Technologies : Java1.6, Css, Html, JSP, Mysql, Tomcat, Eclipse, AWS, JDBC
+Software Engineer June 2004Oct 2014
+Planet Asia, Bangalore, India
+Maintenance of Apartments Rental and Senior Housing website. Developed intra-net
+application to maintain employee proles.
+Technologies : ATG Dynamo, Web logic, Tomcat, Java, J2ee, Jsp, Struts, JavaScript,
+Jhtml, Rational rose, Html
+Software Engineer March 2000Sept 2003
+Move.com, Losangeles, CA, USA
+move.com(Former HomeStore.com) is apartment rentals and Real Estate media busi-
+ness leader. Ocial web site provider for Realtors in America.
+Participated on many projects which include integrating websites during merger
+between Home store and Move.com.
+Architect and Led the team, senior housing.net. Involved in major decisions
+and requirement gathering along with product development team.
+Developed a prototype rental website using C sharp, ASP dot Net to evaluate
+feasibility to convert technologies.
+Streamlined the Project documentation by industry standards. .
+Technologies : ATG Dynamo, Web logic, Tomcat, Java 1.2,1.3, Jsp, Jdbc, Struts,
+JavaScript, Jhtml, C Sharp, Oracle, Mysql, Wincvs, Eclipse, NetBeans, Visual Stu-
+dio, Rational-rose, CSS
+Consultant May 1998 - Oct 1999
+Sai Software Consulting, Dallas, USA
+Ecruise.com : E-cruise lets passengers talk directly to Cruise lines, to leading
+cruise travel experts. Cruisers nd complete a-z information, from planning to
+booking to packing to exploring ports of call.Technologies :Jhtml, ATG Dynamo, Java1.1
+Genisis (Carson city): Genisis is project developed for DMV for state of Nevada.
+Actively worked on the Licensing module, which creates new occupational li-
+censes and vehicle registrations.
+Technologies :Oracle, Db2, COBOL, Java 1.1
+MCI Cedar Rapids : Designed Intra-net application using Java servlets, HTML,
+JAVA Applets, which is accessed by Customer service representatives all over
+USA which will allow to Change the Status of customers.
+Technologies : JAVA 1.1, JDBC, AWT, Oracle, Java Webserver, Servlets
+Engineer June 1996 - April 1998
+Visakhapatnam Steel Plant, Visakhapatnam, India Projects Worked : Maintenance
+of Production planning and control systems, Parts Inventory, Material Design
+Technologies : IBM 3090, Oracle 7.1, PLSQL, COBOL, DB2, CICS
+COMMUNITY
+SERVICEParticipated in setting up Arogya Vikas health checkup camps in Rural areas. The
+focus for Arogya Vikas Health Camp is disease prevention, screening, and health ed-
+ucation. Dedicated in working with the group to conduct a cancer screening program
+with community participation. http://vtsbharath.org/general-health-camps/
+Volunteer May 2008 - June 2010
+References Professor Sylvain Jaume, Data Science Graduate Director, Saint Peter's Uni-
+versity, sjaume@saintpeters.edu
+Suman Gandham, Database Architect, move.com, sgandham@move.com

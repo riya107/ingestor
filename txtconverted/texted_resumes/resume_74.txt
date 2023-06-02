@@ -1,0 +1,92 @@
+ROBERTONOEL
+ComputerScience&FinanceDoubleMajor
+/_475roberto.noel@nyu.edu /map_markerShanghai,China /linkedinlinkedin.com/in/roberto-noel-038603130/ /githubgithub.com/robertopablonoel
+TECHNICALSKILLS
+JavaCPythonSQLSolidity
+JavaScriptHTMLCSSBootstrap
+FlaskNumPyPandasScikit-learn
+Tensor ﬂowUnix
+PROJECTS
+GeneticAlgorithmforCodeGolfMusic
+SynthesizingMusicInformationRetrieval
+(MIR)andgeneticalgorithmstodiscoverand
+improveshort,musicgeneratinglinesofC
+code.
+Implementingthemodelusingasimilarap-
+proachtotheRamanujanMachine.
+HealthHub
+Designinganddevelopinganelectronichealth
+recordssystemfocusingonaidingandassist-
+ingpatientsaswellasprovidingasmoother
+datamanagementexperienceforhealthcare
+personnel(e.g.Physicians,Nurses,etc.).
+PitchDetectionandSynthesis
+DevelopedanMIRalgorithmtodetectpitches
+in.mp3 ﬁles,reproducetheminMIDI,andsyn-
+thesizethemusingcustomwaveformats.
+Usedreal-timesignalprocessingtovisualize
+theoutputsgeneratedbythealgorithm.
+BookingWebsite
+Designedanddevelopeda ﬂightbookingweb-
+sitefromscratch,providingmultipleservices
+tobothend-consumersandairlines.
+ImplementedthewebsiteusingPython,Flask,
+SQL,JSandHTML/Bootstrap/CSS.
+AutomatedPerformanceReportingSystem
+Solelydevelopedaprogramtoautomatically
+generatequarterlyperformancereportsfor
+ArchGlobalAdvisors,scrapingthewebtoget
+historicalstockpricedata,dividenddata,and
+earningsreleasedates.
+Ultimatelycutthe ﬁrm’sreportingprocess
+fromdaystominutes.
+SOFTSKILLS
+Naturalnetworker,who,havinglivedinseveral
+countries,quicklyadaptstosocialenviron-
+mentswithpeoplefromallovertheworld.
+HostedChineseLanguageCompetitionat
+NYU,actingasanMCforanaudienceofmore
+than100attendees.
+ActedasaCommunityManagerforRedPulse,
+successfullyleadingagroupofover150writ-
+ers.EDUCATION
+NewYorkUniversity
+BachelorsinComputerScience|Finance
+Ὄ5Aug2015–Dec2019 /map_markerShanghai,CN
+ComputerScienceMajorGPA:3.62/4.0
+FullyearofstudyatNYUSternSchoolofBusiness
+EXPERIENCE
+ResearchAnalyst
+RedPulse
+Ὄ5February2019–Present /map_markerShanghai,CN
+Conductquantitative/qualitativeanalysisonselectmarket
+developments,companyannouncements,andindustrytrends.
+Providelivemarketupdatesbysourcing,aggregatingandcu-
+ratingimportantdevelopmentsintheChineseMarket.
+Buildahigh-qualitynetworkofexpertsbyrecruiting,training
+andmanaginganalystswithdiverseskill-sets.
+BusinessIntelligenceAnalyst-Intern
+GrupoArcor
+Ὄ5Oct2018–Feb2019 /map_markerShanghai,CN
+Improvedthedecision-makingef ﬁciencyofexecutivesbycre-
+atinganinteractivedashboardtovisualizesalesdata.
+Mergedthe ﬁrm’sentiredatabasedatingbackto2016bystan-
+dardizingsalesdataprovidedbyChinesedistributors.
+SummerAnalyst
+BankofAmericaMerrillLynch
+Ὄ5June2018–Aug2018 /map_markerMiami,FL
+Providedre-balancingstrategies,maximizingreturnswhile
+cuttingtransactioncostsbycreatingquantitativemodels.
+Achievedhigheryieldswhileloweringtheriskanddurationof
+ourportfoliosbyoptimizingthebondselectionprocess.
+SoftwareEngineer-Intern
+ArchGlobalAdvisors
+Ὄ5Sept2017–May2018 /map_markerNewYork,NY
+Cutreportcreationtimefromdaystominutesbyengineeringa
+proprietaryreportingsoftwaretoautomatetheentireprocess.
+Maintainedandupdatedthesoftwaretokeepupwithchanging
+demandsandAPIupdates
+LANGUAGES
+English ○○○○○
+Spanish ○○○○○
+Mandarin ○○○○○

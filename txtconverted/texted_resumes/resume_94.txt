@@ -1,0 +1,66 @@
+Utkarsh Raj
+Internship Resume
+Contact Information
+Email: clearnote01@gmail.com
+Phone: +91 9882541575, 9454901694
+Website: http://clearnote01.github.io
+https://www.linkedin.com/in/utkarshraj
+Education
+2014–Present Bachelor of Computer Science: National Institute of Technology, Himachal Pradesh
+CGPA: 7.63 Highest SGPA: 8.2
+2014 Higher Secondary Education: Woodbine Gardenia School, Kanpur, Uttarpradesh.
+Marks in CS: 99/100 Overall Percentage: 93.8%
+2012 High School Education: Woodbine Gardenia School, Kanpur, Uttarpradesh.
+Grade Point: 10.0/10.0
+Areas of Interest
+Full-stack development, Web designing, Software Development,
+Data mining, Open Source
+Projects
+Full-stack
+WebFitMeUp: Submission for competition organised by RedHat foundation, New York. The
+project was designed as a Fitness tracker, using Recursive Neural Network for personalized
+health tracking and suggestion. My contribution was in writing the complete backend(NodeJS)
+and in designing the website. Used expressJS for http server, websockets for bi-directional
+data transfer, MongoDB for database and CSS3 property ﬂex for writing responsive site for all
+platforms.
+https://github.com/clearnote01/nodejs-ex
+Automation ProxyHelper: A automatic proxy conﬁguration tool for linux, uses parallel UDP connection for
+evaluating available proxy servers and selects the one with least latency. Works automatically
+by a hook on if-up.d interface, activating on connection to internet. Support for proxy setting
+for npm, git, apt, pip & many more. Future plans to launch it on debian repository.
+https://github.com/clearnote01/ProxyHelper
+Scraping &
+Data AnalysisSentikart: Submission for Indiahacks hackathon organised by Hacker Earth, 2016. Bagged
+7th rank out over 20000 participants. Performs real-time analysis of customer reviews on
+e-commerce sites. My contribution was in writing a modiﬁed Naive Bayes Classiﬁer for
+sentimental analysis of reviews and a asynchronous web scraper for very fast data collection.
+https://github.com/clearnote01/Sentikart
+1/2Websockets AsynChat: A simple single page chat web-application with anonymous chat and color code for
+users. Written in nodeJS along with websockets for fast, minimum overhead, message transfer.
+https://github.com/clearnote01/asynchat
+Technical Skills
+Languages Used
+Python, JavaScript, Haskell(basic), Ruby(basic),
+TypeScript, C, C++, HTML, CSS
+Web Technologies
+NodeJS, AngularJS, ExpressJS, MongoDB, Socket.io
+Django, Flask, Sqlite
+Software Packages
+Wordpress, Linux, Archlinux, vim,git, LATEX
+Honors & Achievements
+2016 7th rank out of 20,000 participants in Indiahacks hackathon
+2016 2nd rank in Software Development competition organised in Nimbus, NIT
+2014 JEE MAIN rank: 11213
+2010 NTSE1st stage qualiﬁer
+Personal Skills
+Quick learner, positive attitude
+Full commitment to work
+Good decision making and analytical skills
+Extra-curricular activities
+GLUG-NITH Active member of GNU/Linux User Group at College
+Contributor in various college level projects.
+CSEC Executive member of CSE Club in college.
+Recreational Interests
+- Japanese Animations & Comics - Reading historical accounts
+- Photography - German Language
+2/2

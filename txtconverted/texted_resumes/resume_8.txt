@@ -1,0 +1,75 @@
+ANURAG GUPTA
+Software Engineer
+/_475anuragsrmcse@gmail.com /phone+91 8056588084 /linkedinwww.linkedin.com/in/anurag-gupta1996/ /githubhttps:/ /github.com/Anurag161996
+SKILLS
+React JS Spring Boot Node JS
+Java Script Java Docker SQL
+HTML CSS Git C/C++ PHP
+Python Angular JS
+CERTIFICATIONS
+From Hero To Zero in Python
+Udemy
+Ὄ5June 2019
+Introduction To Mobile App
+Development
+IIT Madras
+Ὄ5October 2016
+Predicting Donor’s Likelihood of
+Donating Blood
+IEEE
+Ὄ5April 2018
+MINOR PROJECTS
+Railway Reservation Portal using PHP
+Reactive Spring Application using Docker
+Shopping Cart Application using React
+Hotel Management using C++
+TRAINING
+Networking
+Hcl
+Ὄ5May 2016 /map_markerChennai
+Worked on Cisco packet tracer.
+Networking
+Tata
+Ὄ5June 2016 /map_markerChennai
+Learned how the industry used the
+networking concept in real time.
+Web Development
+SRM University
+Ὄ5Nov 2016 /map_markerChennai
+Developed website for ISC registration
+which held in Jan 2017.EXPERIENCE
+Software Engineer
+Mr Cooper
+Ὄ5June 2018 – Present /map_markerChennai
+Automate process to reduce the resolution time from 3 days to 3
+seconds.
+Developed new Microservice with over 90% code coverage on
+sonarqube .
+Created React component using TDD.
+Implemented Azure Search To increase the search e/uniFB03ciency by 300%.
+Integrated Azure Service Bus for Failure Tolerance.
+Created common utility in gradle and npm repo.
+Software Engineer - Intern
+Mr Cooper
+Ὄ5Sep 2017 – June 2018 /map_markerChennai
+Automate The Letter Generation Process using Mail Merge.
+Created Common Component using React which is used across the
+project.
+Optimised the code to increase the e/uniFB03ciency of the webapp.
+Worked on the Drools for calculation of date.
+Used Azure Blob for persisting documents.
+Internship
+UvSofts
+Ὄ5June 2017 /map_markerChennai
+Developed Website using Word Press.
+Internship
+SRM University
+Ὄ5May 2017 /map_markerChennai
+Worked on the Elab Tool to provide eLearning to SRM Student .
+EDUCATION
+B.Tech in Computer Science
+SRM University
+Ὄ52014 – 2018
+Senior Secondary
+CBSE Board
+Ὄ52014

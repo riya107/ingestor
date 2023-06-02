@@ -1,0 +1,39 @@
+Ingrid Vaz Martins
+28 years, BrazilianFlat 2b, 34 Blessington Street Dublin 7
+D07YF57 Dublin
+Ireland
+H+353 (083) 429 5775
+Bingridvazmartins@gmail.com
+Education
+2010–2015 Bachelor ,College Pitagoras , Betim - Brazil, Computer Science .
+Experience
+2017–2018 Junior Developer ,Ats Informatica , Nova Lima.
+I worked on bug ﬁxes for so-called SLAs and doing refactoring in the ERP system, aimed at the
+wholesale and retail market, in which the technologies used are: Java, TortoiseSVN, Postgres,
+MVC, interface framework is JSF. I participated in the communication of the company’s ERP
+system with Magento.
+2017–2017 Junior Developer ,Data Solution , Belo Horizonte.
+I worked on bug ﬁxes and doing refactoring in the ERP system, aimed at dental operators
+developed by the company, in which the technologies used are: Java, TortoiseSVN, SQL Server,
+MVC, interface framework is JSF.
+2015–2017 Trainee Developer ,Memory, Belo Horizonte.
+I have done refactoring in the public sector ERP system developed by the company in which the
+C ++ programming language and the IDE C ++ Builder 6 are used, making bug ﬁxes when
+necessary. I participated in the development of software to manage backups of the company’s
+customer databases, it was developed in the Java language using the Eclipse IDE and the
+TortoiseSVN, along with the FireBird. Performing the creation and maintenance of an internal
+knowledge management in the Moodle tool.
+Languages
+Portuguese Native
+English Intermediate OHC school - Dublin
+Knowledge Area
+Frontend AngularJS, Angular,Primefaces
+Backend Java,Hibernate,Relatórios Ireport,Java Server Faces, MVC, Maven, Spring MVC
+Database MySQL, SQL Server and Postgrees
+Outros TortoiseSVN, Git, Jenkins, agile methodologies( SCRUM)
+About me
+I have a lot of determination in my goals and among them are acquiring greater
+professional knowledge, learning from a team of professionals and being able to pass on
+that knowledge acquired further when necessary. I would like to work in the software
+development industry, despite the short period of experience in the development sector,
+I have a lot of interest in this area and a lot of willingness to learn new things.

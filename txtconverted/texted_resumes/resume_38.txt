@@ -1,0 +1,51 @@
+Keerthi RB
+SOFTWAREENGINEER
+271 Ground Floor, Byregowda Layout, Muddinapalya, Bangalore-560091
+(+91) 8904719766 | keerukee@gmail.com |https://github.com/KeerthiRB |https://www.linkedin.com/in/keerthi-rb-64598aa0/
+Summary
+4+YearsofexperienceinDotNetDevelopment. 3+Yearsofexperienceinwebapplicationdevelopment. CurrentlyworkingasSoftwareEngineer
+atSLKSoftwareService.
+Developer
+SOLIDDesignPrinciple ,InallmycodingifallowSOLIDPrinciple
+DesignArchitecture ,IamexperiencedinPortsandAdapter(Clean)architecture,ThreeLayerarchitecture
+andRepositoryPattern
+SourceCodeRepository ,TFS,GitHub,BitBucket,VSS.
+TechnologiesPractising ,DotNetCore(3.0),NodeJs,ReactJs(FunctionalComponent)
+KEYSKILLS
+•CSharpDotNet(4yr)
+•MVCandWebApi(3yr)
+•MSSqlServer(1yr)
+•Mysql(3yr)
+WorkExperience
+SLKSoftwareServicesPvt. Ltd. Bangalore,India
+SOFTWAREENGINEER Jul2018-Current
+•As a Software Engineer design and development of solutions for clients in a team environment. Technologies used are ASP.Net
+MVC,WebAPI,SSIS,WindowsService,MSSqlDatabase.
+•InSLKiampartofoneProjectConsolidatedClaimsViewfortheclientRegionsBank. ConsolidateClaimsViewwillhelpbankassociateand
+bankcustomertoraisetheclaimsonmiscellaneoustransactions.
+CapgeminiTechnologyServicesIndiaLimited Bangalore,India
+SOFTWAREENGINEER Mar2018-Jul2018
+•AsaAssociateConsultantdesignanddevelopmentofsolutionsforclientsinateamenvironment. TechnologiesusedareASP.NetMVC,Entity
+Framework,OracleDatabase.
+•InCapgeminiiwaspartofoneprojectEmployeePortalManagementforclientAmericanElectricPower(AEP).
+MindmapsTechnologiesPvt.Ltd. Bangalore,India
+SOFTWAREENGINEER Feb2017-Mar2018
+•AsaSoftwareEngineerresponsibleforDevelopingaSoftwareasrequiredbythecustomerneed. TechnologiesusedareASP.NetWebApplica-
+tion,MVC,WebApi,EntityFramework,MysqlDatabase.
+•InMindmapsiwaspartofthreeprojectwhereinneededtohandle4-5teammemberineachproject.
+•ProjectarerelatedtoBakerywebsiteandOnlineOrdermanagement, CrackerWebsiteandOnlineOrderManagementandOnlineportalfor
+RegisteringforHigherStudy.
+RakyaTechnologiesPvt.Ltd. Bangalore,India
+SOFTWAREENGINEERANDHEADOFOPERATION Jun2015-Jan2017
+•AsaSoftwareEngineerresponsibleforDeveloping,UpdatingandMaintainingthesourcecodeofRakyaSoftware. TechnologiesusedareDot
+NetWindowsapplication,MysqlDatabase,WCF.
+•AsaHeadofOperationmanagetheteamtodelivertheresultforCustomerfacingissue.
+•ProductsiownedtoDevelopandUpdatewereHospitalFinanceManagementSystem,PatientlabreportManagement,PatientHistoryManage-
+mentandWCFcommunicationchannelmaintenanceforPatientnotification.
+Awards
+2016StarAward ,FortheyearatRakyaTechnologiesPvt.Ltd. Bangalore,India
+2017-18 EmployeeoftheQuarter4times ,MindmapsTechnologiesPvt.Ltd. Bangalore,India
+OCTOBER13,2019 KEERTHIRB · RESUME 1Education
+VisvesvarayaTechnologicalUniversity Belagavi,Karnataka
+BACHELOROFENGINEERINGINELECTRONICSANDCOMMUNICATIONENGINEERING Jun2015
+OCTOBER13,2019 KEERTHIRB · RESUME 2

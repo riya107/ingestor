@@ -1,0 +1,76 @@
+Exp erience
+April 2017 - Machine Learning Engineer Bell
+Present•Focused on developing machine learning models, production de-
+ployment, testing, scaling
+•Projects: SMS spam detection, Robocall detection
+Tools: Kafka, Flume, Spark, Hive, Solr, Jupyter Lab, Kubernetes,
+Docker, GitLab CI / CD
+Awards: Merit Gold (3x), Merit Platinum (2x)
+•Helped pioneer automated deployments of data pipelines using CI
+/ CD, enabling faster and more portable deployments
+•Presented several talks on Machine Learning and Big Data at uni-
+versity hackathons and Bell internal conferences
+•Conducted interviews for junior and senior data engineering roles
+Sep 2015 - Co-founder & Full Stack Developer LocalXChange Inc.
+May 2016•In a team of 2, raised $8,000 in funding from The Hub incubator at
+the University of Guelph, to develop a hyperlocal content platform,
+aimed at delivering local news and events to local users in realtime
+•In a team of 3, built hybrid mobile & web apps with Ionic, Angular.js
+and MongoDB, surpassing 1,000 users within a month since launch
+•Met with the Mayor of Guelph and University of Guelph oﬃcials to
+discuss how the app can help boost Guelph Tourism
+Sep 2015 - Graduate Teaching Assistant University of Guelph
+Dec 2016•TA for CIS*2430 (OOP), CIS*4150 (Software Reliability & Testing)
+and CIS*3530 (Database Systems & Concepts) courses
+•Delivered several lectures for CIS*3530 when professor was away
+at a conference
+Dec 2013 - Test Automation Engineer Synechron
+Apr 2015•Primarily developed test automation libraries using Java and C#,
+scripts and CI / CD pipelines
+•Lead development of a Keyword Driven & Behavior Driven test
+framework for Microsoft Dynamics CRM . Earned monetary award
+& client appreciation.
+•Demonstrated that rewriting an in-house test framework for Mi-
+crosoft Dynamics AX , using an open source library (White) instead
+of a proprietary one (Coded UI), would help the team save $4K an-
+nually by downgrading Microsoft Visual Studio
+Res earch
+2015 - 2017 MSc. Candidate, Graduate Research Assistant University of Guelph
+Thesis : Data Integration from Multiple Historical Sources to Study
+Canadian Casualties of WWI
+•Proposed a stepwise deterministic method to integrate datasets
+without labeled data. The method performs comparably with a
+method that incorporates a Support Vector Machine
+•Prepared a longitudinal dataset to enable comprehensive analyses
+about WWI Canadian society and military, seeding further research
+•Tools : R, Python, scikit-learn, pandas
+Pub lications
+L. Antonie, H. Gadgil, G. Grewal, and K. Inwood, “Historical Data Integration - A
+Study of WWI Canadian Soldiers,” in 2016 IEEE 16th International Conference on
+Data Mining Workshops (ICDMW), pp. 186-193, IEEE, 2016.HARSH GADGIL
+Data Engineer
+ (647) 221 7999
+ hgadgil.com
+ harsh.gadgil@gmail.com
+ /in/hsgadgil
+ opensorceror
+Technical Skills
+Overview
+Data
+EngineeringFull Stack
+Dev
+OOP
+Machine
+LearningDevOps
+Programming
+0LOC
+ 5000LOC
+C•C++ •RJavaScript •SQL •LATEXScala •Java •Python
+Education
+MSc., Computer Science (GPA: 3.7)
+Specialization: Data Mining
+University of Guelph
+2015 - 2017 | Guelph, Canada
+BEng., Computer Engineering (GPA: 4.0)
+University of Pune
+2009 - 2013 | Pune, India

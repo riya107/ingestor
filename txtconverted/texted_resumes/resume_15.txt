@@ -1,0 +1,84 @@
+Bushra Abubaker – Resume
+Address Saudi Arabia,
+Riyadh
+Date of Birth 15thOctober 1990
+Nationality SyrianLinkedin URL www.linkedin.com/in/BushraAbubaker
+Mobile Phone +0 (966) 504 286370
+Email bushra.ghiath@gmail.com
+Personal Proﬁle
+I am an ambitious and hard-working person who has passionate on making diﬀerence in work and loves
+working in challenging environments. When it comes to my work environment, I can be ﬂexible, quickly
+adaptable and precise to meet objectives and deadlines.
+Work Experience
+July 14 - Saudi IntelTec Skyband Company, Riyadh, Saudi Arabia
+Aug 14 Internship
+Education
+2012-2015 BSc of Computer and Systems Engineering - Alexandria University, Egypt
+Grade: Good
+Graduation Project: ”Elderly Assistance Robot” , Distinction grade
+2008-2012 BSc of Informatics Engineering - Aleppo University, Syria
+non-completed degree
+Personal Skills
+Programming Languages
+Java, C++/C, C#
+HTML, XML
+R-language, Python, assembly
+Database Management Systems
+SQL Server, My SQL, Oracle 11g
+Miscellaneous
+Eclipse, Code Blocks, Visual Studio, SIC/XE assembler, Weka, LadSim - Environments
+git-hub, git - source version control
+Android, Ubuntu Linux and Microsoft windows - Operating Systems
+1 of3Technical skills
+Excellent Experience with OOP techniques, Database Design and most Data Structures.
+Good Knowledge of Genetics Algorithms and problem Solving Techniques
+Good Experience with Android Development.
+Good Experience in LAN Maintenance, conﬁguration includes creation of domains, servers, privileges and DHCP.
+Good Experience with Socket Programming and Networks Development.
+Projects
+Gradation Elderly Assistance Robot
+Project
+This project is aimed to create an indoor autonomous mobile robot that is capable of assisting
+elderly people performing their everyday tasks, and provides permanent supervision for detect
+emergency cases in real time. Using C++ language and ROS.
+This robot using Kinect in detection and navigation, and Arm in pick-up the light objects
+and analyzing emergency cases through measurement of blood pressure and heart rate.
+Also using FPV techniques to let a person control the robot via his phone. One of the major
+Algorithm used in navigation is vSLAM.
+Undergradu- Mini OS
+ate Projects java
+Mini OS is an OS simulation supports features like (single user, multi-tasking, Multithreading
+and uniprocessor) and handles scheduling problems, synchronization problem and diﬀerent
+thread states (ready, suspend and block).
+Wisconsin Mini base Projects
+java
+Implementation of the famous Mini base projects (Buﬀer Manager, Heap File and B+ Tree).
+Huﬀman Compressor and Decompressor
+java
+Using heap data structure with generic type, heap sort algorithm for sorting elements, and im-
+plement priority queue basic operation.
+Compiler Project
+C++
+Implementation of the ﬁrst two phases of Analysis Parts of the compiler. Lexical Analyzer and
+Syntax Analyzer.
+Reliable Data Transport Protocol
+C
+Implementing of two techniques to provide a reliable channel, stop-and-wait and selective re-
+peat. Implementing congestion control: Additive increase Multiplicative decrease. And Han-
+dling time-out.
+Automation of Child Auspices Center
+C#
+Implementing using SQL server 2008 database with visual C# 2010. It manages available beds
+and rooms, supervisors in diﬀerent locations, donations, visits and visitors, reinforcement for
+education and health and in/outside activities that children participating them.
+2 of3Languages
+Arabic mothertongue
+English IELTS (Academic Module) - score: 5.5
+Volunteering Experience
+Jan 09 - Ait-pedia Group, Aleppo, Syria
+Jan 11 Member
+Arab IT pedia is a collaborative research project. The group is a collection of IT engineers and
+students.
+Jan 09 - Orphans Care Center, Aleppo, Syria
+Jan 11 Computer Teacher
+3 of3

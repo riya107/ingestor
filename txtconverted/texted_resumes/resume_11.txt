@@ -1,0 +1,66 @@
+ASHUTOSH DHUNDHARA
++91-9015984829
+ashutoshdhundhara@yahoo.com
+https://github.com/ashutoshdhundhara
+https://stackoverow.com/users/1347184/ashutosh
+WORK EXPERIENCE
+authorGen Technologies ( http://www.authorgen.com ) July 2015 - Present
+Software Developer
+authorGen Technologies ( http://www.authorgen.com ) January 2015 - July 2015
+Software Developer Intern
+DNN/CMS Integration: Integration of existing project with DotNetNuke (CMS) for migration of static
+pages to CMS.
+Groups, Roles and Permissions Framework.
+Performance optimization of WizIQ web application.
+Technologies : SVN, Asp.Net MVC 4, jQuery and Javascript
+Google Summer Of Code Summer 2014
+Student Developer
+Added 12 new features to Open-Source project `phpMyAdmin' (a web application for administration of
+MySQL databases)
+Technologies : Git, PHP, HTML, CSS, jQuery and Javascript, MySQL
+Project Link : http://goo.gl/bghIKF
+EDUCATION
+Bachelor of Engineering July 2011 - May - 2015
+Thapar University, Patiala
+Computer Engineering (CGPA : 6.56/10)
+Senior and Secondary Education May 2008 - May 2010
+L.R.S. D.A.V. Sr. Sec. Model School, Abohar
+12th, CBSE, Percentage: 79
+10th, CBSE, Percentage: 88.4
+PROJECTS
+Online Room Allotment System for Hostel-J
+Team Project { Adjudged Best Departmental Project of 2013-14
+A web application for online room booking for University Hostel. System was successfully implemented
+in May 2014/2015 allotting rooms to 858 students.
+Technologies : Git, PHP, HTML, CSS, Javascript and jQuery, MySQL
+Repository Link : https://github.com/ashutoshdhundhara/tu_haa
+Results By Name
+A web application to get the results of students giving competitive exams by name rather than by roll
+number. Tested on results of CTET 2013.
+A web application for online room booking for University Hostel. System was successfully implemented
+in May 2014/2015 allotting rooms to 858 students.
+Technologies : PHP, HTML, jQuery, CSS, MySQL
+Customized Cyberoam Client
+A console application to enable automatic re-login using another id on exceeding data transfer limit
+for current.
+Technologies : JAVAOPEN SOURCE CONTRIBUTIONS
+phpMyAdmin ( http://phpmyadmin.net )
+An open source software tool written in PHP, intended to handle the administration of MySQL over
+the Web.
+Reported 2 security vulnerabilities. (PMASA-2014-8, PMASA-2014-11)
+Bug xing and feature enhancements.
+Repository Link: https://goo.gl/2zVReg
+Technologies : Git, PHP, HTML, CSS, Javascript and jQuery, MySQL
+ADDITIONAL INFORMATION
+Part of winning team in `Hackathon' organized by authorGen Tech. at Thapar University.
+Part of winning team in `Hackathon' organized at PEC Chandigarh. (PECFEST-2014)
+Secured 1stposition in `Web Development' challenge organized at Thapar University (Helix'14).
+Secured 1stposition in `Web Development' challenge organized at Chandigarh University (CU-FEST'14).
+SKILL SET
+Programming
+LanguagesC/C++ (Moderate), Java (Moderate), C# (Moderate)
+Web Technologies HTML/CSS (Moderate), Javascrpt,(Moderate), jQuery (Moderate)
+Scripting
+LanguagesPHP (Moderate), Ruby(Beginner)
+Operating
+SystemsWindows, Linux

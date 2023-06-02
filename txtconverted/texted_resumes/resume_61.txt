@@ -1,0 +1,82 @@
+RAVI KUKRETI
+r a vik.e v .1 7@nsit.ne t.in | 7906 305118
+EDUCATION
+NSIT (DELHI UNIVERSITY)
+M.TECH IN EMBEDDED AND VL SI
+D w ark a, Ne w Delhi
+C um. GP A: 7 .67
+GRAPHIC ERA UNIVERSITY
+B.TECH IN ECE
+Dehr adun | C um. GP A: 7 .4
+ARMY SCHOOL DEHRADUN
+HSC
+CLEMENTT O WN | PERCENT AGE: 71
+ARMY SCHOOL DEHRADUN
+SSC
+CLEMENTT O WN | PERCENT AGE: 73.2
+COURSEWORK
+GRADUATE
+Digital Integrated Circuit
+Semiconductor Devices andMemories
+Analog Integrated Circuit
+STA(udemy course)
+Processor Design
+Device Modelling andCircuit simulation
+SKILLS
+PROGRAMMING
+Verilog
+SystemVerilog
+Cbasics
+TCL(CLI)
+TOOL
+Vim
+Eldo(Mentor Graphics)
+LT-spice
+Xillinx
+Questa Sim
+ACHIEVEMENTS
+IEEE Conference resarch paper on
+Implementation ofProbability Using FIR
+ﬁlter.(2014)
+IEEE resarch paper onPerformance
+Optimization ofDigital CMOS logic
+circuits using LEtheory andAPSO.(2019)
+GATE Percentile 98.67(2016)
+GATE Percentile 98.53(2018)EXPERIENCE
+TRUECHIP SOLUTIONS | TRAINING
+J an 2019 – Apr 2019 | Noida, UP
+•Deep learning ofhardware descriptive andveriﬁcation language using Verilog
+andSystemVerilog. understanding ofveriﬁcation environment using UVM
+methodology.
+PROJECT
+DESIGN AND VERIFICATION OF 8B9B ENCODER
+Ma y 2019 – J ul y 2019 | Noida, UP
+•Encoding 8bitinto9bitandwriting DUT using SystemVerilog.
+•Averiﬁcation environment iscreated using UVM methodology toverify the
+correct functionality ofDUT.
+OPTIMUM TRANSISTOR SIZING OF CMOS LOGIC CIRCUIT USING
+LE THEORY AND APSO ALGORITHM
+J an 2019 – Apr 2019 | D w ark a, Ne w Delhi
+•Using LEtheory transistor Delays areoptimized andwiththehelpofnature
+inspired algorithm i.eAPSO iteration ontransistor sizeprovide minimum area
+andpower, hence improved PDAP.
+PROGRAMMABLE CIRCUIT USING MEMRISTOR
+A ug 2018 – Dec 2018 | D w ark a, Ne w Delhi
+•Memristors areused todevelop oscillator circuits, RCphase shiftoscillator,
+Comparator circuit.
+•With thehelpoftriggering pulse memristor areused asmemory devices
+storing logical bitvalues.
+DESIGN AND IMPLEMENTATION OF 8BIT RISC PROCESSOR
+Sep 201 7 – No v 201 7 | D w ark a, Ne w Delhi
+•Implementation ofvarious unitsuchascontrol unit,datapathunitandmemory
+unitwiththehelpofVerilog HDL.
+RESEARCH
+VLSI DESIGN LAB | HEAD POSTGRAD RESEARCH
+J an 2019 – Apr 2019 | D w ark a, Ne w Delhi
+Worked withDr.Kunwar Singh
+•Automation ofCMOS transistor sizing andimproving PDAP.
+POSITION OF RESPONSIBILITY
+NSIT - NEW DELHI | TEACHING A SSIS T ANT SHIP
+A ug 201 7 – Apr 2019 | D w ark a, Ne w Delhi
+Teaching Assistantship inEmbedded andVLSIlabs.
+1

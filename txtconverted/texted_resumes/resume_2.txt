@@ -1,0 +1,86 @@
+Abdul Rehman
+2BElectrical Engineering| a25rehma@uwaterloo.ca |519-721-4249
+SKILLS
+LANGUAGES
+C#•Java •C++
+JavaScript•HTML•CSS• VHDL
+Assembly •Matlab
+TOOLS AND FRAMEWORKS
+Node.js •AngularJS•
+Angular Material•Mocha
+PostgreSQL •MVC •Bootstrap
+Git•Unix
+Microsoft Visual Studio
+Eclipse •vim
+EDUCATION
+UNIVERSITY OF WATERLOO
+CANDIDATE FOR BACHELOR OF
+APPLIED SCIENCE IN HONOURS
+ELECTRICAL ENGINEERING,
+CO-OP
+September 2014 -Presen t
+COURSEWORK
+UNDERGRADUATE
+Algorithms andData Structure
+Discrete Math
+Digital Computers
+Electronic Circuits
+Numerical Methods
+Engineering Profession, Ethics and
+Law
+ONLINE COURSEWORK
+Introduction toAlgorithms (MIT|
+status: inprogress)
+Microelectronic Devices andCircuits
+(MIT| status: inprogress)
+AWARDS
+Awarded thedistinction scholarship
+bytheUniversity ofWaterloo
+Awarded thecertiﬁcate ofexcellence
+for3years inarowinhighschoolEXPERIENCE
+SOFTWARE ENGINEERING INTERN | SOLINK CORP
+J anuary 2015 - April 2015 | K ana ta, O n
+•Designed, developed, andtested multiple features, enhancing corecloud
+application, allofthem currently inproduction
+•Designed andwrote access permissions throughout thecentral monitoring
+application, suchaspublicly exposed internal APIs, authentications, and
+creating andassigning datareports ,making itsecure andreliable foralllevelof
+users
+•Developed various automated tests inMocha framework withmaximum code
+coverage
+•Implementation inHTML/CSS/AngularJS (frontend) andNode.js (backend)
+using node andgulpservers
+IS ANAL YST , CLIENT SUPPORT | MAPLE LEAF FOODS
+Ma y 2015 – A ug 2015 | Mississauga, O n
+•Increased Microsoft conﬁguration manager asset database accuracy by
+resolving adiscrepancy involving overhalfamillion dollars worth ofhardware
+•Developed several efﬁcient standard operation procedures (SOPs) including
+virus removals andemployee terminations
+•Conducted training seminars forbusiness afﬁliates (CDW) towork with
+company’s hardware databases upon both annual lifecycles andbreakage
+replacements
+•Ensured successful migration from IE8toIE10andOutlook 2010 toCloud as
+amember oftheHyper Care team
+•Provided hardware andsoftware support tocompany employees working with
+Windows andVMs
+•Formalized current andnewly developed processes intheITdepartment using
+Microsoft Visio
+PROJECTS
+LEGO ROVER ROBOT (LEGO MINDSTORM ) | PERSONAL PROJEC T
+•Programmed theARM microcontroller oftherobot inGUItosolve
+complex maze byfollowing coloured lines
+•Used multiple sensors inthealgorithm todetect andhandle obstacles
+suchascertain colours, luminous ﬂux,sound frequencies, andwalls
+TRAFFIC LIGHT CONTROLLER (VHDL) | EMBEDDED SYSTEMS LABS,
+WATERLOO
+•Programmed state machine tomimic thefunctionality ofasignal lighton
+theFPGA board
+•Thelights functioned accordingly todaytime andnight timethrough
+sensors
+PHARMACEUTICAL DRUGS SORT | PERSONAL PROJECT
+•Built various methods toreaddataﬁleof16000+ drugs andsortit
+•Implemented C#code toanalyze thedataﬁleandperform arithmetic
+operations ondata
+•Performed error checking anddebugging tofulﬁll pre-deﬁned
+speciﬁcations
+1

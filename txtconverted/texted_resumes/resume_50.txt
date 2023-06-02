@@ -1,0 +1,97 @@
+Naga Sundeep Palvadi
+3543 Gre y s t one Dr, Apt 3058, A us tin, T x, 78731
+p.n.sundeep@u te x as.edu | 530.305.9193
+EDUCATION
+UNIVERSITY OF TEXAS
+PHD IN ENGINEERING MECHANICS
+Expected Dec 2016 | A us tin, T x
+Specializa tion:Solid and Fr acture
+Mechanic s
+C um. GP A: 3.8
+M.S IN CIVIL ENGINEERING
+A ug 2011 | A us tin, T x
+C um. GP A: 3.92 / 4.0
+NATIONAL INSTITUTE OF
+TECHNOLOGY
+B. TECH IN CIVIL ENGINEERING
+J ul y 2009 | W ar angal,India
+C um. GP A: 3. 7
+PROGRAMMING SKILLS
+Over 5000 lines:
+FORTRAN• Matlab •MATHEMATICA
+ABAQUS •Python •LATEX
+Over 1000 lines:
+C•C++•R
+F amiliar:
+LabView •Linux •OpenMP •MPI
+Apache Spark• PERL• Auto CAD
+ANSYS• git•MSOfﬁce
+KNOWLEDGE AREAS
+Finite Element Analysis
+High Performance Parallel Computing
+Fracture Mechanics
+Continuum Mechanics
+Mechanics ofActive Materials
+Theory ofViscoelasticity
+Solid Mechanics
+Inverse Problems
+Experimental Mechanics
+Convex Optimization
+EXTRA ACTIVITES
+K aggle C ompe titions:
+Facial Keypoints Detection• Titanic:
+Machine Learning from Disaster
+C urren t Pr ojects:
+Developing Neural Networks Based
+Visual Recognition Algorithms
+LINKS
+Google Scholar:// S undeep P al v adi
+LinkedIn:// S undeep P al v adiINDUSTRY EXPERIENCE
+PSYLOTECH | FINITE ELEMENT ANALYSIS CONSULTANT
+J an 2013 – Dec 2013 | A us tin, T x
+•Co-developed ausermaterial F OR TR AN c ode (UMA T ) toimplement
+non-linear viscoelastic material in AB AQUS
+•Built C AD ARC AN models tovalidate thematerial consitutive model
+•Developed usercohesive element F OR TR AN c ode (UEL) tomodel
+delamination
+RESEARCH EXPERIENCE
+UNIVERSITY OF TEXAS AUSTIN | RESEARCH ASSISTANT (DOCTORATE)
+J an 2012 – Presen t | A us tin, T x
+1.Optimization-based Inverse Techniques to Measure Cohesive Zone
+Parameters of Interfaces in Viscoelastic and Elastic Media
+•Developed aboundary element method based optimization framework to
+experiementally measure r a te-dependen t tr action separ a tion
+rela tionships
+•Automated thenumerical framework bycreating aninterior point
+method-based parallel optimization code in MA TLAB/F OR TR AN
+•Characterized PDMS-P ol y s t yrene interf acial properties using the
+proposed scheme andacustom builtloading device
+2.Extraction of mixed mode cohesive zone parameters using material
+conservation laws
+•Developed aTikhonov regularization-type iterative tooltomeasure
+c ohesive z one par ame ter s from displacement dataofablister test
+• B uil t a tes t rig toperform wedge delamination testandtoanalyze rate
+dependent interfaces from interferometry data
+UNIVERSITY OF TEXAS AUSTIN | RESEARCH ASSISTANT (MASTER’S)
+A ug 2009 – A ug 2011 | A us tin, T x
+1.A Framework to Quantify Healing in Elastic-Viscoelastic Composites Using
+Continuum Damage Approach
+•Developed aframework toquantify cr ack healing inasphalt concrete
+using linear viscoelastic continuum damage theory
+2.Inﬂuence of Polymer Aging and Temperature on Rate of Crack Healing in
+Viscoelastic Polymer Medium
+•Investigated theimpact oftesttemperature andpolymer aging onrateof
+healing using d ynamic shear tes ts onpolymer samples
+EXPERIMENTAL SKILLS
+•Proﬁcient inusing several experimental systems: double cantilever beam &
+blister delamina tion tes ts ,three point &fourpoint bend test
+•Characterizing themechanical behavior ofmaterials using univer sal tes ting
+machines and d ynamic mechanical anal yzer s
+•Automating analysis of digital image c orrela tion/in terfer ome try optical
+datausing custom MATLAB andPython codes
+HONORS
+•Finalist inthe in terna tional s tuden t paper c ompe tition attheSEM 2016
+•Twotimerecipient of s tuden t tr a vel a w ar ds SES(Junn14,Maym15)
+•Recipient of 3 gol d medals foracademic andextra-academic excellence
+•Recipient ofthe U niver sit y Scholarship for3years
+1

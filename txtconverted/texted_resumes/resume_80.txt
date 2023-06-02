@@ -1,0 +1,75 @@
+J ohnDoe
+Gener alist So ftw ar e E n gineerE mail john@doe.c om
+Phone +92 xxx yyyyyyy
+Github salmannmaq
+W ebsit e salmanmaq.github.io
+ SUMMAR Y
+My str ong suits ar e Python de v elopmen t and machine ( deep ) learning in bo th industry and academia. Ov er the ne xt f e w
+y ears, I in t end t o de v elop as a gener alist so ftw ar e engineer . F or tha t, I ha v e learned a bit mor e o f modern C++, fr on t end
+t echnologies, da ta engineering, De vOps, so ftw ar e ar chit ectur e, and e v en pr oduct managemen t as w ell.
+ W ORK
+Misc ellaneous / Jul 2020 - A ug 2021
+W ork ed a f e w short stin ts a t diff er en t or ganiza tions, in-
+cluding a t m y o wn non-pr o fit startup. F ocused on AI, De-
+vOps, ML Ops, and a bit o f A gile Pr oject M anagemen t.
+J enkins T err a f orm A W S GCP D V C + CML
+Ga tsb y J s ClickUp
+ML E ngineer / M ar 20 19 - M a y 2020
+Smart Cart Co - Dela w ar e, US
+R esear ched no v el appr oaches f or lar ge scale, y e t fine
+gr ained visual classifica tion. E nhanc ed c ode r eadability
+and perf ormanc e b y r edesigning and implemen ting it in
+modules.
+Python C++ GS tr eamer Deep S tr eam CNN
+Python De v eloper / M ar 20 18 - F eb 20 19
+The LHC - Gene v a, CH
+W ork ed on back end de v elopmen t in Python and on ma-
+chine learning me thods f or t e xtual da ta - fr om r esear ch
+t o pr oduction.
+Python Flask Py T est F astAI Py T or ch
+scikit -learn CNN LS TM
+Summer S tuden t / Jun 20 17 - Sep 20 17
+The LHC - Gene v a, CH
+Con figur ed and simula t ed runs o f diff er en t de t ect or -
+particle beam in t er actions. A dded a mor e r obust tr ack
+r ec onstruction algorithm ( Gener al Br ok en Lines) t o the
+Pr o t eus fr ame w ork
+ SKILLS
+Languages: Python, C++, C, J a v aScrip t, HTML, CSS, Bash
+T ools: Py T or ch, OpenC V , NumPy , P andas, Flask, Py T est,
+MQ TT , Dock er , J enkins, T err a f orm
+Other: CI/ CD , V ersion Con tr ol, W eb, Da ta scienc e and
+ML, Cloud c omputing O THER PRO JE C TS
+• M ark e t r esear ch and lit er a tur e r e vie w o f tr ends in
+digital men tal healthcar e.
+• Design o f a pilo t study t o study a semi-no v el in t erv en-
+tion in men tal healthcar e.
+• F acilita tion o f agile implemen ta tion in t eams - SCRUM,
+Kanban
+• Fish de t ection and classifica tion - Pr obabilistic M od-
+eling, CNN .
+• P eople c oun ting in dense cr o w d images using sparse
+head de t ections - CNN, S VM .
+• V ehicle de t ection, classifica tion, and tr acking - CNN,
+openC V .
+• Simultaneous L ocaliza tion and M apping (SLAM) on a
+r obo tic wheelchair - ROS
+ EDUC A TION
+R obo tics and A I - 4. 00 / 4. 00 - 20 18
+M ast er , The Univ ersity - I slamabad, PK
+Thesis m2caiSeg: Seman tic Segmen ta tion o f Lapar o-
+sc opic Images using Con v olutional N eur al N e tw orks
+M echanical E ngineering - 3.58/ 4. 00 - 20 1 4
+Bachelor , The Univ ersity - I slamabad, PK
+Thesis Design o f an instrumen t f or cam pr o file measur e-
+men t
+⋆ A W ARDS
+• My startup w as a w ar ded a t op 5 position a t the the
+2020 Social S tartup c ompe tition.
+• F ull scholarship and Gold M edal in M ast er studies.
+• Select ed as a v olun t eer a t tha t amazing c on f er enc e in
+20 18 held in H arr apa.
+ A C TIVITIE S / INTERE S TS
+Pr oactiv e about learning div erse things and happ y t o dis-
+cuss those. F a v orit e ph y sical activities w ould be c y cling
+and hiking.

@@ -1,0 +1,39 @@
+Harshibar
+Phone-Alt555.555.5555 jEnvelopehello@email.com jYoutubeharshibar jMap-marker-altU.S. Citizen
+EXPERIENCE
+YouTube Aug. 2019 – Present
+Creator ( @harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar@harshibar) San Francisco, CA
+Grew channel to 60k subscribers in 1.5 years ; created 80+ videos on tech and productivity
+Conducted A/B testing on titles and thumbnails; increased video impressions by 2.5M in 3 months
+Designed a Notion workﬂow to streamline video production and roadmapping; boosted productivity by 20%
+Partnered with brands like Skillshare and Squarespace to expand their outreach via sponsorships
+Highlights :The Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity AppsThe Problem with Productivity Apps, Obsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App ReviewObsidian App Review, Not-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk SetupNot-So-Minimal Desk Setup
+Google Verily Aug. 2018 – Sept. 2019
+Software Engineer San Francisco, CA
+Led front-end development of a dashboard to process 50k blood samples and detect early-stage cancer
+Rebuilt a Quality Control product with input from 20 cross-functional stakeholders, saving $1M annually
+Spearheaded product development of a new lab workﬂow tool, leading to a 40% increase in eﬃciency;
+shadowed 10 core users, iterated on design docs, and implemented the solution with one engineer
+Amazon May 2017 – Aug. 2017
+Software Engineering Intern Seattle, WA
+Worked on the Search Customer Experience Team; received a return oﬀer for a full-time position
+Shipped a new feature to 2M+ users to improve the search experience for movie series-related queries
+Built a back-end database service in Java and implemented a front-end UI to support future changes
+PROJECTS
+Hyku Consulting
+Mentored 15 students towards acceptance at top US boarding schools; achieved 100% success rate
+Designed a collaborative learning ecosystem for students and parents with Trello, Miro, and Google Suite
+Minimal Icon Pack
+Designed and released 100+ minimal iOS and Android icons from scratch using Procreate and Figma
+Marketed the product and design process on YouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTubeYouTube; accumulated over $250 in sales onGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroadGumroad
+CommonIntern
+Built a Python script to automatically apply to jobs on Glassdoor using BeautifulSoup and Selenium
+500 stars on GitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHubGitHub ; featured on HackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackadayHackaday; made the front page of r/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/pythonr/python and r/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programmingr/programming
+EDUCATION
+Wellesley College Aug. 2014 – May 2018
+Bachelor of Arts in Computer Science and Pre-Med Wellesley, MA
+Coursework : Data Structures, Algorithms, Databases, Computer Systems, Machine Learning
+Research : MIT Graybiel Lab (published author), MIT Media Lab (analyzed urban microbe spread)
+SKILLS
+Languages : Python, JavaScript (React.js), HTML/CSS, SQL (PostgreSQL, MySQL)
+Tools : Figma, Notion, Jira, Trello, Miro, Google Analytics, GitHub, DaVinci Resolve, OBS

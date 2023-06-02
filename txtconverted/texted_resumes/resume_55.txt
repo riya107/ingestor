@@ -1,0 +1,49 @@
+Nitin BawaneJaymala Nagar,Lane No-3,
+Old Sangvi, Pune- 411027
+H(+91) 7385 855 844
+Bnitinbawane86@gmail.com
+Education
+2006–2009 Sipna College of Engineering and Technology ,
+Computer Science and Engineering , Bachelors of Engineering, Aggregate – 64 %.
+2002–2005 Government Polytechnic Amravati ,
+Diploma in Computer Engineering , Aggregate – 70.93 %.
+March 2002 Kasturba Gandhi Vidyalaya Dharni ,
+Secondary School Certiﬁcate(SSC) , Aggregate – 62 %.
+Work Experience
+May 2017–
+OngoingSoftware Developer ,Iknowlation Research Lab Pvt. Ltd Pune .
+{Implemented various image segmentation models like U-Net, SegNet, etc.
+{Currently working on satellite imagery.
+{Created tests and automation scripts.
+Roles and Responsibilities .
+{Work with stakeholders throughout the organization to identify opportunities for solve problem and ﬁnd the
+feasible solution.
+{Reviewed code, debugged problems and corrected issues.
+{Design UI for various products.
+Projects
+OCT 2017–
+OngoingHealthcare Product , .
+{I Work on healthcare product using Node.JS as a server side scripting language and Angularjs as client side
+javascript.
+{Ui design and Development using Angular JS and HTML/CSS/Bootstrap.
+{This product is all about the women healthcare which takes a women medical data as an input and with some
+Machine learning algorithms, the product calculates the risk for the women during period her pregnancy. The
+machine learning algorithm are implemented in Python and APIs are developed using the Django framework.
+May 2017–
+Oct 2017Commodity Price forecasting , .
+{Also worked on the project as UI developer and test engineer which was all about the price fore- casting of
+commodities using time-series data. The project is also developed using the Python and Sci-kit learn python
+library which is used to implement the machine learning algorithms.
+{This application forecast eight days the price for the selected commodity.
+Skills
+Languages NodeJS,Java
+Frameworks ExpressJS
+Scripting HTML/CSS, JavaScript
+Databases MongoDB
+Extra Curriculars
+2008Participated in SIPNA COET College Volleyball Team at UMANG 2008 event.
+2009Participated in Robotics in Prajwalan-2009 Govt. CET Amravati, a National level Tech. Fest.
+2008Participated in Govt. Polytechnic Amravati Computer Engg. Branch KHO-KHO Team.
+Personal Details
+Language English, Marathi, Hindi
+Hobbies Reading News Paper, Drawing,Sketching

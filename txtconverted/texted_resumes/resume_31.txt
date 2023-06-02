@@ -1,0 +1,86 @@
+Last Upda ted on 26th Oct ober 2015
+Jayanth Devulapally
+http://jayanth.devkashyap.com
+jde vulap@ken t.edu | 404.901.0487
+EDUCATION
+KENT STATE UNIVERSITY
+MS IN COMPUTER SCIENCE
+Expected Dec 2015 | Ken t, 0H
+C um. GP A: 3. 72
+SR ENGINEERING COLLEGE
+B. TECH IN INFORMATION
+TECHNOLOGY
+Ma y 2014 | India
+C um. GP A: 3.2
+LINKS
+Github:// jay2205
+LinkedIn:// jayanthdevulapally
+SKILLS
+PROGRAMMING
+•C,Linux Programing,LaTeX
+•C++, Objective-C, Swift, Java, C-sharp,
+python
+MOBILE TECHNOLOGIES
+•iOSappDevelopment (iPhone andiPad)
+•Windows Phone appdevelopment
+•Windows 8appdevelopment
+WEB TECHNOLOGIES
+•HTML,CSS,JavaScript
+•XML,AJAX
+•PHP, .NET
+TOOLS
+•XCode, Visual Studio
+•Dreamwaver
+•Photoshop, illustrator
+COURSES
+MASTERS
+•iOSDevelopment,Advance Algorithms
+,Cluster Computing
+•BigData ,Machine Learning ,Software
+Engineering Methodologies
+•Web Programming -Adv.PHP,
+Computer Graphics -WebGL
+•Semantic Web, Adv.DataBase Concepts.EXPERIENCE
+IOS DEVELOPER
+STUDENT EMPLOYEE, KENT STATE UNIVERSITY | APRIL 2015 - PRESENT
+•Updating thefeatures ofKSUmobile iOSappforevery quarter year.
+•Maintaining theiOSapplications based onthecrash report.
+PROJECTS:
+•KSU Mobile Q2andQ3–iOSapplication
+•Dinning Plan Matrix View :Developed splitviewofTable View and
+Graph View thathelps usertotrack expenses.
+•Student Center Parking Status :Developed toshow number ofparking
+slots areavailable.
+•GPA Calculator :Developed GPAcalculator using table view, that
+displays calculated GPA.
+•S.L.A.T.E (Science Learning andTeaching Evaluation) -iPadApplication
+•Designed andArchitected complete iPadApplication.
+•MVC framework implementation torecord responses forallquestions.
+•OAuth implementation forwriting responses togoogle spreadsheet inG
+Drive.
+MOBILE APPLICATION DEVELOPER
+PROJECTS:
+•KuKu-Cubes (iOSApplication)
+•Designed theviews andgame ﬂowwithUICollectionView and
+Navigation controller.
+•Used collection viewwithcustom layouts fortheboxes.
+•Used autolayouts thatmade application ﬁtforalliPhone Screens.
+AppStore ://https://appsto.re/us/Jpit5.i
+•Crash.. (Windows 8application)
+•Designed entire game ﬂowandimplemented user-friendly user
+experience.
+•Prepared andedited theassets forapplication based withPhotoshop.
+Windows Store ://http://bit.ly/1TKZUs2
+STUDENT WEB DEVELOPER
+SR ENGINEERNG COLLEGE | JUNE 2011 – DECEMBER 2013
+•Developed adynamic module tofetch information from Content
+management system andpublish onweb.
+•Maintained theonline results module which fetch datafrom JNTU
+server andpublish inthestudent portal.
+WEB DEVELOPER
+SULAKSHYA SEVA SAMITHI | JANUARY - 2014 – JUNE 2014
+•Developed theapplication withPHPandJQuery.Integrated withJoomla
+tohandle allthesitecontent.
+•Engineered dynamic photo gallery, which fetch thedatafrom content
+management.
+1

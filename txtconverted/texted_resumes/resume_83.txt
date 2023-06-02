@@ -1,0 +1,46 @@
+Sidney Hann
+/phone616.212.7623 /envelope_althann.sidney@gmail.com /linkedinwww.linkedin.com/in/sidneyhann
+Education
+Grand Valley State University Grand Rapids, MI August 2019 – April 2021
+Masters of Science Biostatistics GPA: 3.53/4.0
+Grand Valley State University Grand Rapids, MI August 2015 – August 2019
+Bachelor of Science Statistics & Mathematics Minor
+Work Experience
+Biostatistics Intern – Spectrum Health May 2019 – Present
+Grand Rapids, MI
+Serve as a statistical consultant to researchers throughout all steps of the research process
+Write SQL queries to pull data for an app created with fellow interns measuring metrics of research studies
+Utilize Git, R, and R Markdown to apply reproducible research principles to analytic pipelines
+Student Worker – GVSU College of Education Sep 2013 – Sep 2019
+Grand Rapids, MI
+Answer phones and either help students with questions, or direct them to the correct personnel
+Schedule advising appointments, answer emails, and send/recieve mail
+Other various tasks as professors or staﬀ needs
+Delivery Driver/Manager – Jets Pizza Aug 2016 – May 2019
+Allendale, MI
+Take, make, cut, and deliver orders to customers.
+Handle customer complaints, make end of the night deposits, cash register.
+Delivery Driver/Manager – Pizza Hut Jun 2012 – Aug 2016
+Zeeland, MI
+Take, make, cut, and deliver orders to customers.
+Handle customer complaints, make end of the night deposits, cash register, inventory.
+Projects
+Analysis of Freshman Orientation – GVSU Jan 2017 – May 2017
+Allendale, MI
+Analyzed freshman orientation surveys from three years for GVSU’s Department of Student Life. Process
+included consulting to help formulate an analysis to run, running said analysis, and writing a report to a
+non-technical audience to convey ﬁndings. Main goal was to see if orientation was a fun, fair experience to all
+demographics.
+Group Re-analyzation of Low Bone Density Relative to Hip Fractures in Adults 50+ – GVSU Sep
+2018 – Dec 2018
+Allendale, MI
+For Bioinformatics, our group chose an NHANES journal using NHANES III data to reproduce the results for.
+Process included data import, cleaning, coding in SAS, and a scholarly write up of the results.
+Technical Skills
+Programming languages: R, SQL, SAS, Git Bash, Visual Basic, Rainmeter
+Other computer experience: MS Oﬃce Suite (emphasis on Excel), built a desktop, Rmarkdown
+Extra Curricular Activities
+Volunteer work with special needs students
+Tennis, softball, skiing/snowboarding
+Created using LaTex
+Last updated: July 7, 2018 Page 1j1

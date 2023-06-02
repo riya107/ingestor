@@ -1,0 +1,53 @@
+517TartanCircle,Apt21
+Raleigh,NC27606
+www.moharnabsaikia.comMOHARNABSAIKIA(919)771-3973
+msaikia@ncsu.edu
+github.com/moharnab123saikia
+EDUCATION
+NorthCarolinaStateUniversity Raleigh,NC Aug2015–May2017(Expected)
+•M.S.inComputerScience,GPA:3.61
+•Graduate Coursework: Design and Analysis of Algorithms, Operating Systems, Object-Oriented Design and Develop-
+ment, Database Management Concepts and Systems, Software Engineering, Internet Protocols, Data Intensive Com-
+puting.
+AssamEngineeringCollege Guwahati,India Aug2009–May2013
+• BachelorofEngineeringinComputerScienceandEngineering,FirstClassGraduate(Honors)
+EMPLOYMENT
+StudentProgrammer NCStateUniversity,Raleigh May2016–Present
+• Trackedandfixedbugs, re-factoredthecodeandredesignedtheinterfaceforincreasedefficiencyandmaintainability
+oftheResearchCommitmentandTrackingSystemandtheFinancialReportingweb-apps(JSPandServletbased)
+• Effectivelyintegratedversioncontrolusinggitinalltheprojectswhichensuredeasymaintainability
+• ProactivelycreatedaJavaprogramtoautomatethecreationoftheAnnualReportsoftheCentersandInstituteswhich
+reducedmanualdataentryby10days
+AssociateSoftwareEngineer Accenture,India Jan2014-May2015
+• Wrote Reports/Interfaces in SAP ABAP handling both Functional and Technical Incidents and Change Requests for the
+clientABInbev
+• Developed a batch script which helped transfer approximately 10000 user files between two SAP servers and saved
+around50man-hoursofwork
+• Created20weeklyandmonthlyKPIreportseverymonthtohelptheclientsanalyzeandoptimizethedeliveryprocess
+• Facilitatedcommunicationasareleasecoordinatortoensureeffectiveandtimelydeliveryofchanges
+LANGUAGESANDTECHNOLOGIES
+• Java,C,Ruby,Python,SAPABAP,HTML,CSS,JavaScript,MySQL,IBMDB2,MongoDB
+• RubyonRails,jQuery,Bootstrap,Node.js,AngularJS,Express.js,Ionic,Git,Eclipse,Linux
+TECHNICALEXPERIENCE
+AcademicProjects
+•RestoScrapper: Developed a Ruby on Rails app along with a Chrome extension that shows aggregated ratings and
+reviewsfromYelp,TripAdvisorandFoursquarewiththehelpofdatascrapedviaaPythonscript.
+•MetricsforExpertiza: Designedandimplementedamoduletogeneratemetricsforpeer-reviewsinExpertiza(anopen
+sourcepeer-reviewwebapplicationbuiltwiththeRubyonRailsframework).
+•OnlineBookLibrary: BuiltalibrarysystemusingRubyonRailsandMySQLwhichalloweduserstocheckout,returnand
+suggestbooksandalsohadadminstomanagethesame. Italsosupportede-mailnotificationsandcheckouthistories.
+•University Library Management System: Built a library management system in Java and Oracle DB with a focus on
+triggersandprocedureswhichofferedmanagementof3typesofresources–books,camerasandrooms.
+•P2P system with centralized index: Developed a peer to peer file transfer system in Python which helped in under-
+standingP2Pandclient-serversystemsandbuildanumberoffundamentalskillsrelatedtoTCP/IPcommunication.
+•Microshell: ImplementedthemicroshellcommandinterpreterinCwhichhasasyntaxsimilartoUNIXCshell.
+•ThreadLibrary: Developedanon-pre-emptiveuser-levelthreadinglibraryinCthatsupportedtheroutinesCreate,Yield,
+Join,JoinAll,Exitandalsohavingsupportforsemaphores.
+PersonalProjects
+•E-Store:Developeda simplified online storeapplication using the MEAN stack which utilized various RESTful APIs like
+Facebook for login and Stripe for credit card payments. It also supported multiple currencies via the Open Exchange
+RatesAPI.
+ADDITIONALEXPERIENCEANDAWARDS
+•IBMDB2AcademicAssociate Certification
+• Conducteda3-dayworkshoponIBMDB2with73participants(Oct2013)atAssamEngineeringCollege
+• WorkedasaProgramminglabassistantatAssamEngineeringCollege,Guwahati(Aug2013-Oct2013)

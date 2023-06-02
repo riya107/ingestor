@@ -1,0 +1,189 @@
+William Senfuma
+Address P .O. Box 7062,
+Kampala, Uganda
+Nationality UgandanMobile Phone +256 777 777 500
+Mobile Phone +256 702 433 788
+Home Phone +256 711 187 737
+Email wsenfuma@gmail.com
+Personal Proﬁle
+Self-motivated data scientist with over 8 years of combined experience in Telecom billing systems, Advanced
+Data Analytics/ Big Data Visualization and Mobile Financial Services (MFS)/ Digital Financial Services (DFS)
+with hands on experience in design, implementation, deployment and maintenance of machine learning
+predictive models for ﬁnancial inclusion through nano credit scoring. .
+Education
+2010-2012 Master of Science (Computer Science)
+(Machine Learning, Computer Vision, Image Processing and Pattern Recognition) Makerere University, Uganda
+CGPA: 4.45/5
+Dissertation Title ‘Meta Learning for Selection of Best Causal Discovery Algorithms’
+2005-2008 Bachelor of Science (Computer Science, Mathematics) Makerere University, Uganda
+First Class Honours CGPA: 4.55/5
+1999-2004 Advanced Secondary Education - St. Peter’s, Uganda
+(Physics, Chemistry, Mathematics)
+Certiﬁcates
+2015-2016 Machine Learning | Stanford Online
+Stanford University, Coursera
+2015-2016 Big Data Hadoop Foundations | IBM
+BigData University, IBM
+2008-2009 Software Engineering
+National Software Incubation Center (NSIC), Uganda
+2012 Project Monitoring and Evaluation
+Makerere University College of Humanities and Social Sciences, Uganda
+Publication
+2015-2016 Meta-Learning for Selection of Best Causal Discovery Algorithms | ISBN: 978-3-659-93510-7
+LAP LAMBERT Academic Publishing
+1 of5Key Competencies and Skills
+Data Science
+Excellent scripting skills in Python, Shell and Awk for advanced huge data manipulation
+Proﬁcient in Machine Learning, Artiﬁcial intelligence, Data Mining, Data Warehousing and Data
+Modeling
+Practical knowledge in applying machine learning techniques to implement Forecasting, Classi-
+ﬁcation and Regression tasks
+Hands-on with advanced Data Visualization tools like D3.js, Bokeh, QlickView and Tabluea
+Working knowledge in Big Data technologies - Hadoop, Hive, Pig and Flume
+Proﬁcient in Microsoft Business Intelligence Suite (SSRS, SSAS and SSIS)
+Proﬁcient with Microsoft SQL Server 2008/2012 - database architecture and administration
+ETL development using SSIS and Talend Open Studio
+Clustering for market micro-segmentation and Market Basket Analysis (Association mining)
+SQL tunning and designing parallel queries for data deﬁnition and manipulation
+Software Engineering Skills
+Programming and Scripting Languages: Python, Perl, Java, Awk, Shell, C, C++, LISP ,ASP .NET, C#,
+VB.NET
+(Toolboxes: MATLAB, Octave, PRTOOLS, VLFEAT, CLOP
+Database Management Systems: Oracle, MSSQL, MySQL, Infobright, PostgreSQL
+Source version control: Mercurial, git
+Excellent knowledge in working with windows and Linux/Unix platforms
+Soft Skills
+Proﬁcient in using Microsoft Oﬃce suite applications
+Excellent communication, leadership, interpersonal and pedagogical skills
+Management skills and ability to work with a team
+High level of motivation and self-drive
+Work Experience
+Aug 2016 - Tiaxa Deutschland GmbH, Germany
+Present Data Scientist
+Scope of Service
+•Review and enhance/ revamp current credit scoring model
+•Lead data science practice implemtation for Africa team
+•Continuously analyze and segment Tiaxa product users across multiple client platforms
+•Detect consumption-based commercial opportunities
+•Discuss with internal and external clients additional information that may be required for the
+analysis and trigger decision making
+•Maintain and add analysis in existing Business Intelligence models
+•Deﬁne, develop and maintain required reports for each implementation
+•Ensure commercial operation continuity and use of Tiaxa products
+•Lead and operate commercial campaigns with clients
+•Generate customer segments using automatic clustering algorithms
+•Report to direct management about achievements, processes deﬁned, actions taken
+•Coordinate all ISO9001 related functions with the rest of the organization
+2 of5Sep 2013 - Tecnotree Corporation, Espoo, Finland
+Jul 2016 Consultant SEA Region (Telecom Billing)
+Loyalty and Campaign Management
+•Conﬁgure, launch and Monitor Campaigns and processes (prerating, Rating processes
+•Design, implement and deploy/ published reports in a timely manner
+•Monitor and reprocess customer redemptions and rejections if any
+•Support for patch movement
+•Work on aggressive time lines to handling Emergency/ Critical Situations/ Escalations issues
+Roaming and Interconnect
+•Setting up new Roaming and Interconnect Partners in the billing system
+•Carrying out TADIG (IREG) testing for newly conﬁgured operators and issuing TAP certiﬁcates
+(TCC) on successful completion
+•Co-coordinating with the DCH (Data Clearing House) for the Transfer and reconciliation of
+TAPIN, TAPOUT ﬁles and RAP dispute
+•Trouble shooting of TAPIN and Switch ﬁles rating errors occurred during the rating process
+Mar 2013 - Uganda Telecom, Kampala, Uganda
+Sep 2013 Business Analyst and Retention Manager
+•Play key role in developing UTL retention strategy
+•Reduce monthly churn rate, enhance customer life cycle value
+•Implement Micro-Segmentation for UTL customers for identiﬁcation of revenue streams and
+maintain and increase customer life cycle value
+•Identify and monitor Telecom industry trends (New Sales, Churn, Reactivations, Market Share)
+and provide comprehensive business intelligence for new products
+•Manage development and delivery of KPI aligned reports, dashboards and ad-hoc analysis for
+commercial team
+•Formulate channel strategies, and along with designing performance scorecards (based on
+proven models)
+•Develop forecasting models for Churn, Sales and Revenue projections
+•Develop customer relationship strategies; test new concepts (“Above the Lin Line”)
+•Segment/Proﬁle customers for loyalty, retention, upsell, cross sell and revenue enhancement
+•Manage Micro Segmentation campaigns, pre and post and Return on Investment Analysis
+•Design and develop ‘information models’ which are user-centered interfaces allowing rapid ac-
+cess to contextual information
+•Integrate information points (data analytics, market research and market intelligence) to pro-
+duce insights on customer and market behaviour
+3 of5Sep 2012 - Uganda Telecom, Kampala, Uganda
+Feb 2013 Business Intelligence Developer
+•Designing, implementation, debugging and monitoring BI solutions
+•Creating and deploying business reports using Microsoft Business Intelligence Suite (SSRS)
+•Writing relational and multidimensional database queries for diﬀerent Database Management
+Systems (MSSQL, MySQL(Infobright), PostgreSQL and Oracle)
+•Perform analysis and integration services using Microsoft Business Intelligence Suite (SSAS and
+SSIS)
+•Market Basket Analysis (Association mining) to identify common item sets and rules for
+cross/up-selling
+•Classiﬁcation and Regression basing on customer proﬁle and call records for personalized cus-
+tomer product development
+•Clustering for market micro-segmentation using k-means and hierarchical clustering tech-
+niques
+•Forecasting, Sequence and Deviation Analysis
+Jan 2011 - Uganda Telecom, Kampala, Uganda
+Sep 2012 Interconnect Billing and Roaming Data Analyst
+•Processing, reconciling and reprocessing huge volumes of CDRs with the switch/network ele-
+ment statistics and performing advanced CDR analysis
+•Modifying and implementing the Business rules and initiating change requests for mediation
+•Establishing, implementing and reporting on the interconnect and roaming revenue assurance
+controls
+•Monitoring and processing rejected CDRs and (re)submitting them to the Billing system for
+(re)rating
+•Ensuring timely completion of Transferred Account Data Interchange Group (TADIG) tests after
+IREG tests
+•Monitoring of NRTRDE(Near Real Time Roaming Data Exchange) for fraud detection and
+TAP/RAP processing for billing purposes and revenue assurance
+•Analyzing problems and incidents related to the billing system, SMS-C, and MSCs and other
+connected network elements in line with roaming and interconnect on a daily basis
+Jan 2010 - Orange Uganda Limited now Africell, Kampala, Uganda
+Jan 2011 Roaming and Interconnect Analyst
+•Ensuring that all roaming Customer Details Records (CDRs) are sent to MACH (Clearing house)
+on a daily basis
+•Monitoring of TAP and NRTRDE (Near Real Time Roaming Data Exchange) process for billing
+and fraud detection
+•Provision of daily and monthly interconnect reconciliation and High Usage Reports (HUR) re-
+port
+•Administration and conﬁguration of Interconnect Billing and Management system and per-
+forming Transferred Account Data Interchange Group (TADIG) tests after IREG tests
+4 of52009 - Makerere University, Kampala, Uganda
+2013 Part-time Lecturer
+I conducted lectures, set, supervised and marked exam for the following courses to Computer
+Science students (Bachelors and Diploma) in Makerere University Department of Computer
+Science.
+Courses taught: (Numerical Analysis, Further Linear Programming and Network Analysis, Dis-
+crete Mathematics, Computer Literacy, Programming Methodology, Fundamentals of Mathe-
+matics, Computer Architecture).
+Accomplished Projects
+•I have managed to automate all Roaming, Interconnect and Loyalty Campaign related processes and report-
+ing with in a period of one month after joining Tenotree Corporation
+•I was part of the team involved in the implementation of UTL Prepaid Commission Model, Churn, Prediction
+Model and Micro Segmentation of UTL’s Subscriber base
+•Implemented a real time raw CDR collector for prepaid UTL customers which resulted into timely, accurate
+reporting and support for running various promotions (awakening and activation bonus promotions)
+•Implemented a software solution using Perl to generate notiﬁcation Tap ﬁles for UTL inbound roamers. This
+saved the company 40000 Euro that was required for regeneration of over 100,000 notiﬁcation by the Clearing
+house
+•Implemented a software solution using Perl to correct billing information for RAPs (Rejected Tap ﬁles for UTL
+inbound roamers)
+•Implemented a raw CDR decoder using Perl for MSC (mobile switch)
+•Managed to resolve major Tap ﬁle exchange challenges between UTL and Data Clearing House (DCH). This
+helped the company to recover from huge revenue losses that were caused by ﬁles aging before reaching the
+DCH. This was achieved by implementing a number of controls and quality checks like successful ftp delivery
+reports
+•I was involved in the design, analysis and implementation (using python) of UTL bonus airtime model which
+came in handy during a number of acquisition campaigns
+•Implemented the good number algorithm in python for classiﬁcation of UTL free number pool
+•I implemented a Near Real Time Roaming Data Exchange (NRTRDE) solution for roaming fraud detection
+using python which save UTL over 100,000USD that was to be charged by the vendor to implement the same
+solution. Solution is still being used by UTL
+Research Groups (Membership)
+Artiﬁcial Intelligence in the Developing World (AI-Dev)
+TADIG (Transferred Account Data Interchange Group)
+NRTRDE(Near Real Time Roaming Data Exchange)
+Mobile Roaming
+Interconnect/ Inter Carrier/CABS Billing
+5 of5

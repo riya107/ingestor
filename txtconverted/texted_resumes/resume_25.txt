@@ -1,0 +1,35 @@
+John Doe
+Great county,
+Main Road,
+Bombay (M.P ., INDIA) - 476514
+Email-id : someone@email.com
+Mobile No.: 1234567890
+Alt Mob No.: 1234567890
+ACADEMIC DETAILS
+Examination University Institute Year CPI/%
+Post Graduate Specialization: Computer Science and Engineering
+Post Graduation IIT Bombay IIT Bombay 2014 8.0
+UnderGraduate Specialization: Computer Engineering
+Graduation DAVV , Indore IET-DAVV , Indore 2012 76.5
+FIELDS OF INTEREST
+Wireless Network and Network Security, Another one, a third one
+TECHNICAL SKILLS
+Languages (C, C++, Java), Database (MySQL) Script (Python, Shell, Perl, R), Tools (Eclipse, L ATEX, Gnuplot,
+Rstudio).
+MAJOR PROJECTS AND SEMINAR
+Media Access Control Controling (Research Project)
+(Guide:Prof. Hubert F. , May’13 - till date)
+Objective :Performance analysis of HTTP web browsing trafﬁc. .
+Performance analysis will help in comparing different MAC protocols based on different network sce-
+narios.
+Studied various papers related to different MAC protocols and now working on improving simula-
+tions.
+Second Item. (M. Tech. Seminar)
+(Guide: Prof. John Doe , Jan’14 - Aug’14)
+First subitem.
+Second subitem.
+STRENGTHS
+Positive Attitude, Social Interaction, Hardworking.
+INTEREST AND HOBBIES
+Solving Puzzles.
+Playing Chess.

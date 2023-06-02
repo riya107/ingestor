@@ -1,0 +1,29 @@
+John Zlad Doe
+my github
+my linkedinmy personal site
+my email
+Education
+University of Molvanîa – UM Aug. 2019 – Present
+PhD. Student in Technology Molvanîa, Mv
+Experience
+Ph.D. Researcher Sep. 2019 – Present
+Laser beams shooting research Molvanîa, Mv
+•Laser beams
+•Laser cooling techniques
+•Off blast!
+Publications
+New techniques for Elektronik supersonik laser shootings. WORKSHOP ON INDUSTRY APPLICATION - Molvanîan Academy o Science,
+2020 . p. 225-231.
+J. Zlad Doe
+Space Rockets . WORKSHOP ON INDUSTRY APPLICATION - Molvanîan Academy o Science, 2021 . p. 25-31.
+J. Zlad Doe, Darth Vapor
+Technical Skills, Language Skills, and Interests
+OS: Windows
+Programming Languages : C/C++
+Libraries : OpenCV
+Version Control : Git
+Writing : LATEX, Office
+Languages : Molvanîan (native), English (fluent)
+Interests : Lasers and Music
+Extracurricular
+Specialization : Course

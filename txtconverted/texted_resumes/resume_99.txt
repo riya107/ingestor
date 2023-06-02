@@ -1,0 +1,70 @@
+Hieu Sy Dohieu.do@nyu.edu
+github.com/hieusydo
+linkedin.com/in/hieusydo
+EDUCATION
+New York University
+Tandon School of Engineering
+BS in Computer Science
+Expected Grad. May 2019
+Cum. GPA: 4.0
+Westminster School
+Grad. May 2015
+Summa Cum Laude
+SKILLS
+Languages:
+C++, Python, JavaScript
+Frameworks:
+AngularJS, NodeJS
+Databases:
+MongoDB, SQL
+Tools:
+Git, Vim,
+Adobe Illustrator & InDesign
+COURSEWORK
+Data Structure
+Algorithms
+Discrete Mathematics
+Artiﬁcial Intelligence
+Computer Architecture
+Computer Networking
+Data Analysis
+Object-Oriented Programming
+ACTIVITIES
+NYU Tandon Honors Program
+Tech@NYU - Freshman Circuit
+The Westminster News
+09.10.2016EXPERIENCE
+NYU IT – Application Infrastructure Jan 2016 – present
+Database Engineer Intern New York, NY
+•Building a database management system to monitor all NYU
+data centers worldwide using SQL and Oracle APEX.
+•Updating an internal server request tool by improving its
+user-interface and the service request process.
+NYU Secure Systems Lab Jun 2016 – Aug 2016
+Student Researcher New York, NY
+•Researched distributed monitoring solutions for the Seattle
+Testbed, a distributed cloud platform, using Python and an
+in-house restricted version of Python (Repy).
+•Designed the monitoring pipeline that accounts for the
+monitoring tools’ accessibility, modularity, and scalability.
+INSPI Corp – ZenQuiz Team Jun 2015 – Aug 2015
+Software Engineer Intern Ho Chi Minh City, Vietnam
+•Built a Question & Answer platform for 10,000,000+ users.
+•Implemented the frontend features and backend server using
+MongoDB, ExpressJS, AngularJS, and NodeJS (MEAN stack)
+PROJECTS
+Notr
+A web app that visualize texts by creating dynamic mind maps from
+users’ input. Built with AngularJS using D3.js and Ace.
+Alertify
+Best Software, Wearhacks NY 2015
+An Android mobile and wearable app that recognizes hand
+gestures to send emergency alerts. Built with Java using Presto API.
+Sia
+2nd Prize, Hackademics VN 2015
+A pioneering sex-ed website that promotes sexuality and gender
+awareness among Vietnamese teenagers. Built with MEAN stack.
+Imagely
+A web app that enhances language-learning experience by
+generating new words from pictures. Built with MEAN stack using
+Clarifai API and Yandex API.

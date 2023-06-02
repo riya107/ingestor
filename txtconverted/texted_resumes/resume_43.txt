@@ -1,0 +1,87 @@
+Last Upda ted on 11th A ugust 2015
+Mandeep Kumar
+https://ca.linkedin.com/in/kumarmandeep
+mandeepkumar314@gmail.c om | 64 7 . 721.5021
+EDUCATION
+UNIVERSITY OF TORONTO
+MENG IN AEROSPACE ENGINEERING
+Expected A ug 2015 | T or on t o, C A
+C um. GP A: 3.65/ 4.0
+B. TECH IN MECHANICAL
+ENGINEERING
+Ma y 2011 | K uruk she tr a, IN
+C um. GP A: 8.82 / 10.0
+JINDAL MODERN SCHOOL
+Gr ad. April 2006 | Hisar, India
+COURSEWORK
+GRADUATE
+Aerospace Propulsion
+Advanced Fluid Mechanics
+Tourbomachinery
+Computer Aided Design
+Measurements andStatistics
+Aeroelasticity
+Dynamic Response ofMaterials
+Project Management
+Sustainable Aviation
+UNDERGRADUATE
+Compressible Flow Thermodynamics
+Mechanics andDynamics ofMachines
+Power Plant Engineering
+Fluid Mechanics andDynamics
+Engineering andMachine Drawing
+Strength andVibration ofMaterials
+Steam Generation andRefrigeration
+Numerical Methods andProgramming
+SKILLS
+PROGRAMMING
+Over 1000 lines:
+C++•Matlab• RStudio•LATEX
+F amiliar:
+C•HTML 5•MySQL
+DESIGN SOFTWARES
+AutoCAD •CATIA• Solidworks
+FINITE ELEMENT ANALYSIS
+Ansys •FluentEXPERIENCE
+COURSERA | KPCB FELLOW + SOFTWARE ENGINEERING INTERN
+Expected J une 2014 – Sep 2014 | Moun tain Vie w, C A
+•52outof2500 applicants chosen tobeaKPCB Fellow 2014.
+GOOGLE | SOFTWARE ENGINEERING INTERN
+Ma y 2013 – A ug 2013 | Moun tain Vie w, C A
+•Worked ontheYouTube Captions team inprimarily vanilla Javascript and
+Python toplan, design anddevelop thefullstack implementation ofanew
+framework toaddandeditAutomatic Speech Recognition captions.
+•Created abackbone.js-like framework fortheCaptions editor.
+•Allcode wasreviewed, perfected, andpushed toproduction.
+PHABRICATOR | OPEN SOURCE CONTRIBUTOR & TEAM LEADER
+J an 2013 – Ma y 2013 | P al o A l t o, C A & I thaca, NY
+•Phabricator isused daily byFacebook, Dropbox, Quora, Asana andmore.
+•Icreated theMeme generator, theentire Lipsum application, ported Tokens to
+different apps, ﬁxed many bugs andmore inPHPandShell.
+•Ledateam from MIT,Cornell, ICLondon andUHelsinki fortheproject.
+RESEARCH
+CORNELL ROBOT LEARNING LAB | HEAD UNDERGRAD RESEARCH
+J an 2014 – Presen t | I thaca, NY
+Worked withAshesh JainandProf Ashutosh Saxena tocreate PlanIt ,atoolwhich
+learns from large scale userpreference feedback toplanrobot trajectories inhuman
+environments. Publication submitted.
+CORNELL PHONETICS LAB | HEAD UNDERGRADUATE RESEARCHER
+Mar 2012 – Ma y 2013 | I thaca, NY
+Lead thedevelopment ofQuickTongue ,theﬁrsteverbreakthrough
+tongue-controlled game withProf SamTilsen toaidinLinguistics research.
+Publication submitted.
+AWARDS
+2014 top52/2500 KPCB Engineering Fellow
+2014 2ndmost points Google Code Jam,Qualiﬁcation Round
+2014 1st/50 Microsoft Coding Competition, Cornell
+2013 National Jump Trading Challenge Finalist
+2013 7th/120 CS3410 Cache Race BotTournament
+2012 2nd/150 CS3110 Biannual Intra-Class BotTournament
+2011 National Indian National Mathematics Olympiad (INMO) Finalist
+2010 National Comp. Soc.ofIndia’s National Programming Contest
+SOCIETIES
+2014 top12%ile TauBeta PiEngineering Honor Society
+2014 National TheGlobal Leadership andEducation Forum (tGELF)
+2012 National Golden KeyInternational Honor Society
+2012 National National Society ofCollegiate Scholars
+1

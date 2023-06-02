@@ -1,0 +1,94 @@
+Last Upda ted on 7th April 2020Apurv Mishra
+apurvmishra.xyz |hi@apurvmishra.xyz |+447XXXXXXX |Github |Devpost |Linkedin
+EDUCATION
+THE UNIVERSITY OF EDINBURGH
+BACHELOR OF ENGINEERING (HONS.) COMPUTER SCIENCE
+September 2018 - Presen t | E dinburgh, UK
+Classiﬁcation: First Class (Predicted)
+EXPERIENCE
+ZESTY LLC | CO-FOUNDER & SOFTWARE ENGINEER
+Apr 2019 – Presen t | R iver side, C A
+•Asaco-founder ofthecompany, worked onshaping theproduct idea,
+technologies used andbusiness plans.
+•Developed RESTful APIsinFalcon andFlask fortheMVP andlater leadthe
+migration toFastAPI leading to5-10x faster server response times.
+•Lead development oftheuserfacing website fortheMVP inReactJS.
+•Thewebsite andthecompany hasnowbeen launched andfunded ,andthe
+website been handling more than1000 sessions/week without aproblem.
+UNIVERSITY OF EDINBURGH | TEACHING SUPPORT
+Sep 2019 – Presen t | E dinburgh, UK
+•Teach Introduction toHaskell, Intro toLinux, Cognitive Science, Computation
+andLogic andgeneral programming concepts toacohort ofover400students.
+•Marked andassisted inconduction oftheexam.
+WORLDQUANT LLC | RESEARCH CONSULTANT
+J un 2019 - Oct 2019 | Remo te
+•Selected tobeapartoftheresearch consultant programme after breaking into
+thetop1percentile ofparticipants oftheWorldQuant challenge.
+•Created algorithm-based models using Python andpropriety libraries thatseek
+topredict movements ofglobal ﬁnancial markets.
+PROJECTS
+EASYSHOP | NODEJS, PYTHON, APIS, AZURE CLOUD
+No v 2018
+•EasyShop isachabot toﬁndproducts using pictures andgetbestpossible deals.
+•Researched andfound multiple third party APIstoaccomplish ourobjectives
+andintegrated itintoourapplication bybuilding apipeline tomove information
+efﬁciently.
+•Thepayment processing wasdone withtheintegration withVisaAPI.
+•Thewhole endtoendsolution isdeployed ontheAzure cloud andcanbe
+accessed onanysocial messaging service.
+LINGUASTREAM | PYTH ON, TKINTER, APIS, GOOGLE CLOUD
+Apr 2019
+•LinguaStream isarealtimetranslation andtranscription service along withan
+analysis andreference platform.
+•Speech toTexttranscription andtranslation aredone through Google Cloud
+APIs.
+•Captioning service iswritten inPython using tkinter, APIsaremade using the
+FastAPI library.SKILLS
+PROGRAMMING
+Over 5000 lines:
+Python •Java•C/C++ •LATEX
+Over 1000 lines:
+Ruby •Haskell •Javascript
+PostgreSQL •Neo4J
+F amiliar:
+Flutter •ReactJS •MySQL •Shell
+VCS & BUILD TOOLS
+Git•TravisCI •Jenkins •Github Actions
+CLOUD SERVICES
+F amiliar:
+AWS •GCP •Azure
+AWARDS
+2019 DigiEduHack
+2019 HackKosice
+2019 Cyber Defence Exercise
+2018 Local Hack Day
+2018 Oxford Hack
+2018 Glasgow Hack
+2017 DPSNoida
+TRAVEL &
+CONFERENCE GRANTS
+$250 ELC,Edinburgh
+$250 PenApps, Philadelphia
+£150 Algothon, London
+€150 CEEHacks, Prague
+€150 DENEFF EEHack, Berlin
+€120 HackUPC, Barcelona
+£75Hack Cambridge
+€75Junction, Helsinki
+COURSEWORK
+Algorithms andData Structures
+Computer Systems
+Data Analysis
+Machine Learning
+Software Testing
+Computer Simulation
+Functional Programming
+OOP Programming
+Software Engineering
+Numerical Computation
+Linear Algebra
+Discrete Mathematics
+ACTIVITIES
+EUProgramming Society
+EUTrading andInvestment Club
+CompSoc

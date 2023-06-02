@@ -1,0 +1,45 @@
+Bryan Ehlers
+(507)-403-1634 bryan-ehlers@uiowa.edu
+Education
+Bachelors of Science - Electrical Engineering (3.41/4.0) Expected: May 2017
+Minor - Computer Science
+University of Iowa, Iowa City, IA
+Relevant Coursework
+Electrical Engineering : Circuit Lab 1 and 2, Circuit Design, Digital Design
+Computer Science : Data Structures, Algorithms, C++,
+Experience
+University of Iowa Carver College of Medicine | Iowa City, IA
+-Research Assistant February 2014 { March 2015
+Designed a database using Microsoft Access to store 100+ interview responses.
+Trained new employees in laboratory processes and proper documentation.
+Troubleshoot laboratory processes to identify and address ineciencies.
+NanoMedTrix, LLC | Coralville, IA
+-Image Processing Engineer October 2014 { January 2015
+Supported research team by compiling MRI data.
+City of Northeld | Northeld, IA
+-Lifeguard June 2013 { August 2013
+Maintain safe and secure swimming area by enforcing rules, policies, and procedures.
+Take care of pool.
+Kmart | Northeld, IA
+-Electronics Associate May 2011 { August 2013
+Help customers purchase electronics.
+Stock and organize items.
+Skills
+Programming Languages: C, C++, and Python
+Operating Systems: Linux/Unix system, Windows
+Software: NI Multisim, SPICE software, L ATEX
+Laboratory: oscilloscope, logic analyzer, signal generator, solder, and multimeter
+Projects
+Raspberry Pi Robot
+-Individual
+Using a Raspberry Pi to construct a remote control robot.
+Camera module connection for live streaming robot vision back to monitor.
+Developed Python code to control robot motions and camera module.
+3pi Robot
+-Group Project
+Developed C code to control robot motion and ability to autonomously traverse a maze.
+Activities
+Institute of Electrical and Electronic Engineers | Member
+University of Iowa Powerlifting Club Treasurer (2013) | Member (Present)
+Awards
+Awarded Dean's List for Fall 2013, Fall 2014
