@@ -1,0 +1,740 @@
+2023-06-01 11:42:48,822 - Processing resume: cv1.txt
+2023-06-01 11:42:48,822 - Name: sumit
+2023-06-01 11:42:48,822 - Phone number: kumar
+2023-06-01 11:42:48,858 - Resume for sumit processed and saved to the database.
+2023-06-01 11:42:48,869 - Processing resume: cv10.txt
+2023-06-01 11:42:48,869 - Name: deepali
+2023-06-01 11:42:48,869 - Phone number: chaudhari
+2023-06-01 11:42:48,875 - Resume for deepali processed and saved to the database.
+2023-06-01 11:42:48,883 - Processing resume: cv100.txt
+2023-06-01 11:42:48,884 - Name: ramakrishnan
+2023-06-01 11:42:48,884 - Phone number: k
+2023-06-01 11:42:48,890 - Resume for ramakrishnan processed and saved to the database.
+2023-06-01 11:42:48,900 - Processing resume: cv101.txt
+2023-06-01 11:42:48,900 - Name: jayaprakash
+2023-06-01 11:42:48,900 - Phone number: andamuthu
+2023-06-01 11:42:48,906 - Resume for jayaprakash processed and saved to the database.
+2023-06-01 11:42:48,925 - Processing resume: cv102.txt
+2023-06-01 11:42:48,925 - Name: rajeev
+2023-06-01 11:42:48,925 - Phone number: gupta
+2023-06-01 11:42:48,933 - Resume for rajeev processed and saved to the database.
+2023-06-01 11:42:48,940 - Processing resume: cv103.txt
+2023-06-01 11:42:48,940 - Name: alaguraj
+2023-06-01 11:42:48,940 - Phone number: ramachandran
+2023-06-01 11:42:48,947 - Resume for alaguraj processed and saved to the database.
+2023-06-01 11:42:48,957 - Processing resume: cv104.txt
+2023-06-01 11:42:48,957 - Name: aiswarya
+2023-06-01 11:42:48,957 - Phone number: chandrasekaran
+2023-06-01 11:42:48,964 - Resume for aiswarya processed and saved to the database.
+2023-06-01 11:42:48,971 - Processing resume: cv105.txt
+2023-06-01 11:42:48,971 - Name: ashay
+2023-06-01 11:42:48,971 - Phone number: jain
+2023-06-01 11:42:48,978 - Resume for ashay processed and saved to the database.
+2023-06-01 11:42:48,988 - Processing resume: cv106.txt
+2023-06-01 11:42:48,988 - Name: heena
+2023-06-01 11:42:48,988 - Phone number: patel
+2023-06-01 11:42:48,995 - Resume for heena processed and saved to the database.
+2023-06-01 11:42:49,011 - Processing resume: cv107.txt
+2023-06-01 11:42:49,011 - Name: deba
+2023-06-01 11:42:49,011 - Phone number: hazra
+2023-06-01 11:42:49,019 - Resume for deba processed and saved to the database.
+2023-06-01 11:42:49,027 - Processing resume: cv108.txt
+2023-06-01 11:42:49,027 - Name: archana
+2023-06-01 11:42:49,027 - Phone number: btech
+2023-06-01 11:42:49,033 - Resume for archana processed and saved to the database.
+2023-06-01 11:42:49,039 - Processing resume: cv11.txt
+2023-06-01 11:42:49,039 - Name: sanjeeva
+2023-06-01 11:42:49,039 - Phone number: sanjeev
+2023-06-01 11:42:49,045 - Resume for sanjeeva processed and saved to the database.
+2023-06-01 11:42:49,055 - Processing resume: cv110.txt
+2023-06-01 11:42:49,055 - Name: jaheen
+2023-06-01 11:42:49,055 - Phone number: afsar
+2023-06-01 11:42:49,062 - Resume for jaheen processed and saved to the database.
+2023-06-01 11:42:49,070 - Processing resume: cv111.txt
+2023-06-01 11:42:49,070 - Name: pushpendra
+2023-06-01 11:42:49,070 - Phone number: kumar
+2023-06-01 11:42:49,076 - Resume for pushpendra processed and saved to the database.
+2023-06-01 11:42:49,086 - Processing resume: cv112.txt
+2023-06-01 11:42:49,086 - Name: prasanna
+2023-06-01 11:42:49,086 - Phone number: joshi
+2023-06-01 11:42:49,092 - Resume for prasanna processed and saved to the database.
+2023-06-01 11:42:49,102 - Processing resume: cv113.txt
+2023-06-01 11:42:49,102 - Name: pratik
+2023-06-01 11:42:49,102 - Phone number: chafle
+2023-06-01 11:42:49,108 - Resume for pratik processed and saved to the database.
+2023-06-01 11:42:49,115 - Processing resume: cv114.txt
+2023-06-01 11:42:49,115 - Name: akshay
+2023-06-01 11:42:49,115 - Phone number: magdum
+2023-06-01 11:42:49,121 - Resume for akshay processed and saved to the database.
+2023-06-01 11:42:49,130 - Processing resume: cv115.txt
+2023-06-01 11:42:49,130 - Name: sukhdip
+2023-06-01 11:42:49,130 - Phone number: singh
+2023-06-01 11:42:49,136 - Resume for sukhdip processed and saved to the database.
+2023-06-01 11:42:49,142 - Processing resume: cv116.txt
+2023-06-01 11:42:49,142 - Name: baskaran
+2023-06-01 11:42:49,142 - Phone number: k
+2023-06-01 11:42:49,149 - Resume for baskaran processed and saved to the database.
+2023-06-01 11:42:49,159 - Processing resume: cv117.txt
+2023-06-01 11:42:49,159 - Name: viraj
+2023-06-01 11:42:49,159 - Phone number: vaishnav
+2023-06-01 11:42:49,164 - Resume for viraj processed and saved to the database.
+2023-06-01 11:42:49,171 - Processing resume: cv118.txt
+2023-06-01 11:42:49,171 - Name: suryakaladevi
+2023-06-01 11:42:49,172 - Phone number: application
+2023-06-01 11:42:49,178 - Resume for suryakaladevi processed and saved to the database.
+2023-06-01 11:42:49,191 - Processing resume: cv119.txt
+2023-06-01 11:42:49,191 - Name: navnath
+2023-06-01 11:42:49,191 - Phone number: sawase
+2023-06-01 11:42:49,197 - Resume for navnath processed and saved to the database.
+2023-06-01 11:42:49,211 - Processing resume: cv12.txt
+2023-06-01 11:42:49,212 - Name: amar
+2023-06-01 11:42:49,212 - Phone number: mane
+2023-06-01 11:42:49,218 - Resume for amar processed and saved to the database.
+2023-06-01 11:42:49,223 - Processing resume: cv120.txt
+2023-06-01 11:42:49,223 - Name: anoop
+2023-06-01 11:42:49,223 - Phone number: kumar
+2023-06-01 11:42:49,229 - Resume for anoop processed and saved to the database.
+2023-06-01 11:42:49,242 - Processing resume: cv121.txt
+2023-06-01 11:42:49,242 - Name: r
+2023-06-01 11:42:49,242 - Phone number: venkata
+2023-06-01 11:42:49,248 - Resume for r processed and saved to the database.
+2023-06-01 11:42:49,261 - Processing resume: cv123.txt
+2023-06-01 11:42:49,261 - Name: lesser
+2023-06-01 11:42:49,261 - Phone number: primary
+2023-06-01 11:42:49,266 - Resume for lesser processed and saved to the database.
+2023-06-01 11:42:49,276 - Processing resume: cv124.txt
+2023-06-01 11:42:49,276 - Name: kaustubh
+2023-06-01 11:42:49,276 - Phone number: srivastava
+2023-06-01 11:42:49,281 - Resume for kaustubh processed and saved to the database.
+2023-06-01 11:42:49,294 - Processing resume: cv125.txt
+2023-06-01 11:42:49,294 - Name: aniket
+2023-06-01 11:42:49,294 - Phone number: dhanrao
+2023-06-01 11:42:49,301 - Resume for aniket processed and saved to the database.
+2023-06-01 11:42:49,315 - Processing resume: cv128.txt
+2023-06-01 11:42:49,315 - Name: ajinkya
+2023-06-01 11:42:49,315 - Phone number: kurkute
+2023-06-01 11:42:49,322 - Resume for ajinkya processed and saved to the database.
+2023-06-01 11:42:49,338 - Processing resume: cv129.txt
+2023-06-01 11:42:49,338 - Name: kuldeep
+2023-06-01 11:42:49,338 - Phone number: singh
+2023-06-01 11:42:49,348 - Resume for kuldeep processed and saved to the database.
+2023-06-01 11:42:49,352 - Processing resume: cv13.txt
+2023-06-01 11:42:49,352 - Name: sumit
+2023-06-01 11:42:49,353 - Phone number: kumar
+2023-06-01 11:42:49,353 - Resume for sumit is already processed. Skipping...
+2023-06-01 11:42:49,371 - Processing resume: cv130.txt
+2023-06-01 11:42:49,371 - Name: suganthee
+2023-06-01 11:42:49,371 - Phone number: br
+2023-06-01 11:42:49,379 - Resume for suganthee processed and saved to the database.
+2023-06-01 11:42:49,386 - Processing resume: cv131.txt
+2023-06-01 11:42:49,386 - Name: ronak
+2023-06-01 11:42:49,387 - Phone number: sharma
+2023-06-01 11:42:49,392 - Resume for ronak processed and saved to the database.
+2023-06-01 11:42:49,400 - Processing resume: cv132.txt
+2023-06-01 11:42:49,400 - Name: petla
+2023-06-01 11:42:49,400 - Phone number: mahesh
+2023-06-01 11:42:49,408 - Resume for petla processed and saved to the database.
+2023-06-01 11:42:49,416 - Processing resume: cv133.txt
+2023-06-01 11:42:49,417 - Name: devasetti
+2023-06-01 11:42:49,417 - Phone number: venkatesh
+2023-06-01 11:42:49,424 - Resume for devasetti processed and saved to the database.
+2023-06-01 11:42:49,434 - Processing resume: cv134.txt
+2023-06-01 11:42:49,434 - Name: naveen
+2023-06-01 11:42:49,434 - Phone number: kumar
+2023-06-01 11:42:49,440 - Resume for naveen processed and saved to the database.
+2023-06-01 11:42:49,459 - Processing resume: cv136.txt
+2023-06-01 11:42:49,459 - Name: bhupendra
+2023-06-01 11:42:49,459 - Phone number: singh
+2023-06-01 11:42:49,468 - Resume for bhupendra processed and saved to the database.
+2023-06-01 11:42:49,476 - Processing resume: cv137.txt
+2023-06-01 11:42:49,476 - Name: sayantani
+2023-06-01 11:42:49,476 - Phone number: bag
+2023-06-01 11:42:49,485 - Resume for sayantani processed and saved to the database.
+2023-06-01 11:42:49,497 - Processing resume: cv138.txt
+2023-06-01 11:42:49,497 - Name: liju
+2023-06-01 11:42:49,497 - Phone number: mathew
+2023-06-01 11:42:49,505 - Resume for liju processed and saved to the database.
+2023-06-01 11:42:49,522 - Processing resume: cv139.txt
+2023-06-01 11:42:49,522 - Name: chirag
+2023-06-01 11:42:49,523 - Phone number: lakhina
+2023-06-01 11:42:49,530 - Resume for chirag processed and saved to the database.
+2023-06-01 11:42:49,536 - Processing resume: cv14.txt
+2023-06-01 11:42:49,536 - Name: jemini
+2023-06-01 11:42:49,536 - Phone number: lad
+2023-06-01 11:42:49,543 - Resume for jemini processed and saved to the database.
+2023-06-01 11:42:49,559 - Processing resume: cv140.txt
+2023-06-01 11:42:49,559 - Name: santhosh
+2023-06-01 11:42:49,559 - Phone number: didigam
+2023-06-01 11:42:49,566 - Resume for santhosh processed and saved to the database.
+2023-06-01 11:42:49,581 - Processing resume: cv141.txt
+2023-06-01 11:42:49,583 - Name: veeral
+2023-06-01 11:42:49,583 - Phone number: bhateja
+2023-06-01 11:42:49,590 - Resume for veeral processed and saved to the database.
+2023-06-01 11:42:49,610 - Processing resume: cv142.txt
+2023-06-01 11:42:49,610 - Name: avik
+2023-06-01 11:42:49,610 - Phone number: da
+2023-06-01 11:42:49,620 - Resume for avik processed and saved to the database.
+2023-06-01 11:42:49,629 - Processing resume: cv143.txt
+2023-06-01 11:42:49,629 - Name: vaibhavi
+2023-06-01 11:42:49,629 - Phone number: khobragade
+2023-06-01 11:42:49,636 - Resume for vaibhavi processed and saved to the database.
+2023-06-01 11:42:49,650 - Processing resume: cv144.txt
+2023-06-01 11:42:49,650 - Name: anjali
+2023-06-01 11:42:49,650 - Phone number: nasini
+2023-06-01 11:42:49,657 - Resume for anjali processed and saved to the database.
+2023-06-01 11:42:49,670 - Processing resume: cv145.txt
+2023-06-01 11:42:49,670 - Name: shraddha
+2023-06-01 11:42:49,670 - Phone number: nagargoje
+2023-06-01 11:42:49,676 - Resume for shraddha processed and saved to the database.
+2023-06-01 11:42:49,684 - Processing resume: cv146.txt
+2023-06-01 11:42:49,684 - Name: priyanka
+2023-06-01 11:42:49,684 - Phone number: bandagale
+2023-06-01 11:42:49,691 - Resume for priyanka processed and saved to the database.
+2023-06-01 11:42:49,700 - Processing resume: cv147.txt
+2023-06-01 11:42:49,700 - Name: neelam
+2023-06-01 11:42:49,700 - Phone number: maurya
+2023-06-01 11:42:49,707 - Resume for neelam processed and saved to the database.
+2023-06-01 11:42:49,717 - Processing resume: cv149.txt
+2023-06-01 11:42:49,717 - Name: n
+2023-06-01 11:42:49,717 - Phone number: n
+2023-06-01 11:42:49,723 - Resume for n processed and saved to the database.
+2023-06-01 11:42:49,736 - Processing resume: cv15.txt
+2023-06-01 11:42:49,736 - Name: bade
+2023-06-01 11:42:49,737 - Phone number: rajesh
+2023-06-01 11:42:49,743 - Resume for bade processed and saved to the database.
+2023-06-01 11:42:49,752 - Processing resume: cv150.txt
+2023-06-01 11:42:49,752 - Name: vaishali
+2023-06-01 11:42:49,752 - Phone number: kale
+2023-06-01 11:42:49,760 - Resume for vaishali processed and saved to the database.
+2023-06-01 11:42:49,777 - Processing resume: cv151.txt
+2023-06-01 11:42:49,777 - Name: mani
+2023-06-01 11:42:49,777 - Phone number: yadav
+2023-06-01 11:42:49,786 - Resume for mani processed and saved to the database.
+2023-06-01 11:42:49,795 - Processing resume: cv152.txt
+2023-06-01 11:42:49,796 - Name: manjula
+2023-06-01 11:42:49,796 - Phone number: bangalore
+2023-06-01 11:42:49,804 - Resume for manjula processed and saved to the database.
+2023-06-01 11:42:49,814 - Processing resume: cv153.txt
+2023-06-01 11:42:49,814 - Name: pranali
+2023-06-01 11:42:49,814 - Phone number: gaikwad
+2023-06-01 11:42:49,821 - Resume for pranali processed and saved to the database.
+2023-06-01 11:42:49,835 - Processing resume: cv154.txt
+2023-06-01 11:42:49,835 - Name: prasannera
+2023-06-01 11:42:49,835 - Phone number: da
+2023-06-01 11:42:49,843 - Resume for prasannera processed and saved to the database.
+2023-06-01 11:42:49,852 - Processing resume: cv155.txt
+2023-06-01 11:42:49,852 - Name: sagar
+2023-06-01 11:42:49,852 - Phone number: banarase
+2023-06-01 11:42:49,860 - Resume for sagar processed and saved to the database.
+2023-06-01 11:42:49,874 - Processing resume: cv156.txt
+2023-06-01 11:42:49,874 - Name: swati
+2023-06-01 11:42:49,874 - Phone number: pushp
+2023-06-01 11:42:49,880 - Resume for swati processed and saved to the database.
+2023-06-01 11:42:49,887 - Processing resume: cv157.txt
+2023-06-01 11:42:49,887 - Name: e
+2023-06-01 11:42:49,887 - Phone number: srinivasulu
+2023-06-01 11:42:49,895 - Resume for e processed and saved to the database.
+2023-06-01 11:42:49,905 - Processing resume: cv158.txt
+2023-06-01 11:42:49,906 - Name: sujith
+2023-06-01 11:42:49,906 - Phone number: chennai
+2023-06-01 11:42:49,912 - Resume for sujith processed and saved to the database.
+2023-06-01 11:42:49,921 - Processing resume: cv16.txt
+2023-06-01 11:42:49,921 - Name: alka
+2023-06-01 11:42:49,921 - Phone number: gupta
+2023-06-01 11:42:49,929 - Resume for alka processed and saved to the database.
+2023-06-01 11:42:49,940 - Processing resume: cv161.txt
+2023-06-01 11:42:49,940 - Name: raj
+2023-06-01 11:42:49,940 - Phone number: kumar
+2023-06-01 11:42:49,948 - Resume for raj processed and saved to the database.
+2023-06-01 11:42:49,955 - Processing resume: cv162.txt
+2023-06-01 11:42:49,955 - Name: shubhada
+2023-06-01 11:42:49,956 - Phone number: jadhav
+2023-06-01 11:42:49,968 - Resume for shubhada processed and saved to the database.
+2023-06-01 11:42:49,979 - Processing resume: cv163.txt
+2023-06-01 11:42:49,979 - Name: bhavani
+2023-06-01 11:42:49,980 - Phone number: vijayawada
+2023-06-01 11:42:49,987 - Resume for bhavani processed and saved to the database.
+2023-06-01 11:42:49,995 - Processing resume: cv164.txt
+2023-06-01 11:42:49,995 - Name: mangesh
+2023-06-01 11:42:49,995 - Phone number: sawant
+2023-06-01 11:42:50,002 - Resume for mangesh processed and saved to the database.
+2023-06-01 11:42:50,011 - Processing resume: cv165.txt
+2023-06-01 11:42:50,012 - Name: shirish
+2023-06-01 11:42:50,012 - Phone number: nakhate
+2023-06-01 11:42:50,017 - Resume for shirish processed and saved to the database.
+2023-06-01 11:42:50,023 - Processing resume: cv166.txt
+2023-06-01 11:42:50,023 - Name: sandeep
+2023-06-01 11:42:50,023 - Phone number: kumar
+2023-06-01 11:42:50,031 - Resume for sandeep processed and saved to the database.
+2023-06-01 11:42:50,035 - Processing resume: cv167.txt
+2023-06-01 11:42:50,035 - Name: front
+2023-06-01 11:42:50,036 - Phone number: end
+2023-06-01 11:42:50,052 - Resume for front processed and saved to the database.
+2023-06-01 11:42:50,061 - Processing resume: cv168.txt
+2023-06-01 11:42:50,061 - Name: surinder
+2023-06-01 11:42:50,061 - Phone number: kumar
+2023-06-01 11:42:50,068 - Resume for surinder processed and saved to the database.
+2023-06-01 11:42:50,080 - Processing resume: cv169.txt
+2023-06-01 11:42:50,080 - Name: abhishek
+2023-06-01 11:42:50,080 - Phone number: sharma
+2023-06-01 11:42:50,087 - Resume for abhishek processed and saved to the database.
+2023-06-01 11:42:50,100 - Processing resume: cv170.txt
+2023-06-01 11:42:50,100 - Name: siddhesh
+2023-06-01 11:42:50,100 - Phone number: vichare
+2023-06-01 11:42:50,108 - Resume for siddhesh processed and saved to the database.
+2023-06-01 11:42:50,120 - Processing resume: cv171.txt
+2023-06-01 11:42:50,120 - Name: preeti
+2023-06-01 11:42:50,120 - Phone number: han
+2023-06-01 11:42:50,129 - Resume for preeti processed and saved to the database.
+2023-06-01 11:42:50,138 - Processing resume: cv172.txt
+2023-06-01 11:42:50,138 - Name: varun
+2023-06-01 11:42:50,138 - Phone number: dev
+2023-06-01 11:42:50,146 - Resume for varun processed and saved to the database.
+2023-06-01 11:42:50,153 - Processing resume: cv173.txt
+2023-06-01 11:42:50,153 - Name: satyam
+2023-06-01 11:42:50,153 - Phone number: dubey
+2023-06-01 11:42:50,161 - Resume for satyam processed and saved to the database.
+2023-06-01 11:42:50,177 - Processing resume: cv174.txt
+2023-06-01 11:42:50,178 - Name: kirubakaran
+2023-06-01 11:42:50,178 - Phone number: srinivasan
+2023-06-01 11:42:50,183 - Resume for kirubakaran processed and saved to the database.
+2023-06-01 11:42:50,190 - Processing resume: cv175.txt
+2023-06-01 11:42:50,190 - Name: sri
+2023-06-01 11:42:50,190 - Phone number: harsha
+2023-06-01 11:42:50,198 - Resume for sri processed and saved to the database.
+2023-06-01 11:42:50,205 - Processing resume: cv176.txt
+2023-06-01 11:42:50,205 - Name: sharan
+2023-06-01 11:42:50,205 - Phone number: puthran
+2023-06-01 11:42:50,212 - Resume for sharan processed and saved to the database.
+2023-06-01 11:42:50,219 - Processing resume: cv177.txt
+2023-06-01 11:42:50,219 - Name: vinoth
+2023-06-01 11:42:50,219 - Phone number: kumar
+2023-06-01 11:42:50,227 - Resume for vinoth processed and saved to the database.
+2023-06-01 11:42:50,239 - Processing resume: cv178.txt
+2023-06-01 11:42:50,239 - Name: surya
+2023-06-01 11:42:50,239 - Phone number: v
+2023-06-01 11:42:50,246 - Resume for surya processed and saved to the database.
+2023-06-01 11:42:50,253 - Processing resume: cv179.txt
+2023-06-01 11:42:50,253 - Name: aravind
+2023-06-01 11:42:50,253 - Phone number: raj
+2023-06-01 11:42:50,260 - Resume for aravind processed and saved to the database.
+2023-06-01 11:42:50,273 - Processing resume: cv18.txt
+2023-06-01 11:42:50,273 - Name: harihara
+2023-06-01 11:42:50,273 - Phone number: manikandan
+2023-06-01 11:42:50,281 - Resume for harihara processed and saved to the database.
+2023-06-01 11:42:50,290 - Processing resume: cv180.txt
+2023-06-01 11:42:50,290 - Name: vipul
+2023-06-01 11:42:50,290 - Phone number: verma
+2023-06-01 11:42:50,296 - Resume for vipul processed and saved to the database.
+2023-06-01 11:42:50,312 - Processing resume: cv181.txt
+2023-06-01 11:42:50,312 - Name: fraheem
+2023-06-01 11:42:50,312 - Phone number: akhtar
+2023-06-01 11:42:50,317 - Resume for fraheem processed and saved to the database.
+2023-06-01 11:42:50,324 - Processing resume: cv182.txt
+2023-06-01 11:42:50,324 - Name: rahul
+2023-06-01 11:42:50,324 - Phone number: tiwari
+2023-06-01 11:42:50,331 - Resume for rahul processed and saved to the database.
+2023-06-01 11:42:50,341 - Processing resume: cv183.txt
+2023-06-01 11:42:50,341 - Name: babu
+2023-06-01 11:42:50,341 - Phone number: kanchipuram
+2023-06-01 11:42:50,347 - Resume for babu processed and saved to the database.
+2023-06-01 11:42:50,352 - Processing resume: cv184.txt
+2023-06-01 11:42:50,352 - Name: naman
+2023-06-01 11:42:50,352 - Phone number: bajaj
+2023-06-01 11:42:50,358 - Resume for naman processed and saved to the database.
+2023-06-01 11:42:50,366 - Processing resume: cv185.txt
+2023-06-01 11:42:50,366 - Name: arun
+2023-06-01 11:42:50,366 - Phone number: sundarapandian
+2023-06-01 11:42:50,372 - Resume for arun processed and saved to the database.
+2023-06-01 11:42:50,381 - Processing resume: cv186.txt
+2023-06-01 11:42:50,381 - Name: mohit
+2023-06-01 11:42:50,381 - Phone number: verma
+2023-06-01 11:42:50,387 - Resume for mohit processed and saved to the database.
+2023-06-01 11:42:50,396 - Processing resume: cv187.txt
+2023-06-01 11:42:50,396 - Name: sneha
+2023-06-01 11:42:50,396 - Phone number: singh
+2023-06-01 11:42:50,401 - Resume for sneha processed and saved to the database.
+2023-06-01 11:42:50,414 - Processing resume: cv188.txt
+2023-06-01 11:42:50,415 - Name: mohammed
+2023-06-01 11:42:50,415 - Phone number: yaqoob
+2023-06-01 11:42:50,420 - Resume for mohammed processed and saved to the database.
+2023-06-01 11:42:50,431 - Processing resume: cv189.txt
+2023-06-01 11:42:50,431 - Name: rahul
+2023-06-01 11:42:50,431 - Phone number: sharma
+2023-06-01 11:42:50,431 - Resume for rahul is already processed. Skipping...
+2023-06-01 11:42:50,440 - Processing resume: cv19.txt
+2023-06-01 11:42:50,440 - Name: amit
+2023-06-01 11:42:50,441 - Phone number: ekbote
+2023-06-01 11:42:50,448 - Resume for amit processed and saved to the database.
+2023-06-01 11:42:50,456 - Processing resume: cv190.txt
+2023-06-01 11:42:50,456 - Name: sonu
+2023-06-01 11:42:50,457 - Phone number: sahu
+2023-06-01 11:42:50,465 - Resume for sonu processed and saved to the database.
+2023-06-01 11:42:50,483 - Processing resume: cv191.txt
+2023-06-01 11:42:50,483 - Name: jay
+2023-06-01 11:42:50,483 - Phone number: kavathiya
+2023-06-01 11:42:50,489 - Resume for jay processed and saved to the database.
+2023-06-01 11:42:50,507 - Processing resume: cv192.txt
+2023-06-01 11:42:50,507 - Name: hiren
+2023-06-01 11:42:50,507 - Phone number: patel
+2023-06-01 11:42:50,516 - Resume for hiren processed and saved to the database.
+2023-06-01 11:42:50,524 - Processing resume: cv193.txt
+2023-06-01 11:42:50,524 - Name: rajni
+2023-06-01 11:42:50,524 - Phone number: sharma
+2023-06-01 11:42:50,533 - Resume for rajni processed and saved to the database.
+2023-06-01 11:42:50,540 - Processing resume: cv194.txt
+2023-06-01 11:42:50,540 - Name: arfath
+2023-06-01 11:42:50,540 - Phone number: shariff
+2023-06-01 11:42:50,548 - Resume for arfath processed and saved to the database.
+2023-06-01 11:42:50,565 - Processing resume: cv195.txt
+2023-06-01 11:42:50,565 - Name: kumar
+2023-06-01 11:42:50,565 - Phone number: gangula
+2023-06-01 11:42:50,571 - Resume for kumar processed and saved to the database.
+2023-06-01 11:42:50,581 - Processing resume: cv196.txt
+2023-06-01 11:42:50,581 - Name: atul
+2023-06-01 11:42:50,582 - Phone number: kumar
+2023-06-01 11:42:50,589 - Resume for atul processed and saved to the database.
+2023-06-01 11:42:50,606 - Processing resume: cv197.txt
+2023-06-01 11:42:50,606 - Name: ishwar
+2023-06-01 11:42:50,606 - Phone number: deoolkar
+2023-06-01 11:42:50,614 - Resume for ishwar processed and saved to the database.
+2023-06-01 11:42:50,623 - Processing resume: cv198.txt
+2023-06-01 11:42:50,623 - Name: rajesh
+2023-06-01 11:42:50,623 - Phone number: kumar
+2023-06-01 11:42:50,630 - Resume for rajesh processed and saved to the database.
+2023-06-01 11:42:50,646 - Processing resume: cv199.txt
+2023-06-01 11:42:50,646 - Name: ravi
+2023-06-01 11:42:50,646 - Phone number: front
+2023-06-01 11:42:50,652 - Resume for ravi processed and saved to the database.
+2023-06-01 11:42:50,652 - Processing resume: cv2.txt
+2023-06-01 11:42:50,652 - Name: puneet
+2023-06-01 11:42:50,653 - Phone number: singh
+2023-06-01 11:42:50,659 - Resume for puneet processed and saved to the database.
+2023-06-01 11:42:50,667 - Processing resume: cv20.txt
+2023-06-01 11:42:50,668 - Name: nilkanth
+2023-06-01 11:42:50,668 - Phone number: jagtap
+2023-06-01 11:42:50,674 - Resume for nilkanth processed and saved to the database.
+2023-06-01 11:42:50,686 - Processing resume: cv200.txt
+2023-06-01 11:42:50,686 - Name: ram
+2023-06-01 11:42:50,686 - Phone number: mahto
+2023-06-01 11:42:50,691 - Resume for ram processed and saved to the database.
+2023-06-01 11:42:50,707 - Processing resume: cv201.txt
+2023-06-01 11:42:50,707 - Name: prudhvi
+2023-06-01 11:42:50,707 - Phone number: dharmavarapu
+2023-06-01 11:42:50,713 - Resume for prudhvi processed and saved to the database.
+2023-06-01 11:42:50,720 - Processing resume: cv202.txt
+2023-06-01 11:42:50,720 - Name: gauri
+2023-06-01 11:42:50,720 - Phone number: kejkar
+2023-06-01 11:42:50,728 - Resume for gauri processed and saved to the database.
+2023-06-01 11:42:50,738 - Processing resume: cv203.txt
+2023-06-01 11:42:50,738 - Name: java
+2023-06-01 11:42:50,738 - Phone number: developer
+2023-06-01 11:42:50,744 - Resume for java processed and saved to the database.
+2023-06-01 11:42:50,761 - Processing resume: cv204.txt
+2023-06-01 11:42:50,761 - Name: santosh
+2023-06-01 11:42:50,761 - Phone number: java
+2023-06-01 11:42:50,767 - Resume for santosh processed and saved to the database.
+2023-06-01 11:42:50,794 - Processing resume: cv205.txt
+2023-06-01 11:42:50,795 - Name: shashank
+2023-06-01 11:42:50,795 - Phone number: java
+2023-06-01 11:42:50,801 - Resume for shashank processed and saved to the database.
+2023-06-01 11:42:50,810 - Processing resume: cv206.txt
+2023-06-01 11:42:50,810 - Name: linda
+2023-06-01 11:42:50,810 - Phone number: paul
+2023-06-01 11:42:50,817 - Resume for linda processed and saved to the database.
+2023-06-01 11:42:50,832 - Processing resume: cv207.txt
+2023-06-01 11:42:50,832 - Name: divya
+2023-06-01 11:42:50,832 - Phone number: sr
+2023-06-01 11:42:50,839 - Resume for divya processed and saved to the database.
+2023-06-01 11:42:50,849 - Processing resume: cv208.txt
+2023-06-01 11:42:50,849 - Name: sushil
+2023-06-01 11:42:50,849 - Phone number: saini
+2023-06-01 11:42:50,857 - Resume for sushil processed and saved to the database.
+2023-06-01 11:42:50,870 - Processing resume: cv209.txt
+2023-06-01 11:42:50,870 - Name: nikhil
+2023-06-01 11:42:50,870 - Phone number: sharma
+2023-06-01 11:42:50,876 - Resume for nikhil processed and saved to the database.
+2023-06-01 11:42:50,886 - Processing resume: cv21.txt
+2023-06-01 11:42:50,886 - Name: arjun
+2023-06-01 11:42:50,886 - Phone number: reddy
+2023-06-01 11:42:50,893 - Resume for arjun processed and saved to the database.
+2023-06-01 11:42:50,899 - Processing resume: cv210.txt
+2023-06-01 11:42:50,899 - Name: anshuman
+2023-06-01 11:42:50,899 - Phone number: yadav
+2023-06-01 11:42:50,906 - Resume for anshuman processed and saved to the database.
+2023-06-01 11:42:50,913 - Processing resume: cv211.txt
+2023-06-01 11:42:50,913 - Name: dhruv
+2023-06-01 11:42:50,913 - Phone number: singh
+2023-06-01 11:42:50,920 - Resume for dhruv processed and saved to the database.
+2023-06-01 11:42:50,924 - Processing resume: cv212.txt
+2023-06-01 11:42:50,925 - Name: sanjay
+2023-06-01 11:42:50,925 - Phone number: jain
+2023-06-01 11:42:50,932 - Resume for sanjay processed and saved to the database.
+2023-06-01 11:42:50,939 - Processing resume: cv213.txt
+2023-06-01 11:42:50,939 - Name: mounisha
+2023-06-01 11:42:50,940 - Phone number: maity
+2023-06-01 11:42:50,946 - Resume for mounisha processed and saved to the database.
+2023-06-01 11:42:50,956 - Processing resume: cv214.txt
+2023-06-01 11:42:50,956 - Name: nitin
+2023-06-01 11:42:50,956 - Phone number: mhangare
+2023-06-01 11:42:50,963 - Resume for nitin processed and saved to the database.
+2023-06-01 11:42:50,981 - Processing resume: cv215.txt
+2023-06-01 11:42:50,981 - Name: shravani
+2023-06-01 11:42:50,981 - Phone number: javaj2ee
+2023-06-01 11:42:50,987 - Resume for shravani processed and saved to the database.
+2023-06-01 11:42:50,996 - Processing resume: cv216.txt
+2023-06-01 11:42:50,997 - Name: jhansi
+2023-06-01 11:42:50,997 - Phone number: kompalli
+2023-06-01 11:42:51,004 - Resume for jhansi processed and saved to the database.
+2023-06-01 11:42:51,013 - Processing resume: cv218.txt
+2023-06-01 11:42:51,013 - Name: deepak
+2023-06-01 11:42:51,013 - Phone number: jadhav
+2023-06-01 11:42:51,020 - Resume for deepak processed and saved to the database.
+2023-06-01 11:42:51,032 - Processing resume: cv219.txt
+2023-06-01 11:42:51,033 - Name: bhujbal
+2023-06-01 11:42:51,033 - Phone number: gurudev
+2023-06-01 11:42:51,041 - Resume for bhujbal processed and saved to the database.
+2023-06-01 11:42:51,048 - Processing resume: cv22.txt
+2023-06-01 11:42:51,048 - Name: ankit
+2023-06-01 11:42:51,048 - Phone number: mittal
+2023-06-01 11:42:51,055 - Resume for ankit processed and saved to the database.
+2023-06-01 11:42:51,063 - Processing resume: cv221.txt
+2023-06-01 11:42:51,063 - Name: reshma
+2023-06-01 11:42:51,063 - Phone number: manu
+2023-06-01 11:42:51,101 - Resume for reshma processed and saved to the database.
+2023-06-01 11:42:51,109 - Processing resume: cv222.txt
+2023-06-01 11:42:51,109 - Name: dilip
+2023-06-01 11:42:51,109 - Phone number: sambare
+2023-06-01 11:42:51,117 - Resume for dilip processed and saved to the database.
+2023-06-01 11:42:51,126 - Processing resume: cv223.txt
+2023-06-01 11:42:51,126 - Name: k
+2023-06-01 11:42:51,127 - Phone number: janmitha
+2023-06-01 11:42:51,134 - Resume for k processed and saved to the database.
+2023-06-01 11:42:51,140 - Processing resume: cv224.txt
+2023-06-01 11:42:51,140 - Name: praveen
+2023-06-01 11:42:51,140 - Phone number: kalyani
+2023-06-01 11:42:51,147 - Resume for praveen processed and saved to the database.
+2023-06-01 11:42:51,153 - Processing resume: cv225.txt
+2023-06-01 11:42:51,153 - Name: jhansi
+2023-06-01 11:42:51,153 - Phone number: reddy
+2023-06-01 11:42:51,153 - Resume for jhansi is already processed. Skipping...
+2023-06-01 11:42:51,158 - Processing resume: cv227.txt
+2023-06-01 11:42:51,158 - Name: gaurav
+2023-06-01 11:42:51,158 - Phone number: khairnar
+2023-06-01 11:42:51,165 - Resume for gaurav processed and saved to the database.
+2023-06-01 11:42:51,170 - Processing resume: cv228.txt
+2023-06-01 11:42:51,170 - Name: swapna
+2023-06-01 11:42:51,170 - Phone number: b
+2023-06-01 11:42:51,175 - Resume for swapna processed and saved to the database.
+2023-06-01 11:42:51,183 - Processing resume: cv229.txt
+2023-06-01 11:42:51,183 - Name: soniya
+2023-06-01 11:42:51,183 - Phone number: rani
+2023-06-01 11:42:51,189 - Resume for soniya processed and saved to the database.
+2023-06-01 11:42:51,196 - Processing resume: cv23.txt
+2023-06-01 11:42:51,196 - Name: jitendra
+2023-06-01 11:42:51,196 - Phone number: agarwal
+2023-06-01 11:42:51,202 - Resume for jitendra processed and saved to the database.
+2023-06-01 11:42:51,215 - Processing resume: cv230.txt
+2023-06-01 11:42:51,215 - Name: sahil
+2023-06-01 11:42:51,215 - Phone number: sheoran
+2023-06-01 11:42:51,221 - Resume for sahil processed and saved to the database.
+2023-06-01 11:42:51,231 - Processing resume: cv231.txt
+2023-06-01 11:42:51,231 - Name: mansi
+2023-06-01 11:42:51,231 - Phone number: jain
+2023-06-01 11:42:51,237 - Resume for mansi processed and saved to the database.
+2023-06-01 11:42:51,246 - Processing resume: cv232.txt
+2023-06-01 11:42:51,246 - Name: sandeep
+2023-06-01 11:42:51,246 - Phone number: jhalani
+2023-06-01 11:42:51,246 - Resume for sandeep is already processed. Skipping...
+2023-06-01 11:42:51,255 - Processing resume: cv233.txt
+2023-06-01 11:42:51,255 - Name: rucha
+2023-06-01 11:42:51,255 - Phone number: parab
+2023-06-01 11:42:51,262 - Resume for rucha processed and saved to the database.
+2023-06-01 11:42:51,269 - Processing resume: cv234.txt
+2023-06-01 11:42:51,269 - Name: gayatri
+2023-06-01 11:42:51,269 - Phone number: joshi
+2023-06-01 11:42:51,275 - Resume for gayatri processed and saved to the database.
+2023-06-01 11:42:51,282 - Processing resume: cv235.txt
+2023-06-01 11:42:51,282 - Name: manoj
+2023-06-01 11:42:51,282 - Phone number: ghadiya
+2023-06-01 11:42:51,289 - Resume for manoj processed and saved to the database.
+2023-06-01 11:42:51,296 - Processing resume: cv237.txt
+2023-06-01 11:42:51,296 - Name: shahabuddin
+2023-06-01 11:42:51,296 - Phone number: ansari
+2023-06-01 11:42:51,304 - Resume for shahabuddin processed and saved to the database.
+2023-06-01 11:42:51,316 - Processing resume: cv238.txt
+2023-06-01 11:42:51,316 - Name: dinesh
+2023-06-01 11:42:51,316 - Phone number: maharajan
+2023-06-01 11:42:51,321 - Resume for dinesh processed and saved to the database.
+2023-06-01 11:42:51,329 - Processing resume: cv239.txt
+2023-06-01 11:42:51,329 - Name: praveen
+2023-06-01 11:42:51,329 - Phone number: kiumar
+2023-06-01 11:42:51,330 - Resume for praveen is already processed. Skipping...
+2023-06-01 11:42:51,336 - Processing resume: cv24.txt
+2023-06-01 11:42:51,336 - Name: tati
+2023-06-01 11:42:51,336 - Phone number: sailakshmi
+2023-06-01 11:42:51,343 - Resume for tati processed and saved to the database.
+2023-06-01 11:42:51,355 - Processing resume: cv240.txt
+2023-06-01 11:42:51,356 - Name: rohan
+2023-06-01 11:42:51,356 - Phone number: rane
+2023-06-01 11:42:51,361 - Resume for rohan processed and saved to the database.
+2023-06-01 11:42:51,370 - Processing resume: cv241.txt
+2023-06-01 11:42:51,371 - Name: syed
+2023-06-01 11:42:51,371 - Phone number: uzair
+2023-06-01 11:42:51,376 - Resume for syed processed and saved to the database.
+2023-06-01 11:42:51,389 - Processing resume: cv242.txt
+2023-06-01 11:42:51,389 - Name: smitesh
+2023-06-01 11:42:51,389 - Phone number: chandane
+2023-06-01 11:42:51,394 - Resume for smitesh processed and saved to the database.
+2023-06-01 11:42:51,403 - Processing resume: cv243.txt
+2023-06-01 11:42:51,403 - Name: pendyala
+2023-06-01 11:42:51,403 - Phone number: prathyusha
+2023-06-01 11:42:51,409 - Resume for pendyala processed and saved to the database.
+2023-06-01 11:42:51,422 - Processing resume: cv244.txt
+2023-06-01 11:42:51,422 - Name: nayan
+2023-06-01 11:42:51,422 - Phone number: pattanayak
+2023-06-01 11:42:51,427 - Resume for nayan processed and saved to the database.
+2023-06-01 11:42:51,435 - Processing resume: cv245.txt
+2023-06-01 11:42:51,435 - Name: pratibha
+2023-06-01 11:42:51,435 - Phone number: kohinkar
+2023-06-01 11:42:51,442 - Resume for pratibha processed and saved to the database.
+2023-06-01 11:42:51,448 - Processing resume: cv246.txt
+2023-06-01 11:42:51,448 - Name: nasrin
+2023-06-01 11:42:51,448 - Phone number: mulani
+2023-06-01 11:42:51,455 - Resume for nasrin processed and saved to the database.
+2023-06-01 11:42:51,463 - Processing resume: cv247.txt
+2023-06-01 11:42:51,463 - Name: balaji
+2023-06-01 11:42:51,463 - Phone number: mekle
+2023-06-01 11:42:51,470 - Resume for balaji processed and saved to the database.
+2023-06-01 11:42:51,479 - Processing resume: cv249.txt
+2023-06-01 11:42:51,479 - Name: tarique
+2023-06-01 11:42:51,479 - Phone number: faisal
+2023-06-01 11:42:51,486 - Resume for tarique processed and saved to the database.
+2023-06-01 11:42:51,493 - Processing resume: cv25.txt
+2023-06-01 11:42:51,493 - Name: puja
+2023-06-01 11:42:51,493 - Phone number: deshmane
+2023-06-01 11:42:51,499 - Resume for puja processed and saved to the database.
+2023-06-01 11:42:51,510 - Processing resume: cv250.txt
+2023-06-01 11:42:51,511 - Name: parveen
+2023-06-01 11:42:51,511 - Phone number: kaur
+2023-06-01 11:42:51,515 - Resume for parveen processed and saved to the database.
+2023-06-01 11:42:51,525 - Processing resume: cv26.txt
+2023-06-01 11:42:51,525 - Name: sachin
+2023-06-01 11:42:51,525 - Phone number: kulkarni
+2023-06-01 11:42:51,531 - Resume for sachin processed and saved to the database.
+2023-06-01 11:42:51,549 - Processing resume: cv27.txt
+2023-06-01 11:42:51,549 - Name: varsha
+2023-06-01 11:42:51,549 - Phone number: jagtap
+2023-06-01 11:42:51,556 - Resume for varsha processed and saved to the database.
+2023-06-01 11:42:51,568 - Processing resume: cv28.txt
+2023-06-01 11:42:51,568 - Name: mangesh
+2023-06-01 11:42:51,569 - Phone number: piprewar
+2023-06-01 11:42:51,569 - Resume for mangesh is already processed. Skipping...
+2023-06-01 11:42:51,579 - Processing resume: cv29.txt
+2023-06-01 11:42:51,580 - Name: rizwana
+2023-06-01 11:42:51,580 - Phone number: pulujakar
+2023-06-01 11:42:51,587 - Resume for rizwana processed and saved to the database.
+2023-06-01 11:42:51,597 - Processing resume: cv30.txt
+2023-06-01 11:42:51,597 - Name: gandhi
+2023-06-01 11:42:51,597 - Phone number: gautam
+2023-06-01 11:42:51,602 - Resume for gandhi processed and saved to the database.
+2023-06-01 11:42:51,608 - Processing resume: cv31.txt
+2023-06-01 11:42:51,608 - Name: upasna
+2023-06-01 11:42:51,608 - Phone number: upadhayay
+2023-06-01 11:42:51,614 - Resume for upasna processed and saved to the database.
+2023-06-01 11:42:51,619 - Processing resume: cv32.txt
+2023-06-01 11:42:51,619 - Name: mahima
+2023-06-01 11:42:51,619 - Phone number: kad
+2023-06-01 11:42:51,624 - Resume for mahima processed and saved to the database.
+2023-06-01 11:42:51,632 - Processing resume: cv33.txt
+2023-06-01 11:42:51,632 - Name: samadhan
+2023-06-01 11:42:51,632 - Phone number: kadam
+2023-06-01 11:42:51,639 - Resume for samadhan processed and saved to the database.
+2023-06-01 11:42:51,645 - Processing resume: cv34.txt
+2023-06-01 11:42:51,646 - Name: dhanshree
+2023-06-01 11:42:51,646 - Phone number: jagtap
+2023-06-01 11:42:51,652 - Resume for dhanshree processed and saved to the database.
+2023-06-01 11:42:51,657 - Processing resume: cv35.txt
+2023-06-01 11:42:51,657 - Name: nidhi
+2023-06-01 11:42:51,657 - Phone number: mishra
+2023-06-01 11:42:51,671 - Resume for nidhi processed and saved to the database.
+2023-06-01 11:42:51,680 - Processing resume: cv36.txt
+2023-06-01 11:42:51,680 - Name: yogita
+2023-06-01 11:42:51,680 - Phone number: awate
+2023-06-01 11:42:51,688 - Resume for yogita processed and saved to the database.
+2023-06-01 11:42:51,697 - Processing resume: cv37.txt
+2023-06-01 11:42:51,697 - Name: philson
+2023-06-01 11:42:51,697 - Phone number: coimbatore
+2023-06-01 11:42:51,704 - Resume for philson processed and saved to the database.
+2023-06-01 11:42:51,712 - Processing resume: cv38.txt
+2023-06-01 11:42:51,712 - Name: shaheera
+2023-06-01 11:42:51,712 - Phone number: viralippurath
+2023-06-01 11:42:51,719 - Resume for shaheera processed and saved to the database.
+2023-06-01 11:42:51,724 - Processing resume: cv39.txt
+2023-06-01 11:42:51,724 - Name: pooja
+2023-06-01 11:42:51,724 - Phone number: yejare
+2023-06-01 11:42:51,731 - Resume for pooja processed and saved to the database.
+2023-06-01 11:42:51,740 - Processing resume: cv4.txt
+2023-06-01 11:42:51,740 - Name: poonam
+2023-06-01 11:42:51,740 - Phone number: sonawane
+2023-06-01 11:42:51,747 - Resume for poonam processed and saved to the database.
+2023-06-01 11:42:51,773 - Processing resume: cv40.txt
+2023-06-01 11:42:51,773 - Name: balaji
+2023-06-01 11:42:51,773 - Phone number: shivankar
+2023-06-01 11:42:51,773 - Resume for balaji is already processed. Skipping...
+2023-06-01 11:42:51,782 - Processing resume: cv41.txt
+2023-06-01 11:42:51,782 - Name: raja
+2023-06-01 11:42:51,783 - Phone number: auddy
+2023-06-01 11:42:51,789 - Resume for raja processed and saved to the database.
+2023-06-01 11:42:51,796 - Processing resume: cv42.txt
+2023-06-01 11:42:51,796 - Name: kedar
+2023-06-01 11:42:51,796 - Phone number: magdum
+2023-06-01 11:42:51,802 - Resume for kedar processed and saved to the database.
+2023-06-01 11:42:51,809 - Processing resume: cv43.txt
+2023-06-01 11:42:51,809 - Name: mohammed
+2023-06-01 11:42:51,809 - Phone number: huzaifa
+2023-06-01 11:42:51,809 - Resume for mohammed is already processed. Skipping...
+2023-06-01 11:42:51,817 - Processing resume: cv44.txt
+2023-06-01 11:42:51,818 - Name: swati
+2023-06-01 11:42:51,818 - Phone number: tyagi
+2023-06-01 11:42:51,818 - Resume for swati is already processed. Skipping...
+2023-06-01 11:42:51,825 - Processing resume: cv45.txt
+2023-06-01 11:42:51,826 - Name: kumar
+2023-06-01 11:42:51,826 - Phone number: software
+2023-06-01 11:42:51,826 - Resume for kumar is already processed. Skipping...
+2023-06-01 11:42:51,831 - Processing resume: cv46.txt
+2023-06-01 11:42:51,831 - Name: maria
+2023-06-01 11:42:51,831 - Phone number: coimbatore
+2023-06-01 11:42:51,837 - Resume for maria processed and saved to the database.
+2023-06-01 11:42:51,851 - Processing resume: cv47.txt
+2023-06-01 11:42:51,851 - Name: nithin
+2023-06-01 11:42:51,851 - Phone number: b
+2023-06-01 11:42:51,857 - Resume for nithin processed and saved to the database.
+2023-06-01 11:42:51,873 - Processing resume: cv48.txt
+2023-06-01 11:42:51,874 - Name: nisha
+2023-06-01 11:42:51,874 - Phone number: shinge
+2023-06-01 11:42:51,881 - Resume for nisha processed and saved to the database.
+2023-06-01 11:42:51,888 - Processing resume: cv49.txt
+2023-06-01 11:42:51,888 - Name: mahesh
+2023-06-01 11:42:51,888 - Phone number: chavan
+2023-06-01 11:42:51,894 - Resume for mahesh processed and saved to the database.
+2023-06-01 11:42:51,903 - Processing resume: cv5.txt
+2023-06-01 11:42:51,903 - Name: neeraj
+2023-06-01 11:42:51,903 - Phone number: kumar
+2023-06-01 11:42:51,909 - Resume for neeraj processed and saved to the database.
+2023-06-01 11:42:51,917 - Processing resume: cv50.txt
+2023-06-01 11:42:51,917 - Name: shruti
+2023-06-01 11:42:51,917 - Phone number: patil
+2023-06-01 11:42:51,927 - Resume for shruti processed and saved to the database.
+2023-06-01 11:42:51,932 - Processing resume: cv51.txt
+2023-06-01 11:42:51,933 - Name: chinnu
+2023-06-01 11:42:51,933 - Phone number: b
+2023-06-01 11:42:51,939 - Resume for chinnu processed and saved to the database.
+2023-06-01 11:42:51,946 - Processing resume: cv52.txt
+2023-06-01 11:42:51,946 - Name: resume
+2023-06-01 11:42:51,946 - Phone number: rahul
+2023-06-01 11:42:51,955 - Resume for resume processed and saved to the database.
+2023-06-01 11:42:51,972 - Processing resume: cv54.txt
+2023-06-01 11:42:51,972 - Name: resume
+2023-06-01 11:42:51,972 - Phone number: soham
+2023-06-01 11:42:51,972 - Resume for resume is already processed. Skipping...

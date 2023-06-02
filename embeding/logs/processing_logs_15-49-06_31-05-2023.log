@@ -1,0 +1,7 @@
+2023-05-31 15:49:09,619 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2023-05-31 15:49:09,637 - Successfully imported ClickHouse Connect C data optimizations
+2023-05-31 15:49:09,638 - Successfully import ClickHouse Connect C/Numpy optimizations
+2023-05-31 15:49:09,648 - Using orjson library for writing JSON byte strings
+2023-05-31 15:49:09,694 - loaded in 185 embeddings
+2023-05-31 15:49:09,697 - loaded in 1 collections
+2023-05-31 15:49:09,698 - Persisting DB to disk, putting it in the save folder: ./store/

@@ -1,0 +1,4 @@
+2023-05-31 15:41:57,925 - Anonymized telemetry enabled. See https://docs.trychroma.com/telemetry for more information.
+2023-05-31 15:41:57,946 - Successfully imported ClickHouse Connect C data optimizations
+2023-05-31 15:41:57,947 - Successfully import ClickHouse Connect C/Numpy optimizations
+2023-05-31 15:41:57,960 - Using orjson library for writing JSON byte strings
