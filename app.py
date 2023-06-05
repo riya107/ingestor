@@ -9,6 +9,12 @@ load_dotenv()
 
 app = Flask(__name__)
 
+if not os.path.exists(config.RESUMES_PATH):
+    os.makedirs(config.RESUMES_PATH)
+
+if not os.path.exists(config.VECTORDB_PATH):
+    os.makedirs(config.VECTORDB_PATH)
+
 @app.route('/upload', methods=['POST'])
 def upload_resumes():
     if 'resumes' not in request.files:
