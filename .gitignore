@@ -3,3 +3,7 @@ __pycache__
 datastore
 resumes
 logs
+docsearch
+documents
+embeddings_store
+typesense-server
